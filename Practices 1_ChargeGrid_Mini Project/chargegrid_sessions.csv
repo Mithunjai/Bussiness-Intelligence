@@ -1,0 +1,1801 @@
+session_id,date,city,station_id,charger_type,connector_type,user_type,energy_kwh,duration_min,cost,day_of_week,time_slot,weather
+1,2026-05-01,Coimbatore,COI-06,DC Fast,CCS2,Pay-as-you-go,14.23,22.8,140.65,Friday,Night,Clear
+2,2026-05-01,Coimbatore,COI-03,AC Slow,CHAdeMO,Subscriber,22.48,57.8,226.69,Friday,Morning,Rain
+3,2026-05-01,Coimbatore,COI-01,AC Slow,Type 2,Subscriber,23.6,59.5,273.78,Friday,Evening,Clear
+4,2026-05-01,Coimbatore,COI-07,AC Slow,Type 2,Pay-as-you-go,19.81,58.8,236.57,Friday,Evening,Clear
+5,2026-05-01,Coimbatore,COI-03,DC Fast,CCS2,Subscriber,14.48,26.4,149.39,Friday,Evening,Cloudy
+6,2026-05-01,Chennai,CHE-05,DC Fast,CCS2,Pay-as-you-go,13.69,24.3,140.57,Friday,Night,Clear
+7,2026-05-01,Chennai,CHE-01,AC Slow,CHAdeMO,Subscriber,18.47,53.0,212.19,Friday,Morning,Cloudy
+8,2026-05-01,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,11.29,23.9,135.35,Friday,Evening,Clear
+9,2026-05-01,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,9.72,15.4,95.41,Friday,Morning,Clear
+10,2026-05-01,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,16.21,56.4,182.74,Friday,Morning,Clear
+11,2026-05-01,Bengaluru,BEN-04,AC Slow,Type 2,Subscriber,16.75,50.4,185.44,Friday,Morning,Clear
+12,2026-05-01,Bengaluru,BEN-01,DC Fast,CCS2,Pay-as-you-go,12.16,21.4,134.28,Friday,Evening,Clear
+13,2026-05-01,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,18.32,52.8,196.95,Friday,Morning,Clear
+14,2026-05-01,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,16.08,24.6,190.45,Friday,Morning,Clear
+15,2026-05-01,Bengaluru,BEN-07,DC Fast,CCS2,Pay-as-you-go,15.76,27.0,187.61,Friday,Morning,Clear
+16,2026-05-02,Coimbatore,COI-03,DC Fast,CCS2,Subscriber,16.0,33.7,158.44,Saturday,Afternoon,Clear
+17,2026-05-02,Coimbatore,COI-03,DC Fast,CCS2,Subscriber,6.43,11.8,73.16,Saturday,Afternoon,Rain
+18,2026-05-02,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,13.12,28.5,135.68,Saturday,Morning,Clear
+19,2026-05-02,Coimbatore,COI-05,AC Slow,Type 2,Subscriber,14.11,42.5,140.55,Saturday,Morning,Rain
+20,2026-05-02,Chennai,CHE-04,DC Fast,CCS2,Subscriber,23.63,42.5,278.97,Saturday,Evening,Clear
+21,2026-05-02,Chennai,CHE-06,DC Fast,CCS2,Subscriber,14.44,25.8,160.2,Saturday,Evening,Cloudy
+22,2026-05-02,Chennai,CHE-04,AC Slow,Type 2,Pay-as-you-go,22.15,65.6,263.17,Saturday,Night,Clear
+23,2026-05-02,Chennai,CHE-04,AC Slow,Type 2,Pay-as-you-go,24.22,77.3,292.05,Saturday,Afternoon,Clear
+24,2026-05-02,Chennai,CHE-05,DC Fast,CCS2,Subscriber,13.13,20.3,132.12,Saturday,Afternoon,Clear
+25,2026-05-02,Chennai,CHE-05,AC Slow,CHAdeMO,Pay-as-you-go,28.14,73.3,317.2,Saturday,Afternoon,Clear
+26,2026-05-02,Bengaluru,BEN-05,AC Slow,Type 2,Subscriber,16.29,48.8,157.71,Saturday,Morning,Clear
+27,2026-05-02,Bengaluru,BEN-02,AC Slow,Type 2,Subscriber,21.04,52.9,216.31,Saturday,Afternoon,Clear
+28,2026-05-02,Bengaluru,BEN-07,AC Slow,Type 2,Subscriber,17.93,47.3,210.06,Saturday,Afternoon,Clear
+29,2026-05-02,Bengaluru,BEN-01,AC Slow,CHAdeMO,Subscriber,15.26,47.5,175.35,Saturday,Morning,Clear
+30,2026-05-02,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,20.18,55.2,225.22,Saturday,Night,Clear
+31,2026-05-02,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,12.82,23.9,148.04,Saturday,Morning,Clear
+32,2026-05-02,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,22.26,54.8,277.22,Saturday,Evening,Clear
+33,2026-05-03,Coimbatore,COI-06,AC Slow,CHAdeMO,Subscriber,22.18,61.3,259.63,Sunday,Afternoon,Clear
+34,2026-05-03,Coimbatore,COI-05,AC Slow,CHAdeMO,Subscriber,21.86,53.1,265.9,Sunday,Afternoon,Clear
+35,2026-05-03,Coimbatore,COI-01,AC Slow,CHAdeMO,Subscriber,16.0,53.6,158.03,Sunday,Evening,Clear
+36,2026-05-03,Coimbatore,COI-02,AC Slow,CHAdeMO,Subscriber,16.2,52.9,201.95,Sunday,Afternoon,Clear
+37,2026-05-03,Coimbatore,COI-02,DC Fast,CCS2,Subscriber,6.89,15.0,72.53,Sunday,Night,Clear
+38,2026-05-03,Chennai,CHE-06,DC Fast,CCS2,Subscriber,20.04,41.1,231.15,Sunday,Evening,Rain
+39,2026-05-03,Chennai,CHE-04,AC Slow,Type 2,Subscriber,21.93,59.0,251.95,Sunday,Morning,Clear
+40,2026-05-03,Chennai,CHE-03,AC Slow,Type 2,Subscriber,13.95,46.8,144.04,Sunday,Night,Rain
+41,2026-05-03,Chennai,CHE-06,DC Fast,CCS2,Subscriber,8.61,19.0,92.13,Sunday,Afternoon,Cloudy
+42,2026-05-03,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,14.36,51.1,150.9,Sunday,Night,Cloudy
+43,2026-05-03,Chennai,CHE-04,DC Fast,CCS2,Subscriber,10.02,20.4,99.82,Sunday,Morning,Rain
+44,2026-05-03,Chennai,CHE-05,DC Fast,CCS2,Subscriber,11.61,20.3,127.74,Sunday,Afternoon,Cloudy
+45,2026-05-03,Chennai,CHE-03,DC Fast,CCS2,Pay-as-you-go,36.77,70.8,400.19,Sunday,Evening,Cloudy
+46,2026-05-03,Chennai,CHE-06,AC Slow,Type 2,Pay-as-you-go,26.36,81.1,309.64,Sunday,Evening,Clear
+47,2026-05-03,Chennai,CHE-06,AC Slow,CHAdeMO,Subscriber,19.25,65.7,205.66,Sunday,Evening,Cloudy
+48,2026-05-03,Chennai,CHE-05,AC Slow,CHAdeMO,Pay-as-you-go,24.33,78.7,285.99,Sunday,Evening,Clear
+49,2026-05-03,Bengaluru,BEN-03,AC Slow,Type 2,Pay-as-you-go,23.41,63.2,234.47,Sunday,Morning,Clear
+50,2026-05-03,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,9.31,19.1,92.21,Sunday,Afternoon,Clear
+51,2026-05-03,Bengaluru,BEN-04,DC Fast,CCS2,Pay-as-you-go,8.51,17.9,102.61,Sunday,Morning,Clear
+52,2026-05-03,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,19.36,37.2,239.02,Sunday,Night,Clear
+53,2026-05-03,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,13.98,24.2,133.0,Sunday,Afternoon,Cloudy
+54,2026-05-03,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,14.68,42.0,159.97,Sunday,Evening,Clear
+55,2026-05-03,Bengaluru,BEN-06,AC Slow,CHAdeMO,Subscriber,19.04,59.9,190.05,Sunday,Afternoon,Cloudy
+56,2026-05-03,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,9.33,14.9,112.08,Sunday,Afternoon,Clear
+57,2026-05-03,Bengaluru,BEN-01,AC Slow,Type 2,Pay-as-you-go,21.2,70.0,243.91,Sunday,Evening,Clear
+58,2026-05-04,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,19.91,36.0,242.71,Monday,Morning,Clear
+59,2026-05-04,Coimbatore,COI-07,AC Slow,CHAdeMO,Pay-as-you-go,17.13,43.5,188.73,Monday,Night,Rain
+60,2026-05-04,Coimbatore,COI-01,AC Slow,CHAdeMO,Subscriber,21.85,56.8,266.22,Monday,Morning,Rain
+61,2026-05-04,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,18.13,56.1,179.16,Monday,Morning,Clear
+62,2026-05-04,Chennai,CHE-03,AC Slow,Type 2,Subscriber,17.37,44.9,213.48,Monday,Morning,Clear
+63,2026-05-04,Chennai,CHE-02,AC Slow,CHAdeMO,Pay-as-you-go,26.5,67.8,288.39,Monday,Evening,Cloudy
+64,2026-05-04,Chennai,CHE-06,AC Slow,CHAdeMO,Subscriber,20.33,56.9,244.16,Monday,Morning,Clear
+65,2026-05-04,Chennai,CHE-01,AC Slow,CHAdeMO,Pay-as-you-go,25.93,64.1,270.79,Monday,Night,Cloudy
+66,2026-05-04,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,16.14,50.2,161.55,Monday,Morning,Cloudy
+67,2026-05-04,Chennai,CHE-03,AC Slow,CHAdeMO,Pay-as-you-go,19.28,63.3,230.13,Monday,Evening,Clear
+68,2026-05-04,Chennai,CHE-08,AC Slow,CHAdeMO,Pay-as-you-go,12.66,45.1,141.96,Monday,Afternoon,Rain
+69,2026-05-04,Chennai,CHE-03,DC Fast,CCS2,Subscriber,11.84,25.3,126.52,Monday,Morning,Clear
+70,2026-05-04,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,18.71,46.7,213.79,Monday,Morning,Clear
+71,2026-05-04,Chennai,CHE-06,DC Fast,CCS2,Subscriber,26.04,42.2,255.02,Monday,Evening,Clear
+72,2026-05-04,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,33.8,84.8,361.58,Monday,Evening,Clear
+73,2026-05-04,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,29.21,71.0,341.32,Monday,Evening,Clear
+74,2026-05-04,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,16.56,25.8,158.85,Monday,Morning,Clear
+75,2026-05-04,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,9.66,18.5,96.67,Monday,Evening,Cloudy
+76,2026-05-04,Bengaluru,BEN-01,DC Fast,CCS2,Pay-as-you-go,12.32,21.8,143.38,Monday,Night,Clear
+77,2026-05-04,Bengaluru,BEN-04,AC Slow,Type 2,Subscriber,16.79,55.7,171.91,Monday,Evening,Clear
+78,2026-05-04,Bengaluru,BEN-04,AC Slow,Type 2,Subscriber,19.13,49.5,208.85,Monday,Morning,Rain
+79,2026-05-04,Bengaluru,BEN-04,AC Slow,CHAdeMO,Pay-as-you-go,21.17,61.7,212.6,Monday,Afternoon,Clear
+80,2026-05-05,Coimbatore,COI-03,AC Slow,Type 2,Subscriber,14.69,47.1,173.02,Tuesday,Evening,Clear
+81,2026-05-05,Coimbatore,COI-03,DC Fast,CCS2,Subscriber,11.92,23.4,115.56,Tuesday,Morning,Clear
+82,2026-05-05,Coimbatore,COI-01,AC Slow,Type 2,Pay-as-you-go,21.09,59.1,209.85,Tuesday,Morning,Clear
+83,2026-05-05,Coimbatore,COI-06,AC Slow,CHAdeMO,Subscriber,18.99,55.6,217.09,Tuesday,Evening,Clear
+84,2026-05-05,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,13.74,22.2,170.52,Tuesday,Evening,Cloudy
+85,2026-05-05,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,23.02,67.2,284.5,Tuesday,Evening,Clear
+86,2026-05-05,Chennai,CHE-06,AC Slow,CHAdeMO,Pay-as-you-go,22.18,64.5,236.93,Tuesday,Morning,Clear
+87,2026-05-05,Chennai,CHE-07,AC Slow,CHAdeMO,Subscriber,18.45,56.2,198.59,Tuesday,Morning,Clear
+88,2026-05-05,Chennai,CHE-06,DC Fast,CCS2,Pay-as-you-go,24.41,39.1,278.2,Tuesday,Evening,Clear
+89,2026-05-05,Bengaluru,BEN-05,AC Slow,Type 2,Subscriber,16.98,55.3,180.6,Tuesday,Morning,Clear
+90,2026-05-05,Bengaluru,BEN-04,AC Slow,Type 2,Subscriber,18.06,61.5,186.52,Tuesday,Evening,Rain
+91,2026-05-05,Bengaluru,BEN-01,AC Slow,Type 2,Subscriber,23.12,55.6,274.07,Tuesday,Evening,Clear
+92,2026-05-05,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,13.83,23.9,142.32,Tuesday,Morning,Clear
+93,2026-05-05,Bengaluru,BEN-05,AC Slow,CHAdeMO,Pay-as-you-go,17.13,49.9,184.12,Tuesday,Afternoon,Cloudy
+94,2026-05-05,Bengaluru,BEN-01,AC Slow,CHAdeMO,Subscriber,17.91,54.7,205.36,Tuesday,Morning,Rain
+95,2026-05-05,Bengaluru,BEN-07,AC Slow,Type 2,Subscriber,16.99,43.9,171.59,Tuesday,Morning,Rain
+96,2026-05-05,Bengaluru,BEN-02,AC Slow,Type 2,Pay-as-you-go,16.56,58.0,193.51,Tuesday,Afternoon,Clear
+97,2026-05-05,Bengaluru,BEN-01,AC Slow,CHAdeMO,Subscriber,11.84,40.7,126.14,Tuesday,Evening,Clear
+98,2026-05-05,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,17.94,43.9,172.18,Tuesday,Evening,Clear
+99,2026-05-05,Bengaluru,BEN-03,AC Slow,Type 2,Subscriber,14.56,47.3,163.38,Tuesday,Evening,Clear
+100,2026-05-06,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,14.94,24.8,180.84,Wednesday,Morning,Cloudy
+101,2026-05-06,Coimbatore,COI-03,AC Slow,CHAdeMO,Pay-as-you-go,20.81,52.1,212.35,Wednesday,Morning,Clear
+102,2026-05-06,Coimbatore,COI-07,AC Slow,CHAdeMO,Pay-as-you-go,18.87,62.7,226.29,Wednesday,Evening,Clear
+103,2026-05-06,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,29.45,76.4,358.63,Wednesday,Evening,Clear
+104,2026-05-06,Chennai,CHE-04,AC Slow,Type 2,Subscriber,15.3,40.8,149.5,Wednesday,Morning,Clear
+105,2026-05-06,Chennai,CHE-08,DC Fast,CCS2,Subscriber,22.7,39.7,230.07,Wednesday,Evening,Clear
+106,2026-05-06,Bengaluru,BEN-06,DC Fast,CCS2,Pay-as-you-go,10.4,16.7,110.57,Wednesday,Night,Clear
+107,2026-05-06,Bengaluru,BEN-04,AC Slow,CHAdeMO,Pay-as-you-go,23.01,59.7,220.78,Wednesday,Evening,Clear
+108,2026-05-06,Bengaluru,BEN-08,AC Slow,Type 2,Subscriber,17.69,50.7,209.07,Wednesday,Morning,Rain
+109,2026-05-06,Bengaluru,BEN-05,AC Slow,Type 2,Subscriber,23.04,57.2,285.21,Wednesday,Evening,Cloudy
+110,2026-05-06,Bengaluru,BEN-08,AC Slow,CHAdeMO,Pay-as-you-go,17.29,50.1,175.11,Wednesday,Evening,Clear
+111,2026-05-07,Coimbatore,COI-04,AC Slow,CHAdeMO,Pay-as-you-go,24.61,61.0,287.65,Thursday,Night,Clear
+112,2026-05-07,Coimbatore,COI-07,DC Fast,CCS2,Subscriber,10.93,20.5,132.55,Thursday,Morning,Rain
+113,2026-05-07,Coimbatore,COI-02,DC Fast,CCS2,Subscriber,13.31,20.7,153.95,Thursday,Morning,Cloudy
+114,2026-05-07,Coimbatore,COI-05,AC Slow,CHAdeMO,Subscriber,16.53,49.0,165.36,Thursday,Evening,Clear
+115,2026-05-07,Chennai,CHE-01,AC Slow,Type 2,Pay-as-you-go,16.78,52.5,189.45,Thursday,Morning,Rain
+116,2026-05-07,Chennai,CHE-01,AC Slow,Type 2,Subscriber,19.44,50.7,211.81,Thursday,Morning,Rain
+117,2026-05-07,Chennai,CHE-01,AC Slow,Type 2,Subscriber,15.88,53.4,170.41,Thursday,Morning,Clear
+118,2026-05-07,Chennai,CHE-06,DC Fast,CCS2,Subscriber,11.94,23.7,117.67,Thursday,Morning,Clear
+119,2026-05-07,Bengaluru,BEN-05,DC Fast,CCS2,Pay-as-you-go,7.84,15.6,74.74,Thursday,Afternoon,Clear
+120,2026-05-07,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,8.16,15.6,81.36,Thursday,Morning,Rain
+121,2026-05-07,Bengaluru,BEN-02,AC Slow,CHAdeMO,Subscriber,15.64,52.5,192.24,Thursday,Morning,Clear
+122,2026-05-07,Bengaluru,BEN-03,AC Slow,Type 2,Pay-as-you-go,18.08,56.7,177.16,Thursday,Evening,Rain
+123,2026-05-07,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,8.57,17.7,97.11,Thursday,Morning,Clear
+124,2026-05-07,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,8.27,13.9,83.78,Thursday,Evening,Clear
+125,2026-05-07,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,4.92,8.0,47.99,Thursday,Evening,Cloudy
+126,2026-05-07,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,11.56,23.3,119.18,Thursday,Evening,Clear
+127,2026-05-07,Bengaluru,BEN-06,DC Fast,CCS2,Subscriber,19.89,36.3,213.4,Thursday,Evening,Clear
+128,2026-05-07,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,10.15,20.4,99.89,Thursday,Evening,Clear
+129,2026-05-08,Coimbatore,COI-05,AC Slow,Type 2,Pay-as-you-go,20.93,56.6,241.28,Friday,Night,Clear
+130,2026-05-08,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,13.0,21.4,149.1,Friday,Morning,Cloudy
+131,2026-05-08,Coimbatore,COI-03,AC Slow,Type 2,Subscriber,15.12,46.3,158.67,Friday,Morning,Rain
+132,2026-05-08,Coimbatore,COI-06,AC Slow,Type 2,Subscriber,21.56,52.3,232.43,Friday,Morning,Clear
+133,2026-05-08,Coimbatore,COI-01,DC Fast,CCS2,Pay-as-you-go,6.12,11.6,60.41,Friday,Morning,Clear
+134,2026-05-08,Chennai,CHE-06,AC Slow,Type 2,Subscriber,29.16,71.4,333.83,Friday,Evening,Clear
+135,2026-05-08,Chennai,CHE-04,AC Slow,Type 2,Subscriber,18.53,62.6,206.96,Friday,Evening,Cloudy
+136,2026-05-08,Chennai,CHE-03,AC Slow,Type 2,Pay-as-you-go,19.14,60.2,209.91,Friday,Night,Clear
+137,2026-05-08,Chennai,CHE-03,DC Fast,CCS2,Pay-as-you-go,16.22,34.4,186.43,Friday,Evening,Rain
+138,2026-05-08,Chennai,CHE-04,DC Fast,CCS2,Subscriber,18.89,30.6,207.62,Friday,Morning,Clear
+139,2026-05-08,Chennai,CHE-01,DC Fast,CCS2,Subscriber,22.95,44.7,222.43,Friday,Evening,Cloudy
+140,2026-05-08,Chennai,CHE-05,DC Fast,CCS2,Subscriber,8.97,13.6,92.61,Friday,Morning,Cloudy
+141,2026-05-08,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,20.78,53.1,234.17,Friday,Morning,Clear
+142,2026-05-08,Chennai,CHE-07,DC Fast,CCS2,Subscriber,7.93,15.2,87.12,Friday,Morning,Clear
+143,2026-05-08,Bengaluru,BEN-06,DC Fast,CCS2,Subscriber,11.54,25.3,139.24,Friday,Morning,Clear
+144,2026-05-08,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,6.37,10.7,63.08,Friday,Morning,Clear
+145,2026-05-08,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,15.24,52.9,183.65,Friday,Evening,Clear
+146,2026-05-08,Bengaluru,BEN-03,AC Slow,CHAdeMO,Pay-as-you-go,17.0,58.2,206.3,Friday,Morning,Clear
+147,2026-05-08,Bengaluru,BEN-06,DC Fast,CCS2,Subscriber,10.5,18.3,110.11,Friday,Evening,Clear
+148,2026-05-08,Bengaluru,BEN-08,AC Slow,Type 2,Subscriber,19.17,57.9,232.66,Friday,Morning,Clear
+149,2026-05-08,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,11.15,19.0,116.0,Friday,Evening,Clear
+150,2026-05-08,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,14.64,25.6,158.07,Friday,Evening,Clear
+151,2026-05-08,Bengaluru,BEN-08,DC Fast,CCS2,Pay-as-you-go,12.86,20.1,145.7,Friday,Evening,Rain
+152,2026-05-09,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,9.35,19.8,93.13,Saturday,Evening,Clear
+153,2026-05-09,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,6.06,12.5,70.39,Saturday,Morning,Clear
+154,2026-05-09,Coimbatore,COI-06,AC Slow,CHAdeMO,Subscriber,19.29,47.1,219.29,Saturday,Evening,Clear
+155,2026-05-09,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,17.51,27.8,211.56,Saturday,Afternoon,Cloudy
+156,2026-05-09,Coimbatore,COI-05,AC Slow,CHAdeMO,Subscriber,14.83,45.6,158.1,Saturday,Morning,Rain
+157,2026-05-09,Coimbatore,COI-07,DC Fast,CCS2,Subscriber,7.42,13.8,86.57,Saturday,Morning,Rain
+158,2026-05-09,Chennai,CHE-05,AC Slow,CHAdeMO,Pay-as-you-go,25.07,85.0,310.75,Saturday,Evening,Rain
+159,2026-05-09,Chennai,CHE-04,DC Fast,CCS2,Subscriber,14.0,28.2,166.79,Saturday,Morning,Clear
+160,2026-05-09,Chennai,CHE-05,AC Slow,CHAdeMO,Subscriber,22.88,59.3,241.39,Saturday,Afternoon,Cloudy
+161,2026-05-09,Chennai,CHE-08,DC Fast,CCS2,Subscriber,12.08,19.7,120.96,Saturday,Afternoon,Clear
+162,2026-05-09,Chennai,CHE-07,AC Slow,CHAdeMO,Subscriber,17.1,46.7,182.02,Saturday,Afternoon,Clear
+163,2026-05-09,Chennai,CHE-04,AC Slow,Type 2,Subscriber,20.29,70.8,194.26,Saturday,Evening,Clear
+164,2026-05-09,Chennai,CHE-08,AC Slow,CHAdeMO,Pay-as-you-go,22.93,60.0,272.99,Saturday,Night,Rain
+165,2026-05-09,Chennai,CHE-06,DC Fast,CCS2,Subscriber,17.81,28.2,211.9,Saturday,Evening,Clear
+166,2026-05-09,Chennai,CHE-07,AC Slow,CHAdeMO,Pay-as-you-go,16.6,54.7,206.25,Saturday,Night,Rain
+167,2026-05-09,Chennai,CHE-02,DC Fast,CCS2,Pay-as-you-go,25.59,45.5,250.02,Saturday,Afternoon,Clear
+168,2026-05-09,Chennai,CHE-03,DC Fast,CCS2,Subscriber,9.06,19.4,99.97,Saturday,Afternoon,Cloudy
+169,2026-05-09,Chennai,CHE-07,DC Fast,CCS2,Subscriber,16.33,24.9,163.22,Saturday,Afternoon,Clear
+170,2026-05-09,Chennai,CHE-04,DC Fast,CCS2,Subscriber,16.06,25.7,177.26,Saturday,Afternoon,Clear
+171,2026-05-09,Chennai,CHE-02,DC Fast,CCS2,Subscriber,14.9,23.6,176.97,Saturday,Night,Cloudy
+172,2026-05-09,Chennai,CHE-03,AC Slow,Type 2,Subscriber,15.69,38.2,159.7,Saturday,Night,Rain
+173,2026-05-09,Chennai,CHE-08,AC Slow,Type 2,Pay-as-you-go,28.3,91.6,295.37,Saturday,Evening,Clear
+174,2026-05-09,Chennai,CHE-05,AC Slow,Type 2,Subscriber,21.01,70.2,235.15,Saturday,Evening,Rain
+175,2026-05-09,Bengaluru,BEN-01,AC Slow,Type 2,Subscriber,27.95,72.1,318.16,Saturday,Evening,Clear
+176,2026-05-09,Bengaluru,BEN-04,AC Slow,CHAdeMO,Pay-as-you-go,21.93,59.7,239.65,Saturday,Afternoon,Clear
+177,2026-05-09,Bengaluru,BEN-07,AC Slow,Type 2,Subscriber,17.78,53.5,204.57,Saturday,Evening,Cloudy
+178,2026-05-09,Bengaluru,BEN-03,AC Slow,Type 2,Subscriber,17.52,58.5,214.27,Saturday,Evening,Clear
+179,2026-05-09,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,18.2,55.5,208.34,Saturday,Afternoon,Clear
+180,2026-05-09,Bengaluru,BEN-05,AC Slow,Type 2,Subscriber,15.13,50.5,166.13,Saturday,Afternoon,Clear
+181,2026-05-09,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,23.56,57.1,269.9,Saturday,Night,Clear
+182,2026-05-10,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,9.61,20.2,102.62,Sunday,Evening,Clear
+183,2026-05-10,Coimbatore,COI-04,AC Slow,CHAdeMO,Subscriber,16.35,54.7,200.68,Sunday,Afternoon,Cloudy
+184,2026-05-10,Coimbatore,COI-07,AC Slow,CHAdeMO,Subscriber,16.96,59.7,181.81,Sunday,Afternoon,Clear
+185,2026-05-10,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,15.04,24.6,156.85,Sunday,Afternoon,Clear
+186,2026-05-10,Coimbatore,COI-05,AC Slow,CHAdeMO,Pay-as-you-go,29.05,76.5,339.41,Sunday,Afternoon,Clear
+187,2026-05-10,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,11.53,17.7,134.83,Sunday,Afternoon,Clear
+188,2026-05-10,Chennai,CHE-01,AC Slow,CHAdeMO,Subscriber,21.62,57.4,233.61,Sunday,Afternoon,Clear
+189,2026-05-10,Chennai,CHE-01,AC Slow,Type 2,Subscriber,16.81,50.1,191.91,Sunday,Afternoon,Clear
+190,2026-05-10,Chennai,CHE-01,AC Slow,Type 2,Subscriber,18.08,47.7,225.77,Sunday,Afternoon,Clear
+191,2026-05-10,Chennai,CHE-03,DC Fast,CCS2,Subscriber,14.61,22.5,170.6,Sunday,Night,Clear
+192,2026-05-10,Chennai,CHE-06,AC Slow,CHAdeMO,Subscriber,24.11,62.7,283.37,Sunday,Morning,Cloudy
+193,2026-05-10,Chennai,CHE-07,DC Fast,CCS2,Subscriber,25.4,42.7,300.97,Sunday,Afternoon,Clear
+194,2026-05-10,Chennai,CHE-08,AC Slow,CHAdeMO,Subscriber,12.54,40.8,149.23,Sunday,Afternoon,Rain
+195,2026-05-10,Chennai,CHE-03,AC Slow,Type 2,Subscriber,26.95,78.1,333.33,Sunday,Evening,Clear
+196,2026-05-10,Chennai,CHE-08,DC Fast,CCS2,Pay-as-you-go,31.79,50.4,377.64,Sunday,Evening,Clear
+197,2026-05-10,Chennai,CHE-03,DC Fast,CCS2,Pay-as-you-go,25.69,47.7,310.08,Sunday,Evening,Clear
+198,2026-05-10,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,17.77,49.0,211.97,Sunday,Morning,Clear
+199,2026-05-10,Bengaluru,BEN-05,DC Fast,CCS2,Pay-as-you-go,25.94,43.6,250.47,Sunday,Evening,Clear
+200,2026-05-10,Bengaluru,BEN-08,AC Slow,Type 2,Subscriber,20.31,66.1,247.56,Sunday,Afternoon,Clear
+201,2026-05-10,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,14.56,24.5,154.02,Sunday,Evening,Clear
+202,2026-05-10,Bengaluru,BEN-02,AC Slow,CHAdeMO,Pay-as-you-go,24.42,85.0,286.38,Sunday,Night,Clear
+203,2026-05-10,Bengaluru,BEN-05,AC Slow,CHAdeMO,Pay-as-you-go,23.43,72.6,235.26,Sunday,Morning,Clear
+204,2026-05-10,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,6.23,13.0,63.61,Sunday,Afternoon,Clear
+205,2026-05-10,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,7.55,12.7,83.87,Sunday,Morning,Clear
+206,2026-05-10,Bengaluru,BEN-08,DC Fast,CCS2,Pay-as-you-go,19.57,30.5,202.37,Sunday,Evening,Clear
+207,2026-05-10,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,12.96,20.3,161.85,Sunday,Evening,Clear
+208,2026-05-10,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,18.62,48.0,177.94,Sunday,Afternoon,Clear
+209,2026-05-10,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,22.83,57.2,267.11,Sunday,Afternoon,Clear
+210,2026-05-10,Bengaluru,BEN-07,DC Fast,CCS2,Pay-as-you-go,26.4,44.4,288.93,Sunday,Afternoon,Rain
+211,2026-05-10,Bengaluru,BEN-05,AC Slow,CHAdeMO,Pay-as-you-go,25.2,88.7,314.22,Sunday,Morning,Cloudy
+212,2026-05-11,Coimbatore,COI-06,DC Fast,CCS2,Subscriber,11.22,22.4,123.31,Monday,Evening,Cloudy
+213,2026-05-11,Coimbatore,COI-06,AC Slow,CHAdeMO,Subscriber,17.38,58.4,171.6,Monday,Evening,Clear
+214,2026-05-11,Chennai,CHE-07,DC Fast,CCS2,Subscriber,11.69,17.9,127.0,Monday,Morning,Clear
+215,2026-05-11,Chennai,CHE-05,AC Slow,Type 2,Subscriber,23.7,58.9,292.28,Monday,Morning,Clear
+216,2026-05-11,Chennai,CHE-06,AC Slow,Type 2,Pay-as-you-go,19.54,56.9,235.84,Monday,Afternoon,Cloudy
+217,2026-05-11,Chennai,CHE-02,AC Slow,Type 2,Pay-as-you-go,14.89,44.8,147.44,Monday,Afternoon,Cloudy
+218,2026-05-11,Chennai,CHE-04,DC Fast,CCS2,Subscriber,20.28,37.0,225.7,Monday,Evening,Clear
+219,2026-05-11,Chennai,CHE-05,DC Fast,CCS2,Subscriber,25.62,55.8,253.47,Monday,Evening,Clear
+220,2026-05-11,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,19.43,56.8,220.56,Monday,Morning,Rain
+221,2026-05-11,Chennai,CHE-08,AC Slow,Type 2,Subscriber,20.39,62.9,204.8,Monday,Morning,Clear
+222,2026-05-11,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,13.42,23.8,154.91,Monday,Morning,Clear
+223,2026-05-11,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,10.05,20.6,107.96,Monday,Evening,Rain
+224,2026-05-11,Bengaluru,BEN-07,AC Slow,Type 2,Subscriber,16.85,52.9,181.76,Monday,Evening,Clear
+225,2026-05-11,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,6.42,12.8,69.51,Monday,Evening,Rain
+226,2026-05-11,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,15.06,48.4,173.81,Monday,Evening,Rain
+227,2026-05-11,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,10.94,20.0,112.75,Monday,Morning,Cloudy
+228,2026-05-11,Bengaluru,BEN-06,AC Slow,Type 2,Pay-as-you-go,16.56,44.1,168.09,Monday,Evening,Rain
+229,2026-05-11,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,19.02,54.9,200.17,Monday,Morning,Clear
+230,2026-05-12,Coimbatore,COI-04,AC Slow,CHAdeMO,Subscriber,18.97,52.2,236.2,Tuesday,Evening,Clear
+231,2026-05-12,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,19.78,34.2,212.36,Tuesday,Morning,Clear
+232,2026-05-12,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,21.42,58.5,217.51,Tuesday,Morning,Clear
+233,2026-05-12,Chennai,CHE-05,AC Slow,Type 2,Subscriber,24.64,81.5,306.54,Tuesday,Evening,Clear
+234,2026-05-12,Chennai,CHE-03,AC Slow,Type 2,Subscriber,20.94,61.9,202.17,Tuesday,Evening,Clear
+235,2026-05-12,Chennai,CHE-07,AC Slow,Type 2,Pay-as-you-go,29.29,73.1,327.75,Tuesday,Evening,Clear
+236,2026-05-12,Chennai,CHE-07,AC Slow,Type 2,Subscriber,18.42,57.5,203.17,Tuesday,Morning,Cloudy
+237,2026-05-12,Chennai,CHE-05,DC Fast,CCS2,Pay-as-you-go,7.99,14.4,96.87,Tuesday,Morning,Clear
+238,2026-05-12,Bengaluru,BEN-07,AC Slow,Type 2,Subscriber,19.11,59.3,238.37,Tuesday,Evening,Clear
+239,2026-05-12,Bengaluru,BEN-02,AC Slow,Type 2,Subscriber,15.54,55.4,179.05,Tuesday,Evening,Clear
+240,2026-05-12,Bengaluru,BEN-01,AC Slow,CHAdeMO,Subscriber,23.64,60.3,289.5,Tuesday,Morning,Clear
+241,2026-05-12,Bengaluru,BEN-04,AC Slow,Type 2,Pay-as-you-go,22.15,64.9,247.96,Tuesday,Morning,Clear
+242,2026-05-12,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,14.36,24.8,143.09,Tuesday,Morning,Clear
+243,2026-05-12,Bengaluru,BEN-07,AC Slow,CHAdeMO,Subscriber,19.42,55.7,240.21,Tuesday,Evening,Clear
+244,2026-05-12,Bengaluru,BEN-06,DC Fast,CCS2,Pay-as-you-go,18.34,30.1,184.01,Tuesday,Evening,Clear
+245,2026-05-12,Bengaluru,BEN-08,DC Fast,CCS2,Pay-as-you-go,10.69,21.7,105.16,Tuesday,Night,Clear
+246,2026-05-13,Coimbatore,COI-08,DC Fast,CCS2,Subscriber,17.8,30.4,207.87,Wednesday,Morning,Clear
+247,2026-05-13,Coimbatore,COI-03,AC Slow,Type 2,Subscriber,16.14,53.7,182.49,Wednesday,Morning,Cloudy
+248,2026-05-13,Coimbatore,COI-01,DC Fast,CCS2,Subscriber,6.64,13.2,66.28,Wednesday,Evening,Clear
+249,2026-05-13,Coimbatore,COI-08,DC Fast,CCS2,Subscriber,11.37,17.6,140.48,Wednesday,Morning,Clear
+250,2026-05-13,Coimbatore,COI-08,AC Slow,Type 2,Pay-as-you-go,23.79,58.0,266.11,Wednesday,Morning,Clear
+251,2026-05-13,Chennai,CHE-07,AC Slow,CHAdeMO,Subscriber,23.22,61.7,223.43,Wednesday,Morning,Clear
+252,2026-05-13,Chennai,CHE-05,AC Slow,CHAdeMO,Subscriber,22.93,75.7,233.42,Wednesday,Evening,Clear
+253,2026-05-13,Chennai,CHE-04,DC Fast,CCS2,Pay-as-you-go,13.8,26.2,153.35,Wednesday,Morning,Cloudy
+254,2026-05-13,Chennai,CHE-01,DC Fast,CCS2,Subscriber,9.94,21.5,122.59,Wednesday,Morning,Clear
+255,2026-05-13,Chennai,CHE-07,DC Fast,CCS2,Subscriber,18.74,27.9,179.49,Wednesday,Morning,Clear
+256,2026-05-13,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,24.93,77.2,238.59,Wednesday,Evening,Clear
+257,2026-05-13,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,14.47,47.5,145.83,Wednesday,Morning,Clear
+258,2026-05-13,Chennai,CHE-05,AC Slow,CHAdeMO,Subscriber,15.97,50.0,195.56,Wednesday,Morning,Clear
+259,2026-05-13,Chennai,CHE-05,AC Slow,Type 2,Pay-as-you-go,21.9,62.1,230.83,Wednesday,Afternoon,Cloudy
+260,2026-05-13,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,7.24,12.1,78.66,Wednesday,Evening,Clear
+261,2026-05-13,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,6.33,13.0,77.85,Wednesday,Morning,Cloudy
+262,2026-05-13,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,11.37,17.8,133.67,Wednesday,Evening,Clear
+263,2026-05-13,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,11.83,25.8,137.61,Wednesday,Morning,Clear
+264,2026-05-13,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,12.31,41.6,141.64,Wednesday,Morning,Clear
+265,2026-05-14,Coimbatore,COI-06,AC Slow,CHAdeMO,Subscriber,17.95,60.1,210.74,Thursday,Evening,Clear
+266,2026-05-14,Coimbatore,COI-06,AC Slow,CHAdeMO,Pay-as-you-go,18.53,60.9,208.5,Thursday,Night,Clear
+267,2026-05-14,Coimbatore,COI-01,AC Slow,CHAdeMO,Pay-as-you-go,23.06,57.7,222.79,Thursday,Morning,Clear
+268,2026-05-14,Coimbatore,COI-04,AC Slow,CHAdeMO,Subscriber,14.64,49.7,147.79,Thursday,Evening,Rain
+269,2026-05-14,Coimbatore,COI-02,DC Fast,CCS2,Subscriber,16.84,25.8,179.22,Thursday,Evening,Cloudy
+270,2026-05-14,Coimbatore,COI-04,AC Slow,CHAdeMO,Subscriber,20.02,52.5,195.45,Thursday,Evening,Clear
+271,2026-05-14,Chennai,CHE-05,DC Fast,CCS2,Subscriber,8.0,12.4,95.55,Thursday,Morning,Cloudy
+272,2026-05-14,Chennai,CHE-07,AC Slow,CHAdeMO,Pay-as-you-go,14.45,39.3,159.79,Thursday,Morning,Rain
+273,2026-05-14,Chennai,CHE-04,DC Fast,CCS2,Subscriber,11.9,19.7,143.24,Thursday,Morning,Clear
+274,2026-05-14,Chennai,CHE-05,DC Fast,CCS2,Subscriber,8.36,16.6,92.6,Thursday,Morning,Clear
+275,2026-05-14,Chennai,CHE-08,AC Slow,Type 2,Subscriber,16.13,53.4,194.02,Thursday,Evening,Rain
+276,2026-05-14,Chennai,CHE-08,DC Fast,CCS2,Subscriber,17.64,37.2,212.07,Thursday,Evening,Clear
+277,2026-05-14,Chennai,CHE-05,AC Slow,Type 2,Subscriber,14.8,52.6,173.76,Thursday,Evening,Rain
+278,2026-05-14,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,21.38,57.5,256.73,Thursday,Morning,Clear
+279,2026-05-14,Chennai,CHE-05,DC Fast,CCS2,Subscriber,10.62,19.5,121.31,Thursday,Morning,Clear
+280,2026-05-14,Chennai,CHE-01,DC Fast,CCS2,Subscriber,5.18,9.7,49.94,Thursday,Morning,Rain
+281,2026-05-14,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,8.01,14.3,89.05,Thursday,Morning,Rain
+282,2026-05-14,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,4.82,10.7,54.84,Thursday,Night,Rain
+283,2026-05-14,Bengaluru,BEN-01,AC Slow,CHAdeMO,Pay-as-you-go,27.34,66.8,273.99,Thursday,Morning,Cloudy
+284,2026-05-14,Bengaluru,BEN-04,AC Slow,Type 2,Subscriber,18.37,64.7,176.62,Thursday,Evening,Clear
+285,2026-05-14,Bengaluru,BEN-07,AC Slow,Type 2,Pay-as-you-go,13.18,45.5,159.06,Thursday,Evening,Clear
+286,2026-05-14,Bengaluru,BEN-02,AC Slow,Type 2,Subscriber,20.58,59.0,210.42,Thursday,Morning,Clear
+287,2026-05-14,Bengaluru,BEN-01,AC Slow,Type 2,Subscriber,17.23,41.4,183.05,Thursday,Evening,Clear
+288,2026-05-14,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,23.78,59.7,285.49,Thursday,Evening,Clear
+289,2026-05-14,Bengaluru,BEN-05,AC Slow,CHAdeMO,Pay-as-you-go,18.18,62.3,193.58,Thursday,Afternoon,Clear
+290,2026-05-14,Bengaluru,BEN-08,AC Slow,Type 2,Subscriber,12.83,45.8,124.04,Thursday,Morning,Rain
+291,2026-05-15,Coimbatore,COI-06,DC Fast,CCS2,Pay-as-you-go,6.16,9.3,62.04,Friday,Afternoon,Clear
+292,2026-05-15,Coimbatore,COI-07,AC Slow,Type 2,Subscriber,20.55,56.2,235.31,Friday,Morning,Clear
+293,2026-05-15,Coimbatore,COI-04,AC Slow,CHAdeMO,Pay-as-you-go,15.41,48.2,165.93,Friday,Evening,Rain
+294,2026-05-15,Coimbatore,COI-02,AC Slow,Type 2,Subscriber,17.61,49.1,185.32,Friday,Evening,Clear
+295,2026-05-15,Coimbatore,COI-02,DC Fast,CCS2,Pay-as-you-go,8.58,14.2,106.76,Friday,Afternoon,Clear
+296,2026-05-15,Coimbatore,COI-04,AC Slow,Type 2,Subscriber,19.17,50.2,223.49,Friday,Evening,Cloudy
+297,2026-05-15,Coimbatore,COI-07,AC Slow,Type 2,Subscriber,16.49,41.8,167.82,Friday,Evening,Clear
+298,2026-05-15,Chennai,CHE-03,DC Fast,CCS2,Pay-as-you-go,17.45,27.0,173.02,Friday,Morning,Rain
+299,2026-05-15,Chennai,CHE-02,DC Fast,CCS2,Subscriber,9.73,15.3,108.8,Friday,Morning,Rain
+300,2026-05-15,Chennai,CHE-07,DC Fast,CCS2,Subscriber,32.49,48.5,321.49,Friday,Evening,Cloudy
+301,2026-05-15,Chennai,CHE-04,AC Slow,Type 2,Pay-as-you-go,16.15,48.5,174.13,Friday,Afternoon,Clear
+302,2026-05-15,Chennai,CHE-04,AC Slow,Type 2,Pay-as-you-go,19.02,55.4,196.9,Friday,Night,Cloudy
+303,2026-05-15,Chennai,CHE-02,DC Fast,CCS2,Pay-as-you-go,13.67,20.9,161.16,Friday,Afternoon,Rain
+304,2026-05-15,Chennai,CHE-08,AC Slow,CHAdeMO,Pay-as-you-go,21.88,61.2,253.94,Friday,Afternoon,Clear
+305,2026-05-15,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,25.42,65.8,301.98,Friday,Morning,Clear
+306,2026-05-15,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,24.61,73.6,271.22,Friday,Evening,Clear
+307,2026-05-15,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,17.96,44.0,188.24,Friday,Morning,Clear
+308,2026-05-15,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,13.44,24.3,157.18,Friday,Evening,Clear
+309,2026-05-15,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,19.23,61.9,202.44,Friday,Morning,Cloudy
+310,2026-05-16,Coimbatore,COI-08,DC Fast,CCS2,Subscriber,15.32,27.0,175.19,Saturday,Night,Clear
+311,2026-05-16,Coimbatore,COI-07,AC Slow,CHAdeMO,Pay-as-you-go,23.18,79.1,247.61,Saturday,Evening,Clear
+312,2026-05-16,Coimbatore,COI-03,AC Slow,CHAdeMO,Subscriber,24.72,61.6,251.24,Saturday,Evening,Clear
+313,2026-05-16,Coimbatore,COI-01,AC Slow,Type 2,Pay-as-you-go,27.2,91.4,292.01,Saturday,Evening,Clear
+314,2026-05-16,Coimbatore,COI-01,DC Fast,CCS2,Subscriber,10.77,24.0,116.14,Saturday,Evening,Clear
+315,2026-05-16,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,16.67,27.8,161.39,Saturday,Afternoon,Clear
+316,2026-05-16,Coimbatore,COI-06,DC Fast,CCS2,Subscriber,4.36,9.4,41.76,Saturday,Evening,Clear
+317,2026-05-16,Chennai,CHE-05,DC Fast,CCS2,Subscriber,31.94,56.8,345.12,Saturday,Evening,Clear
+318,2026-05-16,Chennai,CHE-06,AC Slow,Type 2,Subscriber,21.86,61.4,263.68,Saturday,Evening,Clear
+319,2026-05-16,Chennai,CHE-06,DC Fast,CCS2,Pay-as-you-go,31.63,57.3,393.2,Saturday,Evening,Clear
+320,2026-05-16,Chennai,CHE-04,DC Fast,CCS2,Subscriber,23.4,36.7,248.61,Saturday,Evening,Rain
+321,2026-05-16,Chennai,CHE-07,DC Fast,CCS2,Subscriber,19.12,33.4,190.71,Saturday,Evening,Clear
+322,2026-05-16,Chennai,CHE-03,AC Slow,Type 2,Subscriber,18.78,53.1,231.94,Saturday,Night,Clear
+323,2026-05-16,Chennai,CHE-01,DC Fast,CCS2,Subscriber,8.98,19.5,102.45,Saturday,Afternoon,Cloudy
+324,2026-05-16,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,24.71,75.1,251.53,Saturday,Evening,Clear
+325,2026-05-16,Bengaluru,BEN-06,AC Slow,CHAdeMO,Subscriber,20.84,64.1,201.97,Saturday,Evening,Clear
+326,2026-05-16,Bengaluru,BEN-05,AC Slow,Type 2,Subscriber,16.66,52.2,187.99,Saturday,Evening,Rain
+327,2026-05-16,Bengaluru,BEN-08,DC Fast,CCS2,Pay-as-you-go,11.2,23.6,127.63,Saturday,Evening,Rain
+328,2026-05-16,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,7.43,11.4,78.54,Saturday,Evening,Clear
+329,2026-05-16,Bengaluru,BEN-05,AC Slow,Type 2,Subscriber,19.5,55.1,189.56,Saturday,Morning,Cloudy
+330,2026-05-16,Bengaluru,BEN-04,AC Slow,CHAdeMO,Pay-as-you-go,23.39,70.1,282.32,Saturday,Afternoon,Clear
+331,2026-05-16,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,22.45,45.2,233.72,Saturday,Afternoon,Cloudy
+332,2026-05-17,Coimbatore,COI-02,AC Slow,CHAdeMO,Subscriber,19.9,50.6,239.13,Sunday,Morning,Cloudy
+333,2026-05-17,Coimbatore,COI-05,AC Slow,CHAdeMO,Subscriber,20.21,56.2,212.46,Sunday,Morning,Clear
+334,2026-05-17,Coimbatore,COI-08,AC Slow,Type 2,Subscriber,21.39,66.7,267.23,Sunday,Night,Clear
+335,2026-05-17,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,33.44,80.8,330.79,Sunday,Evening,Clear
+336,2026-05-17,Chennai,CHE-07,DC Fast,CCS2,Pay-as-you-go,21.03,37.2,208.34,Sunday,Afternoon,Clear
+337,2026-05-17,Chennai,CHE-01,AC Slow,Type 2,Subscriber,27.49,79.1,330.97,Sunday,Evening,Clear
+338,2026-05-17,Chennai,CHE-08,AC Slow,CHAdeMO,Pay-as-you-go,26.48,81.5,301.52,Sunday,Evening,Cloudy
+339,2026-05-17,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,26.28,77.3,271.48,Sunday,Evening,Cloudy
+340,2026-05-17,Chennai,CHE-01,AC Slow,CHAdeMO,Pay-as-you-go,31.74,91.1,314.11,Sunday,Evening,Clear
+341,2026-05-17,Chennai,CHE-01,AC Slow,Type 2,Pay-as-you-go,28.23,72.8,344.16,Sunday,Afternoon,Clear
+342,2026-05-17,Chennai,CHE-07,DC Fast,CCS2,Subscriber,14.67,27.0,154.79,Sunday,Morning,Clear
+343,2026-05-17,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,15.14,50.8,145.4,Sunday,Evening,Clear
+344,2026-05-17,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,18.5,45.6,197.39,Sunday,Evening,Clear
+345,2026-05-17,Bengaluru,BEN-03,AC Slow,CHAdeMO,Pay-as-you-go,26.87,75.5,256.37,Sunday,Afternoon,Clear
+346,2026-05-17,Bengaluru,BEN-05,AC Slow,CHAdeMO,Pay-as-you-go,32.85,80.1,394.12,Sunday,Night,Clear
+347,2026-05-17,Bengaluru,BEN-04,DC Fast,CCS2,Pay-as-you-go,22.34,42.1,243.91,Sunday,Afternoon,Rain
+348,2026-05-17,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,16.42,46.2,192.01,Sunday,Evening,Clear
+349,2026-05-17,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,8.15,18.0,100.58,Sunday,Afternoon,Rain
+350,2026-05-17,Bengaluru,BEN-05,DC Fast,CCS2,Pay-as-you-go,24.1,43.0,276.8,Sunday,Night,Clear
+351,2026-05-17,Bengaluru,BEN-04,AC Slow,Type 2,Pay-as-you-go,24.28,58.5,292.45,Sunday,Afternoon,Clear
+352,2026-05-17,Bengaluru,BEN-06,DC Fast,CCS2,Subscriber,9.61,15.8,106.07,Sunday,Morning,Clear
+353,2026-05-17,Bengaluru,BEN-03,AC Slow,Type 2,Pay-as-you-go,19.48,58.2,187.72,Sunday,Afternoon,Rain
+354,2026-05-17,Bengaluru,BEN-03,DC Fast,CCS2,Pay-as-you-go,16.66,35.2,158.63,Sunday,Afternoon,Clear
+355,2026-05-17,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,13.44,26.1,140.65,Sunday,Evening,Clear
+356,2026-05-17,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,8.89,16.5,100.46,Sunday,Afternoon,Cloudy
+357,2026-05-18,Coimbatore,COI-01,DC Fast,CCS2,Subscriber,8.33,15.6,87.06,Monday,Evening,Rain
+358,2026-05-18,Coimbatore,COI-07,AC Slow,CHAdeMO,Pay-as-you-go,23.33,55.7,233.8,Monday,Evening,Clear
+359,2026-05-18,Coimbatore,COI-08,DC Fast,CCS2,Subscriber,9.87,18.3,100.42,Monday,Morning,Clear
+360,2026-05-18,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,7.11,14.7,78.81,Monday,Morning,Cloudy
+361,2026-05-18,Coimbatore,COI-02,DC Fast,CCS2,Subscriber,13.57,24.6,144.1,Monday,Morning,Clear
+362,2026-05-18,Chennai,CHE-08,AC Slow,Type 2,Subscriber,19.11,60.9,228.75,Monday,Evening,Clear
+363,2026-05-18,Chennai,CHE-05,DC Fast,CCS2,Subscriber,12.55,22.8,149.96,Monday,Morning,Clear
+364,2026-05-18,Chennai,CHE-04,DC Fast,CCS2,Pay-as-you-go,25.82,41.0,311.66,Monday,Evening,Clear
+365,2026-05-18,Chennai,CHE-07,DC Fast,CCS2,Pay-as-you-go,13.45,29.6,141.81,Monday,Night,Clear
+366,2026-05-18,Chennai,CHE-03,DC Fast,CCS2,Pay-as-you-go,17.64,31.5,176.94,Monday,Evening,Cloudy
+367,2026-05-18,Chennai,CHE-04,AC Slow,CHAdeMO,Pay-as-you-go,17.33,54.5,174.78,Monday,Night,Clear
+368,2026-05-18,Chennai,CHE-06,AC Slow,Type 2,Subscriber,22.29,70.4,217.34,Monday,Evening,Clear
+369,2026-05-18,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,20.45,62.7,237.74,Monday,Evening,Rain
+370,2026-05-18,Chennai,CHE-01,AC Slow,Type 2,Subscriber,29.3,71.9,287.42,Monday,Evening,Clear
+371,2026-05-18,Bengaluru,BEN-01,AC Slow,CHAdeMO,Subscriber,20.18,57.1,192.56,Monday,Evening,Clear
+372,2026-05-18,Bengaluru,BEN-07,DC Fast,CCS2,Pay-as-you-go,11.33,20.7,121.17,Monday,Night,Cloudy
+373,2026-05-18,Bengaluru,BEN-08,DC Fast,CCS2,Pay-as-you-go,13.31,25.4,131.85,Monday,Night,Clear
+374,2026-05-19,Coimbatore,COI-06,DC Fast,CCS2,Subscriber,10.78,17.8,132.68,Tuesday,Morning,Rain
+375,2026-05-19,Coimbatore,COI-05,AC Slow,Type 2,Subscriber,16.9,60.1,172.85,Tuesday,Evening,Clear
+376,2026-05-19,Chennai,CHE-07,AC Slow,Type 2,Subscriber,18.29,59.4,183.61,Tuesday,Morning,Clear
+377,2026-05-19,Chennai,CHE-05,AC Slow,Type 2,Pay-as-you-go,19.34,59.2,206.77,Tuesday,Morning,Rain
+378,2026-05-19,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,25.17,74.3,280.93,Tuesday,Evening,Cloudy
+379,2026-05-19,Chennai,CHE-01,DC Fast,CCS2,Subscriber,14.91,26.4,167.33,Tuesday,Evening,Clear
+380,2026-05-19,Chennai,CHE-05,DC Fast,CCS2,Pay-as-you-go,16.07,30.6,171.54,Tuesday,Morning,Cloudy
+381,2026-05-19,Chennai,CHE-08,DC Fast,CCS2,Subscriber,14.93,24.8,185.56,Tuesday,Morning,Clear
+382,2026-05-19,Chennai,CHE-06,AC Slow,CHAdeMO,Subscriber,19.43,47.4,206.38,Tuesday,Morning,Rain
+383,2026-05-19,Chennai,CHE-02,DC Fast,CCS2,Subscriber,17.87,31.0,191.98,Tuesday,Morning,Clear
+384,2026-05-19,Chennai,CHE-02,DC Fast,CCS2,Pay-as-you-go,12.38,21.2,150.8,Tuesday,Morning,Clear
+385,2026-05-19,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,24.82,73.4,285.95,Tuesday,Evening,Rain
+386,2026-05-19,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,12.01,26.4,125.2,Tuesday,Evening,Cloudy
+387,2026-05-19,Bengaluru,BEN-08,AC Slow,Type 2,Subscriber,23.32,58.9,229.2,Tuesday,Morning,Clear
+388,2026-05-19,Bengaluru,BEN-06,AC Slow,Type 2,Pay-as-you-go,20.63,50.8,225.98,Tuesday,Morning,Rain
+389,2026-05-19,Bengaluru,BEN-03,AC Slow,Type 2,Subscriber,18.9,47.6,202.75,Tuesday,Evening,Clear
+390,2026-05-19,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,14.04,25.6,162.92,Tuesday,Evening,Clear
+391,2026-05-19,Bengaluru,BEN-07,AC Slow,Type 2,Subscriber,23.0,57.5,241.54,Tuesday,Evening,Clear
+392,2026-05-20,Coimbatore,COI-07,AC Slow,CHAdeMO,Subscriber,22.29,57.4,267.8,Wednesday,Evening,Clear
+393,2026-05-20,Chennai,CHE-03,DC Fast,CCS2,Pay-as-you-go,13.29,25.8,161.12,Wednesday,Morning,Rain
+394,2026-05-20,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,20.0,60.5,222.06,Wednesday,Morning,Clear
+395,2026-05-20,Chennai,CHE-02,DC Fast,CCS2,Subscriber,18.11,34.5,174.72,Wednesday,Evening,Rain
+396,2026-05-20,Chennai,CHE-03,AC Slow,Type 2,Subscriber,17.27,54.0,215.34,Wednesday,Morning,Clear
+397,2026-05-20,Bengaluru,BEN-04,AC Slow,Type 2,Subscriber,17.82,59.8,171.37,Wednesday,Morning,Clear
+398,2026-05-20,Bengaluru,BEN-05,AC Slow,Type 2,Pay-as-you-go,12.96,46.2,124.16,Wednesday,Evening,Clear
+399,2026-05-20,Bengaluru,BEN-03,AC Slow,Type 2,Subscriber,16.65,43.6,195.67,Wednesday,Evening,Clear
+400,2026-05-20,Bengaluru,BEN-05,AC Slow,CHAdeMO,Pay-as-you-go,23.16,59.4,264.46,Wednesday,Evening,Clear
+401,2026-05-20,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,20.32,60.5,218.73,Wednesday,Morning,Clear
+402,2026-05-20,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,9.77,14.7,112.72,Wednesday,Morning,Clear
+403,2026-05-20,Bengaluru,BEN-08,DC Fast,CCS2,Pay-as-you-go,15.22,26.2,166.39,Wednesday,Evening,Clear
+404,2026-05-20,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,17.07,55.1,202.21,Wednesday,Morning,Clear
+405,2026-05-21,Coimbatore,COI-03,AC Slow,CHAdeMO,Pay-as-you-go,20.49,56.3,242.53,Thursday,Morning,Clear
+406,2026-05-21,Chennai,CHE-07,AC Slow,Type 2,Subscriber,19.06,53.7,193.62,Thursday,Morning,Clear
+407,2026-05-21,Chennai,CHE-02,DC Fast,CCS2,Subscriber,4.92,8.9,57.79,Thursday,Morning,Rain
+408,2026-05-21,Chennai,CHE-07,DC Fast,CCS2,Subscriber,25.21,38.0,300.72,Thursday,Evening,Clear
+409,2026-05-21,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,18.77,52.9,227.08,Thursday,Morning,Clear
+410,2026-05-21,Chennai,CHE-08,AC Slow,CHAdeMO,Subscriber,18.51,55.9,199.62,Thursday,Morning,Cloudy
+411,2026-05-21,Chennai,CHE-07,DC Fast,CCS2,Subscriber,18.79,33.7,180.18,Thursday,Evening,Cloudy
+412,2026-05-21,Bengaluru,BEN-05,AC Slow,CHAdeMO,Pay-as-you-go,20.15,56.2,213.22,Thursday,Morning,Clear
+413,2026-05-21,Bengaluru,BEN-04,AC Slow,Type 2,Pay-as-you-go,17.2,45.7,164.97,Thursday,Evening,Rain
+414,2026-05-21,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,15.91,54.3,163.86,Thursday,Morning,Clear
+415,2026-05-21,Bengaluru,BEN-07,AC Slow,CHAdeMO,Subscriber,18.17,51.5,198.8,Thursday,Evening,Clear
+416,2026-05-21,Bengaluru,BEN-06,DC Fast,CCS2,Subscriber,13.77,25.4,155.08,Thursday,Morning,Clear
+417,2026-05-21,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,10.68,36.1,112.53,Thursday,Morning,Rain
+418,2026-05-21,Bengaluru,BEN-05,AC Slow,Type 2,Pay-as-you-go,19.6,53.6,193.53,Thursday,Evening,Rain
+419,2026-05-21,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,21.99,52.4,241.07,Thursday,Morning,Rain
+420,2026-05-21,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,23.77,56.9,279.56,Thursday,Morning,Clear
+421,2026-05-22,Coimbatore,COI-06,DC Fast,CCS2,Pay-as-you-go,6.22,11.9,71.92,Friday,Night,Clear
+422,2026-05-22,Coimbatore,COI-04,DC Fast,CCS2,Pay-as-you-go,12.07,19.3,136.29,Friday,Evening,Rain
+423,2026-05-22,Coimbatore,COI-01,DC Fast,CCS2,Subscriber,9.74,15.6,120.61,Friday,Morning,Clear
+424,2026-05-22,Coimbatore,COI-01,AC Slow,Type 2,Subscriber,22.0,63.6,233.06,Friday,Morning,Clear
+425,2026-05-22,Coimbatore,COI-08,AC Slow,Type 2,Subscriber,19.34,66.9,227.64,Friday,Evening,Cloudy
+426,2026-05-22,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,22.01,61.4,235.8,Friday,Morning,Clear
+427,2026-05-22,Chennai,CHE-02,AC Slow,Type 2,Pay-as-you-go,14.47,49.2,178.01,Friday,Morning,Rain
+428,2026-05-22,Chennai,CHE-02,AC Slow,CHAdeMO,Pay-as-you-go,13.47,47.8,146.77,Friday,Morning,Clear
+429,2026-05-22,Chennai,CHE-05,DC Fast,CCS2,Subscriber,9.74,19.3,109.23,Friday,Morning,Clear
+430,2026-05-22,Chennai,CHE-07,AC Slow,Type 2,Pay-as-you-go,21.6,67.6,213.99,Friday,Evening,Clear
+431,2026-05-22,Chennai,CHE-06,AC Slow,Type 2,Subscriber,20.06,55.6,214.62,Friday,Morning,Cloudy
+432,2026-05-22,Chennai,CHE-07,DC Fast,CCS2,Subscriber,10.69,19.5,121.78,Friday,Morning,Clear
+433,2026-05-22,Chennai,CHE-03,DC Fast,CCS2,Subscriber,24.69,38.5,292.64,Friday,Evening,Clear
+434,2026-05-22,Chennai,CHE-04,DC Fast,CCS2,Subscriber,8.45,15.7,98.95,Friday,Morning,Clear
+435,2026-05-22,Chennai,CHE-06,AC Slow,Type 2,Subscriber,24.84,63.8,246.27,Friday,Evening,Clear
+436,2026-05-22,Bengaluru,BEN-04,AC Slow,CHAdeMO,Subscriber,17.18,41.7,176.13,Friday,Morning,Clear
+437,2026-05-22,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,14.89,25.7,184.94,Friday,Morning,Clear
+438,2026-05-22,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,7.52,14.2,93.44,Friday,Morning,Rain
+439,2026-05-22,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,17.32,46.9,203.44,Friday,Evening,Rain
+440,2026-05-22,Bengaluru,BEN-06,DC Fast,CCS2,Subscriber,9.27,13.9,93.97,Friday,Morning,Clear
+441,2026-05-22,Bengaluru,BEN-01,DC Fast,CCS2,Pay-as-you-go,5.12,8.0,52.26,Friday,Night,Clear
+442,2026-05-23,Coimbatore,COI-06,DC Fast,CCS2,Subscriber,11.44,17.9,119.87,Saturday,Evening,Clear
+443,2026-05-23,Coimbatore,COI-02,DC Fast,CCS2,Subscriber,7.54,13.5,82.59,Saturday,Morning,Rain
+444,2026-05-23,Coimbatore,COI-02,DC Fast,CCS2,Pay-as-you-go,21.77,37.8,259.63,Saturday,Afternoon,Clear
+445,2026-05-23,Coimbatore,COI-06,AC Slow,CHAdeMO,Pay-as-you-go,25.07,71.7,270.4,Saturday,Night,Clear
+446,2026-05-23,Coimbatore,COI-04,AC Slow,CHAdeMO,Subscriber,23.57,61.0,242.58,Saturday,Afternoon,Cloudy
+447,2026-05-23,Chennai,CHE-05,DC Fast,CCS2,Pay-as-you-go,21.26,32.0,261.15,Saturday,Night,Cloudy
+448,2026-05-23,Chennai,CHE-01,AC Slow,Type 2,Subscriber,26.05,72.3,249.65,Saturday,Evening,Clear
+449,2026-05-23,Chennai,CHE-04,DC Fast,CCS2,Subscriber,20.78,32.4,203.35,Saturday,Morning,Clear
+450,2026-05-23,Chennai,CHE-01,AC Slow,Type 2,Subscriber,14.94,43.3,160.97,Saturday,Morning,Rain
+451,2026-05-23,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,24.76,74.2,278.02,Saturday,Evening,Clear
+452,2026-05-23,Chennai,CHE-01,AC Slow,CHAdeMO,Subscriber,23.46,70.6,275.26,Saturday,Evening,Clear
+453,2026-05-23,Chennai,CHE-04,DC Fast,CCS2,Subscriber,20.87,34.6,249.26,Saturday,Morning,Rain
+454,2026-05-23,Chennai,CHE-04,AC Slow,Type 2,Pay-as-you-go,28.95,93.3,353.45,Saturday,Evening,Clear
+455,2026-05-23,Chennai,CHE-05,AC Slow,Type 2,Subscriber,12.2,43.2,126.39,Saturday,Afternoon,Clear
+456,2026-05-23,Chennai,CHE-02,AC Slow,Type 2,Pay-as-you-go,31.53,75.9,316.04,Saturday,Afternoon,Clear
+457,2026-05-23,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,19.78,33.2,224.26,Saturday,Morning,Clear
+458,2026-05-23,Bengaluru,BEN-03,AC Slow,Type 2,Subscriber,14.95,51.9,161.02,Saturday,Morning,Clear
+459,2026-05-23,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,10.5,17.4,128.76,Saturday,Evening,Cloudy
+460,2026-05-23,Bengaluru,BEN-07,AC Slow,CHAdeMO,Subscriber,19.98,61.9,223.63,Saturday,Afternoon,Cloudy
+461,2026-05-23,Bengaluru,BEN-03,AC Slow,Type 2,Pay-as-you-go,24.18,82.4,300.2,Saturday,Evening,Clear
+462,2026-05-23,Bengaluru,BEN-04,AC Slow,Type 2,Subscriber,14.69,48.1,153.61,Saturday,Afternoon,Clear
+463,2026-05-23,Bengaluru,BEN-05,AC Slow,CHAdeMO,Pay-as-you-go,21.18,68.3,209.42,Saturday,Afternoon,Clear
+464,2026-05-23,Bengaluru,BEN-02,AC Slow,CHAdeMO,Pay-as-you-go,25.24,60.1,311.1,Saturday,Evening,Rain
+465,2026-05-23,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,7.21,12.1,75.68,Saturday,Morning,Clear
+466,2026-05-23,Bengaluru,BEN-06,AC Slow,CHAdeMO,Subscriber,30.54,73.4,371.09,Saturday,Afternoon,Clear
+467,2026-05-24,Coimbatore,COI-08,AC Slow,CHAdeMO,Subscriber,20.4,50.8,234.22,Sunday,Morning,Rain
+468,2026-05-24,Coimbatore,COI-01,DC Fast,CCS2,Subscriber,5.92,11.2,62.87,Sunday,Night,Clear
+469,2026-05-24,Coimbatore,COI-04,AC Slow,CHAdeMO,Subscriber,14.25,47.6,157.54,Sunday,Evening,Clear
+470,2026-05-24,Coimbatore,COI-05,AC Slow,CHAdeMO,Pay-as-you-go,22.27,77.8,217.5,Sunday,Evening,Cloudy
+471,2026-05-24,Coimbatore,COI-07,DC Fast,CCS2,Subscriber,8.68,14.0,93.43,Sunday,Evening,Rain
+472,2026-05-24,Chennai,CHE-03,DC Fast,CCS2,Pay-as-you-go,24.29,42.9,286.33,Sunday,Evening,Rain
+473,2026-05-24,Chennai,CHE-03,DC Fast,CCS2,Pay-as-you-go,28.9,54.3,353.8,Sunday,Evening,Clear
+474,2026-05-24,Chennai,CHE-05,DC Fast,CCS2,Subscriber,13.9,25.1,144.2,Sunday,Afternoon,Clear
+475,2026-05-24,Chennai,CHE-05,DC Fast,CCS2,Pay-as-you-go,29.31,51.8,298.14,Sunday,Evening,Clear
+476,2026-05-24,Chennai,CHE-07,DC Fast,CCS2,Subscriber,11.61,19.9,142.67,Sunday,Afternoon,Clear
+477,2026-05-24,Chennai,CHE-06,DC Fast,CCS2,Subscriber,22.59,38.1,232.7,Sunday,Evening,Clear
+478,2026-05-24,Chennai,CHE-07,AC Slow,CHAdeMO,Subscriber,17.44,50.4,170.05,Sunday,Afternoon,Clear
+479,2026-05-24,Chennai,CHE-06,AC Slow,CHAdeMO,Subscriber,17.55,54.9,192.75,Sunday,Morning,Clear
+480,2026-05-24,Chennai,CHE-07,AC Slow,CHAdeMO,Subscriber,19.42,60.2,206.69,Sunday,Night,Cloudy
+481,2026-05-24,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,14.95,32.6,154.35,Sunday,Evening,Clear
+482,2026-05-24,Bengaluru,BEN-04,AC Slow,Type 2,Subscriber,22.78,58.2,260.54,Sunday,Night,Cloudy
+483,2026-05-24,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,11.2,22.2,121.52,Sunday,Night,Clear
+484,2026-05-24,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,16.97,28.1,194.84,Sunday,Night,Cloudy
+485,2026-05-24,Bengaluru,BEN-08,AC Slow,CHAdeMO,Pay-as-you-go,22.08,73.0,260.96,Sunday,Evening,Rain
+486,2026-05-24,Bengaluru,BEN-04,AC Slow,Type 2,Pay-as-you-go,29.77,75.1,311.81,Sunday,Evening,Clear
+487,2026-05-24,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,16.19,27.0,191.38,Sunday,Afternoon,Clear
+488,2026-05-24,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,11.36,17.2,134.09,Sunday,Afternoon,Clear
+489,2026-05-24,Bengaluru,BEN-07,AC Slow,CHAdeMO,Pay-as-you-go,28.08,74.9,347.59,Sunday,Evening,Clear
+490,2026-05-25,Coimbatore,COI-08,DC Fast,CCS2,Subscriber,7.92,15.6,80.74,Monday,Morning,Clear
+491,2026-05-25,Coimbatore,COI-06,AC Slow,Type 2,Subscriber,20.23,55.1,210.09,Monday,Evening,Rain
+492,2026-05-25,Coimbatore,COI-08,AC Slow,Type 2,Subscriber,19.45,50.4,240.14,Monday,Evening,Clear
+493,2026-05-25,Coimbatore,COI-02,AC Slow,CHAdeMO,Pay-as-you-go,17.48,44.1,208.76,Monday,Afternoon,Clear
+494,2026-05-25,Chennai,CHE-08,AC Slow,CHAdeMO,Pay-as-you-go,19.04,47.3,210.04,Monday,Afternoon,Cloudy
+495,2026-05-25,Chennai,CHE-04,DC Fast,CCS2,Subscriber,13.47,26.2,148.48,Monday,Morning,Clear
+496,2026-05-25,Chennai,CHE-04,DC Fast,CCS2,Pay-as-you-go,17.51,38.4,203.61,Monday,Evening,Clear
+497,2026-05-25,Chennai,CHE-01,DC Fast,CCS2,Subscriber,17.06,33.7,174.85,Monday,Morning,Rain
+498,2026-05-25,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,15.46,25.5,149.41,Monday,Morning,Cloudy
+499,2026-05-25,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,17.45,28.6,212.68,Monday,Morning,Clear
+500,2026-05-25,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,17.01,49.5,169.1,Monday,Evening,Clear
+501,2026-05-25,Bengaluru,BEN-01,AC Slow,CHAdeMO,Pay-as-you-go,20.19,57.2,243.28,Monday,Night,Rain
+502,2026-05-25,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,9.8,18.2,107.12,Monday,Morning,Clear
+503,2026-05-26,Coimbatore,COI-03,AC Slow,CHAdeMO,Subscriber,17.4,58.3,192.09,Tuesday,Evening,Cloudy
+504,2026-05-26,Coimbatore,COI-04,AC Slow,Type 2,Subscriber,21.89,54.0,247.96,Tuesday,Evening,Clear
+505,2026-05-26,Coimbatore,COI-01,DC Fast,CCS2,Pay-as-you-go,9.46,15.4,93.27,Tuesday,Night,Clear
+506,2026-05-26,Chennai,CHE-03,DC Fast,CCS2,Subscriber,18.24,31.6,185.88,Tuesday,Evening,Clear
+507,2026-05-26,Chennai,CHE-04,DC Fast,CCS2,Subscriber,11.06,19.6,112.63,Tuesday,Morning,Cloudy
+508,2026-05-26,Chennai,CHE-01,DC Fast,CCS2,Pay-as-you-go,17.4,25.9,203.5,Tuesday,Morning,Rain
+509,2026-05-26,Chennai,CHE-05,DC Fast,CCS2,Subscriber,5.21,11.1,59.92,Tuesday,Morning,Rain
+510,2026-05-26,Chennai,CHE-08,DC Fast,CCS2,Subscriber,8.6,16.1,95.11,Tuesday,Morning,Rain
+511,2026-05-26,Chennai,CHE-02,DC Fast,CCS2,Subscriber,6.79,10.9,83.45,Tuesday,Morning,Clear
+512,2026-05-26,Chennai,CHE-01,AC Slow,Type 2,Pay-as-you-go,23.84,63.3,236.44,Tuesday,Morning,Clear
+513,2026-05-26,Chennai,CHE-03,AC Slow,Type 2,Pay-as-you-go,21.5,53.4,216.17,Tuesday,Morning,Clear
+514,2026-05-26,Bengaluru,BEN-08,DC Fast,CCS2,Pay-as-you-go,11.73,20.0,141.86,Tuesday,Morning,Clear
+515,2026-05-26,Bengaluru,BEN-08,AC Slow,Type 2,Pay-as-you-go,16.25,46.8,159.08,Tuesday,Evening,Clear
+516,2026-05-26,Bengaluru,BEN-03,AC Slow,Type 2,Pay-as-you-go,15.22,52.9,182.29,Tuesday,Evening,Rain
+517,2026-05-26,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,7.12,15.3,78.33,Tuesday,Evening,Rain
+518,2026-05-26,Bengaluru,BEN-06,DC Fast,CCS2,Pay-as-you-go,16.73,33.2,185.47,Tuesday,Morning,Clear
+519,2026-05-26,Bengaluru,BEN-03,DC Fast,CCS2,Pay-as-you-go,12.42,23.9,153.7,Tuesday,Morning,Clear
+520,2026-05-26,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,15.45,28.7,173.94,Tuesday,Morning,Cloudy
+521,2026-05-26,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,14.71,32.6,170.3,Tuesday,Morning,Clear
+522,2026-05-27,Coimbatore,COI-08,DC Fast,CCS2,Subscriber,7.85,17.0,76.12,Wednesday,Morning,Clear
+523,2026-05-27,Coimbatore,COI-07,DC Fast,CCS2,Pay-as-you-go,13.54,20.3,160.58,Wednesday,Evening,Cloudy
+524,2026-05-27,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,11.27,18.8,119.66,Wednesday,Evening,Clear
+525,2026-05-27,Coimbatore,COI-03,AC Slow,CHAdeMO,Subscriber,21.41,51.9,251.53,Wednesday,Evening,Clear
+526,2026-05-27,Coimbatore,COI-01,DC Fast,CCS2,Pay-as-you-go,6.57,13.1,77.3,Wednesday,Evening,Clear
+527,2026-05-27,Coimbatore,COI-08,AC Slow,CHAdeMO,Subscriber,16.16,57.0,191.74,Wednesday,Morning,Clear
+528,2026-05-27,Coimbatore,COI-07,DC Fast,CCS2,Subscriber,3.74,8.0,43.94,Wednesday,Evening,Cloudy
+529,2026-05-27,Coimbatore,COI-03,AC Slow,CHAdeMO,Subscriber,17.44,51.4,199.83,Wednesday,Morning,Cloudy
+530,2026-05-27,Coimbatore,COI-07,AC Slow,CHAdeMO,Subscriber,23.52,58.8,279.76,Wednesday,Morning,Clear
+531,2026-05-27,Coimbatore,COI-01,DC Fast,CCS2,Subscriber,9.87,20.3,114.34,Wednesday,Morning,Rain
+532,2026-05-27,Chennai,CHE-08,AC Slow,CHAdeMO,Subscriber,28.42,79.0,304.5,Wednesday,Evening,Clear
+533,2026-05-27,Chennai,CHE-06,DC Fast,CCS2,Subscriber,21.72,35.0,245.59,Wednesday,Evening,Cloudy
+534,2026-05-27,Chennai,CHE-01,DC Fast,CCS2,Subscriber,10.19,18.2,101.82,Wednesday,Evening,Clear
+535,2026-05-27,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,18.41,59.3,181.12,Wednesday,Evening,Clear
+536,2026-05-27,Chennai,CHE-07,AC Slow,CHAdeMO,Subscriber,21.96,65.9,239.98,Wednesday,Evening,Cloudy
+537,2026-05-27,Chennai,CHE-04,DC Fast,CCS2,Subscriber,13.88,20.7,139.78,Wednesday,Morning,Cloudy
+538,2026-05-27,Bengaluru,BEN-05,AC Slow,Type 2,Pay-as-you-go,19.89,47.7,208.06,Wednesday,Afternoon,Cloudy
+539,2026-05-27,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,9.32,19.4,116.34,Wednesday,Morning,Clear
+540,2026-05-27,Bengaluru,BEN-05,AC Slow,Type 2,Pay-as-you-go,19.6,57.1,237.23,Wednesday,Afternoon,Clear
+541,2026-05-27,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,18.32,32.1,206.61,Wednesday,Evening,Rain
+542,2026-05-27,Bengaluru,BEN-02,AC Slow,Type 2,Subscriber,15.11,49.5,182.44,Wednesday,Evening,Clear
+543,2026-05-27,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,9.63,15.3,101.92,Wednesday,Evening,Cloudy
+544,2026-05-28,Coimbatore,COI-06,AC Slow,Type 2,Subscriber,16.9,54.3,179.67,Thursday,Evening,Clear
+545,2026-05-28,Coimbatore,COI-03,DC Fast,CCS2,Subscriber,11.17,18.9,106.39,Thursday,Evening,Clear
+546,2026-05-28,Coimbatore,COI-06,DC Fast,CCS2,Pay-as-you-go,13.78,28.0,165.75,Thursday,Evening,Rain
+547,2026-05-28,Coimbatore,COI-08,AC Slow,Type 2,Subscriber,18.53,51.3,200.56,Thursday,Morning,Clear
+548,2026-05-28,Chennai,CHE-05,AC Slow,CHAdeMO,Pay-as-you-go,22.52,56.3,256.86,Thursday,Morning,Clear
+549,2026-05-28,Chennai,CHE-06,AC Slow,CHAdeMO,Subscriber,16.25,54.6,166.63,Thursday,Morning,Rain
+550,2026-05-28,Chennai,CHE-07,AC Slow,CHAdeMO,Pay-as-you-go,20.67,56.8,245.86,Thursday,Afternoon,Clear
+551,2026-05-28,Chennai,CHE-08,AC Slow,Type 2,Subscriber,13.86,47.1,149.27,Thursday,Morning,Clear
+552,2026-05-28,Chennai,CHE-03,AC Slow,CHAdeMO,Pay-as-you-go,27.45,80.3,321.84,Thursday,Evening,Cloudy
+553,2026-05-28,Chennai,CHE-06,DC Fast,CCS2,Pay-as-you-go,14.42,22.3,164.81,Thursday,Morning,Clear
+554,2026-05-28,Chennai,CHE-02,DC Fast,CCS2,Subscriber,4.23,8.4,42.53,Thursday,Morning,Rain
+555,2026-05-28,Chennai,CHE-08,DC Fast,CCS2,Subscriber,13.17,20.6,142.62,Thursday,Morning,Clear
+556,2026-05-28,Chennai,CHE-01,DC Fast,CCS2,Subscriber,9.51,18.5,105.13,Thursday,Morning,Clear
+557,2026-05-28,Bengaluru,BEN-08,AC Slow,CHAdeMO,Pay-as-you-go,17.83,53.9,177.1,Thursday,Night,Rain
+558,2026-05-28,Bengaluru,BEN-04,AC Slow,CHAdeMO,Subscriber,21.95,57.6,246.58,Thursday,Morning,Cloudy
+559,2026-05-28,Bengaluru,BEN-08,AC Slow,Type 2,Subscriber,22.0,58.1,219.41,Thursday,Morning,Cloudy
+560,2026-05-28,Bengaluru,BEN-04,AC Slow,CHAdeMO,Subscriber,18.66,62.7,199.24,Thursday,Morning,Cloudy
+561,2026-05-28,Bengaluru,BEN-01,DC Fast,CCS2,Pay-as-you-go,12.52,20.2,142.55,Thursday,Evening,Clear
+562,2026-05-28,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,17.65,52.7,193.91,Thursday,Morning,Clear
+563,2026-05-28,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,12.97,21.3,126.0,Thursday,Morning,Clear
+564,2026-05-28,Bengaluru,BEN-05,AC Slow,Type 2,Pay-as-you-go,19.77,50.1,205.59,Thursday,Night,Clear
+565,2026-05-28,Bengaluru,BEN-02,AC Slow,CHAdeMO,Pay-as-you-go,24.39,62.2,295.38,Thursday,Morning,Clear
+566,2026-05-29,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,17.5,26.1,180.77,Friday,Morning,Rain
+567,2026-05-29,Coimbatore,COI-03,AC Slow,CHAdeMO,Pay-as-you-go,20.12,61.6,217.66,Friday,Evening,Clear
+568,2026-05-29,Coimbatore,COI-03,DC Fast,CCS2,Pay-as-you-go,10.95,21.0,114.92,Friday,Evening,Clear
+569,2026-05-29,Chennai,CHE-07,DC Fast,CCS2,Subscriber,7.95,15.6,90.51,Friday,Morning,Rain
+570,2026-05-29,Chennai,CHE-08,DC Fast,CCS2,Subscriber,21.64,35.9,225.14,Friday,Evening,Clear
+571,2026-05-29,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,21.76,62.1,236.86,Friday,Morning,Cloudy
+572,2026-05-29,Chennai,CHE-03,AC Slow,CHAdeMO,Pay-as-you-go,25.07,75.2,252.28,Friday,Evening,Clear
+573,2026-05-29,Chennai,CHE-03,DC Fast,CCS2,Subscriber,25.11,40.3,307.48,Friday,Evening,Clear
+574,2026-05-29,Chennai,CHE-08,DC Fast,CCS2,Pay-as-you-go,11.03,22.6,114.55,Friday,Morning,Cloudy
+575,2026-05-29,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,18.67,31.0,213.97,Friday,Morning,Clear
+576,2026-05-29,Bengaluru,BEN-08,DC Fast,CCS2,Pay-as-you-go,13.8,22.8,152.19,Friday,Morning,Clear
+577,2026-05-29,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,15.09,29.4,167.89,Friday,Morning,Clear
+578,2026-05-30,Coimbatore,COI-04,AC Slow,Type 2,Subscriber,21.33,64.4,243.09,Saturday,Evening,Rain
+579,2026-05-30,Coimbatore,COI-04,DC Fast,CCS2,Pay-as-you-go,30.59,46.9,374.96,Saturday,Evening,Clear
+580,2026-05-30,Coimbatore,COI-07,AC Slow,Type 2,Pay-as-you-go,27.5,73.2,277.38,Saturday,Night,Clear
+581,2026-05-30,Coimbatore,COI-08,DC Fast,CCS2,Subscriber,18.58,27.8,216.76,Saturday,Evening,Rain
+582,2026-05-30,Chennai,CHE-06,DC Fast,CCS2,Pay-as-you-go,28.84,46.2,319.46,Saturday,Morning,Clear
+583,2026-05-30,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,21.16,52.2,209.61,Saturday,Afternoon,Clear
+584,2026-05-30,Chennai,CHE-06,AC Slow,Type 2,Pay-as-you-go,20.53,68.5,232.42,Saturday,Night,Clear
+585,2026-05-30,Chennai,CHE-01,DC Fast,CCS2,Subscriber,25.9,41.7,288.0,Saturday,Evening,Clear
+586,2026-05-30,Chennai,CHE-05,AC Slow,Type 2,Subscriber,14.16,47.6,171.52,Saturday,Night,Clear
+587,2026-05-30,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,25.67,64.1,303.98,Saturday,Morning,Cloudy
+588,2026-05-30,Chennai,CHE-08,AC Slow,CHAdeMO,Pay-as-you-go,30.71,85.0,369.49,Saturday,Evening,Clear
+589,2026-05-30,Chennai,CHE-07,DC Fast,CCS2,Subscriber,12.31,25.8,138.15,Saturday,Afternoon,Clear
+590,2026-05-30,Chennai,CHE-06,DC Fast,CCS2,Subscriber,11.95,22.9,114.08,Saturday,Morning,Rain
+591,2026-05-30,Chennai,CHE-03,DC Fast,CCS2,Subscriber,25.56,42.1,302.6,Saturday,Evening,Rain
+592,2026-05-30,Chennai,CHE-04,DC Fast,CCS2,Subscriber,3.93,8.0,44.78,Saturday,Morning,Rain
+593,2026-05-30,Chennai,CHE-06,AC Slow,CHAdeMO,Subscriber,15.34,52.1,152.48,Saturday,Night,Clear
+594,2026-05-30,Chennai,CHE-07,AC Slow,Type 2,Subscriber,22.62,73.7,233.72,Saturday,Evening,Cloudy
+595,2026-05-30,Chennai,CHE-01,AC Slow,Type 2,Subscriber,18.42,57.5,202.68,Saturday,Morning,Clear
+596,2026-05-30,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,11.36,20.0,122.48,Saturday,Afternoon,Cloudy
+597,2026-05-30,Bengaluru,BEN-04,DC Fast,CCS2,Pay-as-you-go,25.49,46.4,296.28,Saturday,Afternoon,Cloudy
+598,2026-05-30,Bengaluru,BEN-04,AC Slow,Type 2,Pay-as-you-go,24.97,66.0,260.67,Saturday,Night,Rain
+599,2026-05-30,Bengaluru,BEN-01,DC Fast,CCS2,Pay-as-you-go,17.62,33.5,203.16,Saturday,Afternoon,Clear
+600,2026-05-30,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,22.08,39.6,258.24,Saturday,Evening,Clear
+601,2026-05-31,Coimbatore,COI-06,AC Slow,Type 2,Subscriber,17.93,54.4,215.5,Sunday,Afternoon,Cloudy
+602,2026-05-31,Coimbatore,COI-06,AC Slow,CHAdeMO,Pay-as-you-go,23.36,68.8,275.02,Sunday,Afternoon,Rain
+603,2026-05-31,Coimbatore,COI-06,DC Fast,CCS2,Pay-as-you-go,24.34,41.4,266.73,Sunday,Afternoon,Cloudy
+604,2026-05-31,Chennai,CHE-04,AC Slow,Type 2,Pay-as-you-go,27.79,71.9,296.53,Sunday,Afternoon,Cloudy
+605,2026-05-31,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,17.42,51.6,203.01,Sunday,Afternoon,Rain
+606,2026-05-31,Chennai,CHE-07,DC Fast,CCS2,Pay-as-you-go,31.45,52.9,374.17,Sunday,Evening,Clear
+607,2026-05-31,Chennai,CHE-02,AC Slow,Type 2,Subscriber,18.99,59.0,227.45,Sunday,Morning,Cloudy
+608,2026-05-31,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,15.72,52.2,173.41,Sunday,Afternoon,Rain
+609,2026-05-31,Chennai,CHE-04,DC Fast,CCS2,Pay-as-you-go,33.69,61.6,409.69,Sunday,Evening,Clear
+610,2026-05-31,Chennai,CHE-04,AC Slow,Type 2,Subscriber,19.72,48.1,197.04,Sunday,Night,Clear
+611,2026-05-31,Chennai,CHE-05,DC Fast,CCS2,Subscriber,14.15,22.0,169.86,Sunday,Afternoon,Clear
+612,2026-05-31,Chennai,CHE-08,AC Slow,CHAdeMO,Subscriber,18.43,45.7,182.77,Sunday,Night,Cloudy
+613,2026-05-31,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,24.92,66.0,240.23,Sunday,Evening,Clear
+614,2026-05-31,Chennai,CHE-06,AC Slow,CHAdeMO,Subscriber,21.72,61.8,247.58,Sunday,Afternoon,Clear
+615,2026-05-31,Chennai,CHE-07,AC Slow,CHAdeMO,Subscriber,12.89,41.1,160.08,Sunday,Morning,Clear
+616,2026-05-31,Bengaluru,BEN-03,DC Fast,CCS2,Pay-as-you-go,14.16,30.7,141.19,Sunday,Morning,Clear
+617,2026-05-31,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,13.88,22.2,173.1,Sunday,Evening,Clear
+618,2026-05-31,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,16.24,28.6,164.22,Sunday,Evening,Clear
+619,2026-05-31,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,12.44,23.2,150.74,Sunday,Afternoon,Clear
+620,2026-05-31,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,12.19,20.1,146.13,Sunday,Afternoon,Clear
+621,2026-05-31,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,8.17,17.3,101.58,Sunday,Night,Rain
+622,2026-06-01,Coimbatore,COI-01,DC Fast,CCS2,Subscriber,9.8,17.3,122.29,Monday,Evening,Cloudy
+623,2026-06-01,Coimbatore,COI-06,DC Fast,CCS2,Pay-as-you-go,21.06,34.6,219.4,Monday,Morning,Cloudy
+624,2026-06-01,Coimbatore,COI-01,AC Slow,CHAdeMO,Subscriber,22.57,58.6,228.97,Monday,Evening,Cloudy
+625,2026-06-01,Chennai,CHE-02,AC Slow,CHAdeMO,Pay-as-you-go,19.89,55.6,244.56,Monday,Evening,Clear
+626,2026-06-01,Chennai,CHE-06,AC Slow,CHAdeMO,Pay-as-you-go,24.31,64.0,271.29,Monday,Evening,Clear
+627,2026-06-01,Chennai,CHE-03,AC Slow,Type 2,Subscriber,20.1,50.5,200.66,Monday,Morning,Cloudy
+628,2026-06-01,Chennai,CHE-05,DC Fast,CCS2,Subscriber,20.28,33.5,226.79,Monday,Evening,Cloudy
+629,2026-06-01,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,10.75,19.3,110.8,Monday,Morning,Cloudy
+630,2026-06-01,Bengaluru,BEN-01,AC Slow,CHAdeMO,Subscriber,21.84,54.5,237.13,Monday,Morning,Cloudy
+631,2026-06-01,Bengaluru,BEN-02,AC Slow,CHAdeMO,Pay-as-you-go,18.37,52.4,205.92,Monday,Afternoon,Clear
+632,2026-06-01,Bengaluru,BEN-05,DC Fast,CCS2,Pay-as-you-go,13.9,21.5,152.03,Monday,Night,Clear
+633,2026-06-01,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,10.21,18.6,110.96,Monday,Evening,Clear
+634,2026-06-01,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,10.62,18.5,111.45,Monday,Morning,Cloudy
+635,2026-06-02,Coimbatore,COI-05,AC Slow,Type 2,Pay-as-you-go,17.87,52.2,218.3,Tuesday,Morning,Cloudy
+636,2026-06-02,Coimbatore,COI-02,DC Fast,CCS2,Pay-as-you-go,6.32,11.8,74.3,Tuesday,Evening,Cloudy
+637,2026-06-02,Coimbatore,COI-07,AC Slow,Type 2,Subscriber,21.66,52.3,233.2,Tuesday,Morning,Cloudy
+638,2026-06-02,Coimbatore,COI-08,DC Fast,CCS2,Subscriber,14.03,24.1,144.54,Tuesday,Evening,Cloudy
+639,2026-06-02,Coimbatore,COI-06,DC Fast,CCS2,Subscriber,11.36,22.6,117.29,Tuesday,Morning,Clear
+640,2026-06-02,Chennai,CHE-04,DC Fast,CCS2,Subscriber,17.48,26.4,207.82,Tuesday,Morning,Cloudy
+641,2026-06-02,Chennai,CHE-05,DC Fast,CCS2,Pay-as-you-go,21.54,34.0,251.36,Tuesday,Evening,Clear
+642,2026-06-02,Chennai,CHE-08,AC Slow,Type 2,Subscriber,19.68,47.5,231.62,Tuesday,Morning,Rain
+643,2026-06-02,Chennai,CHE-06,AC Slow,CHAdeMO,Subscriber,19.06,57.3,221.49,Tuesday,Morning,Clear
+644,2026-06-02,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,11.79,31.7,113.1,Tuesday,Morning,Clear
+645,2026-06-02,Chennai,CHE-01,AC Slow,Type 2,Subscriber,20.09,64.0,245.48,Tuesday,Morning,Cloudy
+646,2026-06-02,Chennai,CHE-07,DC Fast,CCS2,Pay-as-you-go,26.34,43.6,326.79,Tuesday,Evening,Clear
+647,2026-06-02,Chennai,CHE-02,AC Slow,Type 2,Subscriber,18.78,66.3,216.92,Tuesday,Morning,Clear
+648,2026-06-02,Chennai,CHE-03,AC Slow,Type 2,Subscriber,23.3,56.6,244.57,Tuesday,Morning,Clear
+649,2026-06-02,Bengaluru,BEN-06,DC Fast,CCS2,Subscriber,12.31,21.6,145.66,Tuesday,Evening,Clear
+650,2026-06-02,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,16.04,28.2,196.44,Tuesday,Evening,Clear
+651,2026-06-02,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,9.2,17.7,111.62,Tuesday,Morning,Clear
+652,2026-06-02,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,19.48,30.5,240.8,Tuesday,Afternoon,Clear
+653,2026-06-02,Bengaluru,BEN-08,AC Slow,Type 2,Subscriber,21.67,59.3,243.83,Tuesday,Morning,Cloudy
+654,2026-06-02,Bengaluru,BEN-07,AC Slow,Type 2,Subscriber,19.86,64.4,193.26,Tuesday,Morning,Cloudy
+655,2026-06-02,Bengaluru,BEN-04,DC Fast,CCS2,Pay-as-you-go,16.38,25.1,194.98,Tuesday,Evening,Cloudy
+656,2026-06-03,Coimbatore,COI-08,AC Slow,Type 2,Pay-as-you-go,14.7,50.0,154.62,Wednesday,Evening,Rain
+657,2026-06-03,Coimbatore,COI-01,AC Slow,CHAdeMO,Pay-as-you-go,17.99,59.0,214.58,Wednesday,Afternoon,Clear
+658,2026-06-03,Coimbatore,COI-03,AC Slow,CHAdeMO,Subscriber,22.88,64.6,257.05,Wednesday,Evening,Clear
+659,2026-06-03,Coimbatore,COI-07,AC Slow,CHAdeMO,Subscriber,15.46,53.5,152.59,Wednesday,Morning,Clear
+660,2026-06-03,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,13.57,24.9,144.64,Wednesday,Evening,Clear
+661,2026-06-03,Coimbatore,COI-04,AC Slow,CHAdeMO,Subscriber,19.21,68.4,225.77,Wednesday,Evening,Cloudy
+662,2026-06-03,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,12.95,19.5,127.93,Wednesday,Evening,Cloudy
+663,2026-06-03,Coimbatore,COI-03,DC Fast,CCS2,Subscriber,11.16,23.9,126.09,Wednesday,Morning,Clear
+664,2026-06-03,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,19.91,64.2,215.56,Wednesday,Evening,Cloudy
+665,2026-06-03,Chennai,CHE-06,AC Slow,Type 2,Subscriber,20.26,50.3,195.19,Wednesday,Morning,Rain
+666,2026-06-03,Chennai,CHE-04,DC Fast,CCS2,Pay-as-you-go,16.05,24.4,168.19,Wednesday,Morning,Clear
+667,2026-06-03,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,21.67,75.6,236.4,Wednesday,Evening,Clear
+668,2026-06-03,Chennai,CHE-02,DC Fast,CCS2,Pay-as-you-go,13.25,22.1,132.57,Wednesday,Morning,Cloudy
+669,2026-06-03,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,24.26,65.6,303.19,Wednesday,Evening,Rain
+670,2026-06-03,Chennai,CHE-02,AC Slow,Type 2,Pay-as-you-go,17.62,43.5,200.24,Wednesday,Night,Clear
+671,2026-06-03,Bengaluru,BEN-05,DC Fast,CCS2,Pay-as-you-go,7.83,15.4,97.51,Wednesday,Evening,Rain
+672,2026-06-03,Bengaluru,BEN-06,AC Slow,CHAdeMO,Subscriber,17.64,61.6,186.6,Wednesday,Morning,Clear
+673,2026-06-03,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,16.21,25.5,193.62,Wednesday,Morning,Rain
+674,2026-06-03,Bengaluru,BEN-06,DC Fast,CCS2,Pay-as-you-go,11.95,18.8,145.55,Wednesday,Night,Clear
+675,2026-06-04,Coimbatore,COI-06,AC Slow,CHAdeMO,Subscriber,15.18,53.8,166.19,Thursday,Evening,Clear
+676,2026-06-04,Coimbatore,COI-03,AC Slow,CHAdeMO,Subscriber,21.05,59.2,229.07,Thursday,Morning,Clear
+677,2026-06-04,Coimbatore,COI-07,DC Fast,CCS2,Subscriber,13.17,22.3,159.26,Thursday,Evening,Clear
+678,2026-06-04,Coimbatore,COI-03,DC Fast,CCS2,Pay-as-you-go,5.61,9.7,66.18,Thursday,Night,Clear
+679,2026-06-04,Coimbatore,COI-02,DC Fast,CCS2,Subscriber,11.65,20.1,111.26,Thursday,Evening,Clear
+680,2026-06-04,Coimbatore,COI-01,DC Fast,CCS2,Subscriber,8.43,18.5,88.52,Thursday,Morning,Rain
+681,2026-06-04,Coimbatore,COI-07,AC Slow,CHAdeMO,Pay-as-you-go,18.04,48.2,186.21,Thursday,Morning,Clear
+682,2026-06-04,Coimbatore,COI-06,DC Fast,CCS2,Pay-as-you-go,13.51,24.9,143.65,Thursday,Night,Clear
+683,2026-06-04,Coimbatore,COI-08,AC Slow,Type 2,Subscriber,17.12,55.8,179.05,Thursday,Evening,Clear
+684,2026-06-04,Coimbatore,COI-05,AC Slow,CHAdeMO,Subscriber,22.89,59.1,234.51,Thursday,Evening,Clear
+685,2026-06-04,Chennai,CHE-07,AC Slow,Type 2,Subscriber,21.63,76.8,211.79,Thursday,Evening,Clear
+686,2026-06-04,Chennai,CHE-01,AC Slow,CHAdeMO,Pay-as-you-go,21.38,59.1,227.49,Thursday,Afternoon,Clear
+687,2026-06-04,Chennai,CHE-06,AC Slow,CHAdeMO,Pay-as-you-go,21.72,75.7,210.59,Thursday,Evening,Clear
+688,2026-06-04,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,16.05,53.9,173.65,Thursday,Morning,Rain
+689,2026-06-04,Chennai,CHE-05,DC Fast,CCS2,Subscriber,17.33,37.1,170.18,Thursday,Evening,Clear
+690,2026-06-04,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,12.56,24.4,126.83,Thursday,Morning,Cloudy
+691,2026-06-04,Bengaluru,BEN-06,AC Slow,CHAdeMO,Pay-as-you-go,20.43,52.5,207.05,Thursday,Evening,Clear
+692,2026-06-04,Bengaluru,BEN-03,DC Fast,CCS2,Pay-as-you-go,17.26,28.1,200.82,Thursday,Evening,Clear
+693,2026-06-04,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,16.05,44.0,153.71,Thursday,Morning,Rain
+694,2026-06-04,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,13.67,21.3,131.16,Thursday,Night,Clear
+695,2026-06-04,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,7.99,16.1,96.18,Thursday,Morning,Cloudy
+696,2026-06-05,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,15.64,25.3,163.5,Friday,Morning,Clear
+697,2026-06-05,Chennai,CHE-02,DC Fast,CCS2,Subscriber,5.18,8.0,53.38,Friday,Morning,Rain
+698,2026-06-05,Chennai,CHE-05,DC Fast,CCS2,Subscriber,23.61,35.4,257.14,Friday,Evening,Clear
+699,2026-06-05,Chennai,CHE-05,AC Slow,Type 2,Subscriber,22.98,70.9,239.91,Friday,Evening,Clear
+700,2026-06-05,Bengaluru,BEN-07,AC Slow,Type 2,Subscriber,14.72,45.6,181.4,Friday,Morning,Rain
+701,2026-06-05,Bengaluru,BEN-03,DC Fast,CCS2,Pay-as-you-go,8.57,17.3,85.66,Friday,Night,Clear
+702,2026-06-05,Bengaluru,BEN-04,AC Slow,CHAdeMO,Pay-as-you-go,24.04,63.0,265.3,Friday,Evening,Clear
+703,2026-06-05,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,14.77,46.1,166.81,Friday,Morning,Rain
+704,2026-06-05,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,8.21,16.1,80.48,Friday,Evening,Clear
+705,2026-06-05,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,8.81,13.2,98.14,Friday,Evening,Cloudy
+706,2026-06-05,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,14.78,23.5,165.55,Friday,Evening,Rain
+707,2026-06-06,Coimbatore,COI-06,DC Fast,CCS2,Subscriber,4.98,9.0,51.13,Saturday,Evening,Clear
+708,2026-06-06,Coimbatore,COI-01,DC Fast,CCS2,Subscriber,7.0,13.8,86.68,Saturday,Night,Clear
+709,2026-06-06,Coimbatore,COI-08,AC Slow,Type 2,Subscriber,21.31,52.6,217.84,Saturday,Evening,Clear
+710,2026-06-06,Coimbatore,COI-02,AC Slow,CHAdeMO,Subscriber,18.14,50.1,179.18,Saturday,Morning,Clear
+711,2026-06-06,Chennai,CHE-03,DC Fast,CCS2,Subscriber,12.53,26.3,142.88,Saturday,Morning,Rain
+712,2026-06-06,Chennai,CHE-06,AC Slow,CHAdeMO,Pay-as-you-go,23.38,79.7,288.47,Saturday,Afternoon,Clear
+713,2026-06-06,Chennai,CHE-08,AC Slow,CHAdeMO,Subscriber,24.23,69.0,246.73,Saturday,Evening,Clear
+714,2026-06-06,Chennai,CHE-04,DC Fast,CCS2,Subscriber,7.44,12.3,86.28,Saturday,Afternoon,Clear
+715,2026-06-06,Chennai,CHE-01,AC Slow,CHAdeMO,Subscriber,21.58,65.6,249.59,Saturday,Evening,Clear
+716,2026-06-06,Chennai,CHE-08,DC Fast,CCS2,Subscriber,28.22,45.8,349.03,Saturday,Evening,Clear
+717,2026-06-06,Chennai,CHE-02,AC Slow,Type 2,Subscriber,20.61,53.7,198.14,Saturday,Afternoon,Cloudy
+718,2026-06-06,Chennai,CHE-06,DC Fast,CCS2,Pay-as-you-go,21.92,42.5,262.67,Saturday,Evening,Clear
+719,2026-06-06,Chennai,CHE-01,AC Slow,Type 2,Pay-as-you-go,20.62,59.3,237.49,Saturday,Afternoon,Clear
+720,2026-06-06,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,18.04,54.0,187.09,Saturday,Afternoon,Cloudy
+721,2026-06-06,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,7.12,15.0,77.42,Saturday,Night,Rain
+722,2026-06-06,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,9.55,21.1,107.54,Saturday,Evening,Cloudy
+723,2026-06-06,Bengaluru,BEN-06,DC Fast,CCS2,Pay-as-you-go,35.78,56.9,428.51,Saturday,Afternoon,Clear
+724,2026-06-06,Bengaluru,BEN-01,AC Slow,Type 2,Subscriber,11.02,37.6,130.37,Saturday,Evening,Rain
+725,2026-06-06,Bengaluru,BEN-06,AC Slow,CHAdeMO,Subscriber,20.75,53.4,248.7,Saturday,Afternoon,Clear
+726,2026-06-06,Bengaluru,BEN-02,AC Slow,Type 2,Subscriber,19.84,49.9,244.94,Saturday,Morning,Clear
+727,2026-06-06,Bengaluru,BEN-07,DC Fast,CCS2,Pay-as-you-go,17.86,27.5,169.77,Saturday,Evening,Clear
+728,2026-06-06,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,7.27,11.5,84.01,Saturday,Evening,Clear
+729,2026-06-06,Bengaluru,BEN-01,DC Fast,CCS2,Pay-as-you-go,25.23,41.7,257.37,Saturday,Afternoon,Clear
+730,2026-06-07,Coimbatore,COI-08,AC Slow,Type 2,Subscriber,20.07,48.1,192.68,Sunday,Night,Clear
+731,2026-06-07,Coimbatore,COI-06,DC Fast,CCS2,Pay-as-you-go,34.6,58.4,428.67,Sunday,Afternoon,Cloudy
+732,2026-06-07,Coimbatore,COI-01,DC Fast,CCS2,Subscriber,10.28,15.5,112.8,Sunday,Evening,Clear
+733,2026-06-07,Coimbatore,COI-03,AC Slow,Type 2,Pay-as-you-go,26.2,67.5,305.34,Sunday,Afternoon,Clear
+734,2026-06-07,Coimbatore,COI-08,AC Slow,CHAdeMO,Subscriber,18.03,59.5,216.18,Sunday,Afternoon,Clear
+735,2026-06-07,Chennai,CHE-03,AC Slow,Type 2,Subscriber,22.35,53.7,258.86,Sunday,Morning,Clear
+736,2026-06-07,Chennai,CHE-08,AC Slow,Type 2,Subscriber,21.78,57.7,263.72,Sunday,Afternoon,Clear
+737,2026-06-07,Chennai,CHE-07,DC Fast,CCS2,Subscriber,12.02,20.5,142.79,Sunday,Morning,Cloudy
+738,2026-06-07,Chennai,CHE-04,AC Slow,Type 2,Subscriber,18.17,49.8,216.48,Sunday,Morning,Clear
+739,2026-06-07,Chennai,CHE-08,DC Fast,CCS2,Subscriber,7.24,13.1,69.8,Sunday,Night,Cloudy
+740,2026-06-07,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,14.28,44.4,146.25,Sunday,Afternoon,Clear
+741,2026-06-07,Chennai,CHE-08,AC Slow,CHAdeMO,Subscriber,22.93,63.7,234.27,Sunday,Evening,Rain
+742,2026-06-07,Chennai,CHE-08,DC Fast,CCS2,Subscriber,22.26,35.0,244.51,Sunday,Night,Clear
+743,2026-06-07,Chennai,CHE-06,DC Fast,CCS2,Pay-as-you-go,25.99,47.1,286.86,Sunday,Afternoon,Clear
+744,2026-06-07,Bengaluru,BEN-06,AC Slow,CHAdeMO,Pay-as-you-go,21.48,57.8,216.99,Sunday,Evening,Rain
+745,2026-06-07,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,15.81,53.9,162.47,Sunday,Evening,Clear
+746,2026-06-07,Bengaluru,BEN-08,AC Slow,Type 2,Subscriber,17.25,52.0,197.12,Sunday,Afternoon,Clear
+747,2026-06-07,Bengaluru,BEN-02,AC Slow,Type 2,Pay-as-you-go,25.92,79.6,255.94,Sunday,Afternoon,Clear
+748,2026-06-07,Bengaluru,BEN-08,AC Slow,Type 2,Pay-as-you-go,28.33,74.7,308.26,Sunday,Evening,Clear
+749,2026-06-07,Bengaluru,BEN-02,AC Slow,CHAdeMO,Subscriber,16.73,51.1,171.71,Sunday,Evening,Rain
+750,2026-06-07,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,16.52,42.4,197.94,Sunday,Afternoon,Rain
+751,2026-06-08,Coimbatore,COI-01,DC Fast,CCS2,Subscriber,7.82,13.9,78.93,Monday,Morning,Cloudy
+752,2026-06-08,Coimbatore,COI-02,AC Slow,CHAdeMO,Pay-as-you-go,22.47,53.9,259.21,Monday,Morning,Clear
+753,2026-06-08,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,5.35,11.7,63.34,Monday,Morning,Clear
+754,2026-06-08,Chennai,CHE-07,DC Fast,CCS2,Subscriber,21.17,44.6,243.06,Monday,Evening,Clear
+755,2026-06-08,Chennai,CHE-03,DC Fast,CCS2,Subscriber,3.63,8.0,34.65,Monday,Morning,Rain
+756,2026-06-08,Chennai,CHE-01,AC Slow,CHAdeMO,Subscriber,18.55,56.7,202.13,Monday,Evening,Clear
+757,2026-06-08,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,19.87,65.9,220.37,Monday,Morning,Clear
+758,2026-06-08,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,10.97,22.7,130.83,Monday,Evening,Clear
+759,2026-06-08,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,23.0,64.9,263.6,Monday,Evening,Cloudy
+760,2026-06-08,Bengaluru,BEN-08,AC Slow,Type 2,Pay-as-you-go,16.98,44.5,194.22,Monday,Night,Rain
+761,2026-06-08,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,9.05,13.7,103.53,Monday,Evening,Clear
+762,2026-06-08,Bengaluru,BEN-02,AC Slow,CHAdeMO,Pay-as-you-go,17.18,60.2,210.9,Monday,Evening,Cloudy
+763,2026-06-08,Bengaluru,BEN-05,AC Slow,Type 2,Pay-as-you-go,19.96,54.6,241.1,Monday,Afternoon,Rain
+764,2026-06-08,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,22.01,57.3,225.14,Monday,Morning,Clear
+765,2026-06-08,Bengaluru,BEN-03,DC Fast,CCS2,Pay-as-you-go,10.47,20.3,130.81,Monday,Night,Clear
+766,2026-06-08,Bengaluru,BEN-08,DC Fast,CCS2,Pay-as-you-go,10.69,23.7,126.01,Monday,Evening,Clear
+767,2026-06-08,Bengaluru,BEN-02,AC Slow,Type 2,Pay-as-you-go,19.15,51.5,228.7,Monday,Afternoon,Clear
+768,2026-06-09,Coimbatore,COI-06,AC Slow,CHAdeMO,Subscriber,22.66,70.8,251.5,Tuesday,Morning,Clear
+769,2026-06-09,Coimbatore,COI-03,AC Slow,CHAdeMO,Pay-as-you-go,17.71,54.3,187.23,Tuesday,Evening,Clear
+770,2026-06-09,Coimbatore,COI-03,AC Slow,Type 2,Pay-as-you-go,28.51,68.0,353.18,Tuesday,Evening,Cloudy
+771,2026-06-09,Coimbatore,COI-02,AC Slow,CHAdeMO,Subscriber,15.16,42.8,171.92,Tuesday,Morning,Cloudy
+772,2026-06-09,Chennai,CHE-07,DC Fast,CCS2,Pay-as-you-go,12.84,24.3,145.9,Tuesday,Evening,Clear
+773,2026-06-09,Chennai,CHE-01,AC Slow,Type 2,Pay-as-you-go,25.57,67.7,319.22,Tuesday,Evening,Clear
+774,2026-06-09,Chennai,CHE-08,DC Fast,CCS2,Subscriber,14.78,24.5,153.17,Tuesday,Morning,Clear
+775,2026-06-09,Chennai,CHE-03,DC Fast,CCS2,Subscriber,11.36,19.9,110.26,Tuesday,Morning,Clear
+776,2026-06-09,Chennai,CHE-02,DC Fast,CCS2,Subscriber,24.64,41.5,297.67,Tuesday,Evening,Clear
+777,2026-06-09,Chennai,CHE-07,DC Fast,CCS2,Subscriber,20.32,35.1,225.13,Tuesday,Evening,Clear
+778,2026-06-09,Chennai,CHE-06,AC Slow,Type 2,Subscriber,19.28,59.1,223.89,Tuesday,Morning,Cloudy
+779,2026-06-09,Bengaluru,BEN-04,AC Slow,CHAdeMO,Subscriber,22.59,58.8,273.01,Tuesday,Morning,Clear
+780,2026-06-09,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,15.65,24.2,151.92,Tuesday,Morning,Clear
+781,2026-06-09,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,9.56,20.5,115.88,Tuesday,Evening,Clear
+782,2026-06-09,Bengaluru,BEN-06,DC Fast,CCS2,Subscriber,9.99,19.9,102.77,Tuesday,Evening,Clear
+783,2026-06-09,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,11.02,21.3,105.02,Tuesday,Evening,Clear
+784,2026-06-09,Bengaluru,BEN-06,DC Fast,CCS2,Pay-as-you-go,11.38,24.7,139.91,Tuesday,Afternoon,Clear
+785,2026-06-09,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,14.18,21.5,152.97,Tuesday,Morning,Cloudy
+786,2026-06-09,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,9.52,15.7,96.1,Tuesday,Evening,Cloudy
+787,2026-06-10,Coimbatore,COI-02,DC Fast,CCS2,Subscriber,10.98,22.0,123.52,Wednesday,Evening,Clear
+788,2026-06-10,Coimbatore,COI-08,AC Slow,CHAdeMO,Pay-as-you-go,17.48,55.0,194.85,Wednesday,Morning,Clear
+789,2026-06-10,Coimbatore,COI-06,AC Slow,CHAdeMO,Subscriber,24.36,62.1,239.17,Wednesday,Morning,Cloudy
+790,2026-06-10,Coimbatore,COI-07,DC Fast,CCS2,Pay-as-you-go,8.75,14.7,94.63,Wednesday,Night,Rain
+791,2026-06-10,Chennai,CHE-03,DC Fast,CCS2,Pay-as-you-go,4.1,8.0,45.94,Wednesday,Afternoon,Cloudy
+792,2026-06-10,Chennai,CHE-05,AC Slow,CHAdeMO,Subscriber,18.24,49.6,207.14,Wednesday,Morning,Rain
+793,2026-06-10,Chennai,CHE-06,DC Fast,CCS2,Pay-as-you-go,21.43,34.8,250.87,Wednesday,Evening,Clear
+794,2026-06-10,Chennai,CHE-03,AC Slow,CHAdeMO,Pay-as-you-go,23.53,61.0,236.65,Wednesday,Afternoon,Clear
+795,2026-06-10,Chennai,CHE-08,AC Slow,CHAdeMO,Pay-as-you-go,20.13,48.8,202.02,Wednesday,Morning,Rain
+796,2026-06-10,Chennai,CHE-03,AC Slow,Type 2,Subscriber,23.92,59.3,290.94,Wednesday,Morning,Clear
+797,2026-06-10,Chennai,CHE-06,AC Slow,CHAdeMO,Pay-as-you-go,23.72,60.6,267.24,Wednesday,Morning,Clear
+798,2026-06-10,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,25.86,62.0,277.0,Wednesday,Morning,Clear
+799,2026-06-10,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,12.61,21.6,133.01,Wednesday,Morning,Clear
+800,2026-06-10,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,4.72,9.6,56.38,Wednesday,Morning,Cloudy
+801,2026-06-10,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,15.18,28.8,153.34,Wednesday,Morning,Clear
+802,2026-06-10,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,12.83,19.8,145.17,Wednesday,Morning,Cloudy
+803,2026-06-10,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,14.75,24.2,161.24,Wednesday,Morning,Cloudy
+804,2026-06-10,Bengaluru,BEN-07,DC Fast,CCS2,Pay-as-you-go,10.46,18.6,118.87,Wednesday,Afternoon,Cloudy
+805,2026-06-10,Bengaluru,BEN-06,AC Slow,Type 2,Pay-as-you-go,22.68,65.9,242.77,Wednesday,Night,Clear
+806,2026-06-10,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,18.62,55.2,220.36,Wednesday,Evening,Clear
+807,2026-06-11,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,14.59,22.2,157.13,Thursday,Evening,Clear
+808,2026-06-11,Coimbatore,COI-05,AC Slow,Type 2,Subscriber,24.06,59.1,259.15,Thursday,Morning,Clear
+809,2026-06-11,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,16.34,30.5,164.22,Thursday,Morning,Cloudy
+810,2026-06-11,Coimbatore,COI-06,DC Fast,CCS2,Subscriber,16.28,25.7,175.47,Thursday,Evening,Clear
+811,2026-06-11,Coimbatore,COI-04,DC Fast,CCS2,Pay-as-you-go,9.81,16.1,95.39,Thursday,Afternoon,Clear
+812,2026-06-11,Coimbatore,COI-04,AC Slow,Type 2,Subscriber,21.5,56.3,245.58,Thursday,Evening,Clear
+813,2026-06-11,Chennai,CHE-01,AC Slow,Type 2,Pay-as-you-go,27.59,66.5,279.84,Thursday,Evening,Rain
+814,2026-06-11,Chennai,CHE-08,AC Slow,CHAdeMO,Subscriber,28.34,73.5,331.48,Thursday,Evening,Clear
+815,2026-06-11,Chennai,CHE-07,AC Slow,Type 2,Subscriber,19.39,53.4,204.54,Thursday,Morning,Clear
+816,2026-06-11,Chennai,CHE-08,DC Fast,CCS2,Pay-as-you-go,9.84,14.8,100.21,Thursday,Afternoon,Clear
+817,2026-06-11,Chennai,CHE-06,AC Slow,Type 2,Pay-as-you-go,23.78,65.1,262.06,Thursday,Evening,Clear
+818,2026-06-11,Chennai,CHE-04,DC Fast,CCS2,Subscriber,13.98,21.4,155.9,Thursday,Morning,Cloudy
+819,2026-06-11,Chennai,CHE-03,AC Slow,Type 2,Pay-as-you-go,22.45,54.9,273.03,Thursday,Morning,Clear
+820,2026-06-11,Chennai,CHE-04,DC Fast,CCS2,Pay-as-you-go,9.81,15.0,115.57,Thursday,Night,Clear
+821,2026-06-11,Chennai,CHE-02,AC Slow,CHAdeMO,Pay-as-you-go,16.48,42.6,201.63,Thursday,Afternoon,Cloudy
+822,2026-06-11,Chennai,CHE-02,AC Slow,Type 2,Subscriber,25.79,70.9,316.08,Thursday,Evening,Rain
+823,2026-06-11,Chennai,CHE-01,AC Slow,Type 2,Subscriber,30.06,75.4,369.46,Thursday,Evening,Cloudy
+824,2026-06-11,Bengaluru,BEN-08,AC Slow,Type 2,Subscriber,17.68,52.2,188.29,Thursday,Morning,Clear
+825,2026-06-11,Bengaluru,BEN-06,DC Fast,CCS2,Pay-as-you-go,14.13,27.7,140.04,Thursday,Afternoon,Rain
+826,2026-06-11,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,10.4,16.3,125.84,Thursday,Morning,Rain
+827,2026-06-11,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,17.54,34.0,205.68,Thursday,Morning,Clear
+828,2026-06-11,Bengaluru,BEN-07,AC Slow,CHAdeMO,Subscriber,24.48,61.4,262.26,Thursday,Morning,Clear
+829,2026-06-12,Coimbatore,COI-02,AC Slow,CHAdeMO,Subscriber,14.31,37.6,139.36,Friday,Morning,Rain
+830,2026-06-12,Coimbatore,COI-08,AC Slow,Type 2,Pay-as-you-go,20.97,56.7,221.21,Friday,Evening,Clear
+831,2026-06-12,Coimbatore,COI-07,AC Slow,Type 2,Subscriber,19.88,51.0,230.86,Friday,Morning,Clear
+832,2026-06-12,Coimbatore,COI-06,AC Slow,CHAdeMO,Subscriber,16.62,44.3,161.73,Friday,Morning,Rain
+833,2026-06-12,Chennai,CHE-05,DC Fast,CCS2,Subscriber,7.32,11.9,85.78,Friday,Morning,Rain
+834,2026-06-12,Chennai,CHE-03,DC Fast,CCS2,Subscriber,12.18,23.4,137.59,Friday,Morning,Clear
+835,2026-06-12,Chennai,CHE-06,DC Fast,CCS2,Subscriber,21.02,41.2,220.67,Friday,Evening,Clear
+836,2026-06-12,Chennai,CHE-05,AC Slow,Type 2,Subscriber,17.12,49.8,210.31,Friday,Morning,Clear
+837,2026-06-12,Chennai,CHE-08,AC Slow,CHAdeMO,Subscriber,15.21,44.8,149.14,Friday,Morning,Cloudy
+838,2026-06-12,Chennai,CHE-03,DC Fast,CCS2,Subscriber,13.78,22.9,163.7,Friday,Morning,Clear
+839,2026-06-12,Chennai,CHE-05,AC Slow,Type 2,Subscriber,18.26,44.4,224.82,Friday,Morning,Rain
+840,2026-06-12,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,22.26,60.9,224.55,Friday,Evening,Clear
+841,2026-06-12,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,14.33,47.9,176.16,Friday,Morning,Clear
+842,2026-06-12,Bengaluru,BEN-06,AC Slow,CHAdeMO,Subscriber,16.03,50.5,156.49,Friday,Evening,Clear
+843,2026-06-12,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,7.2,15.4,88.06,Friday,Evening,Rain
+844,2026-06-13,Coimbatore,COI-05,AC Slow,Type 2,Subscriber,11.9,41.2,115.59,Saturday,Afternoon,Clear
+845,2026-06-13,Coimbatore,COI-03,AC Slow,Type 2,Pay-as-you-go,17.95,53.2,218.37,Saturday,Night,Rain
+846,2026-06-13,Coimbatore,COI-02,DC Fast,CCS2,Subscriber,6.75,13.8,80.43,Saturday,Afternoon,Clear
+847,2026-06-13,Coimbatore,COI-03,DC Fast,CCS2,Subscriber,7.35,13.0,82.55,Saturday,Morning,Cloudy
+848,2026-06-13,Coimbatore,COI-06,AC Slow,Type 2,Pay-as-you-go,25.55,70.2,284.98,Saturday,Evening,Clear
+849,2026-06-13,Chennai,CHE-04,AC Slow,Type 2,Subscriber,18.68,53.5,202.68,Saturday,Night,Clear
+850,2026-06-13,Chennai,CHE-07,DC Fast,CCS2,Pay-as-you-go,12.88,27.9,151.84,Saturday,Afternoon,Clear
+851,2026-06-13,Chennai,CHE-03,AC Slow,Type 2,Subscriber,17.62,56.9,214.1,Saturday,Afternoon,Rain
+852,2026-06-13,Chennai,CHE-05,DC Fast,CCS2,Pay-as-you-go,24.98,43.0,268.78,Saturday,Afternoon,Clear
+853,2026-06-13,Chennai,CHE-06,DC Fast,CCS2,Subscriber,21.13,32.3,240.55,Saturday,Night,Cloudy
+854,2026-06-13,Chennai,CHE-07,DC Fast,CCS2,Pay-as-you-go,43.52,76.2,490.21,Saturday,Evening,Clear
+855,2026-06-13,Chennai,CHE-07,DC Fast,CCS2,Subscriber,16.09,32.7,187.82,Saturday,Evening,Cloudy
+856,2026-06-13,Chennai,CHE-04,AC Slow,Type 2,Subscriber,21.04,70.8,218.93,Saturday,Evening,Clear
+857,2026-06-13,Chennai,CHE-02,DC Fast,CCS2,Pay-as-you-go,15.91,33.6,170.25,Saturday,Morning,Rain
+858,2026-06-13,Chennai,CHE-05,DC Fast,CCS2,Subscriber,5.8,10.8,69.41,Saturday,Afternoon,Rain
+859,2026-06-13,Bengaluru,BEN-01,DC Fast,CCS2,Pay-as-you-go,19.46,40.5,189.75,Saturday,Evening,Clear
+860,2026-06-13,Bengaluru,BEN-01,AC Slow,Type 2,Pay-as-you-go,19.88,66.5,221.44,Saturday,Morning,Clear
+861,2026-06-13,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,17.78,50.5,213.4,Saturday,Afternoon,Cloudy
+862,2026-06-13,Bengaluru,BEN-07,AC Slow,Type 2,Subscriber,16.59,48.9,165.59,Saturday,Afternoon,Clear
+863,2026-06-13,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,15.07,26.4,177.63,Saturday,Afternoon,Cloudy
+864,2026-06-13,Bengaluru,BEN-06,DC Fast,CCS2,Subscriber,13.18,24.4,158.45,Saturday,Afternoon,Clear
+865,2026-06-14,Coimbatore,COI-03,DC Fast,CCS2,Subscriber,12.15,20.3,144.32,Sunday,Night,Clear
+866,2026-06-14,Coimbatore,COI-08,AC Slow,Type 2,Subscriber,19.35,55.7,232.95,Sunday,Afternoon,Rain
+867,2026-06-14,Coimbatore,COI-06,DC Fast,CCS2,Subscriber,6.17,11.6,72.46,Sunday,Evening,Clear
+868,2026-06-14,Coimbatore,COI-08,DC Fast,CCS2,Pay-as-you-go,28.92,49.6,301.23,Sunday,Afternoon,Clear
+869,2026-06-14,Coimbatore,COI-04,AC Slow,CHAdeMO,Subscriber,21.43,59.6,260.55,Sunday,Morning,Rain
+870,2026-06-14,Coimbatore,COI-08,AC Slow,CHAdeMO,Pay-as-you-go,37.58,94.5,436.54,Sunday,Afternoon,Clear
+871,2026-06-14,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,4.96,10.5,53.51,Sunday,Evening,Clear
+872,2026-06-14,Chennai,CHE-05,AC Slow,CHAdeMO,Subscriber,21.04,50.9,227.54,Sunday,Morning,Clear
+873,2026-06-14,Chennai,CHE-05,AC Slow,Type 2,Subscriber,28.45,73.8,294.99,Sunday,Evening,Clear
+874,2026-06-14,Chennai,CHE-02,DC Fast,CCS2,Pay-as-you-go,28.96,49.2,334.28,Sunday,Afternoon,Cloudy
+875,2026-06-14,Chennai,CHE-07,DC Fast,CCS2,Subscriber,12.66,21.7,156.38,Sunday,Night,Cloudy
+876,2026-06-14,Chennai,CHE-07,AC Slow,Type 2,Subscriber,21.91,57.9,235.74,Sunday,Afternoon,Clear
+877,2026-06-14,Chennai,CHE-01,AC Slow,CHAdeMO,Pay-as-you-go,23.51,58.6,280.64,Sunday,Afternoon,Clear
+878,2026-06-14,Chennai,CHE-08,DC Fast,CCS2,Subscriber,13.91,23.5,157.79,Sunday,Night,Clear
+879,2026-06-14,Chennai,CHE-08,AC Slow,Type 2,Pay-as-you-go,30.75,85.5,374.57,Sunday,Evening,Cloudy
+880,2026-06-14,Chennai,CHE-04,DC Fast,CCS2,Pay-as-you-go,9.66,20.8,94.76,Sunday,Morning,Clear
+881,2026-06-14,Chennai,CHE-04,DC Fast,CCS2,Subscriber,28.49,45.8,307.87,Sunday,Evening,Cloudy
+882,2026-06-14,Bengaluru,BEN-03,AC Slow,Type 2,Pay-as-you-go,25.13,69.5,312.73,Sunday,Night,Clear
+883,2026-06-14,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,12.33,23.6,129.64,Sunday,Evening,Rain
+884,2026-06-14,Bengaluru,BEN-08,DC Fast,CCS2,Pay-as-you-go,27.92,42.4,336.9,Sunday,Evening,Clear
+885,2026-06-14,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,23.56,61.5,263.61,Sunday,Morning,Clear
+886,2026-06-14,Bengaluru,BEN-05,AC Slow,Type 2,Pay-as-you-go,27.41,65.3,274.54,Sunday,Afternoon,Clear
+887,2026-06-14,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,17.0,52.9,192.09,Sunday,Afternoon,Clear
+888,2026-06-14,Bengaluru,BEN-06,DC Fast,CCS2,Subscriber,13.83,28.5,163.13,Sunday,Evening,Rain
+889,2026-06-15,Coimbatore,COI-05,AC Slow,CHAdeMO,Subscriber,19.6,51.8,215.74,Monday,Evening,Clear
+890,2026-06-15,Coimbatore,COI-02,AC Slow,Type 2,Subscriber,22.09,55.8,270.43,Monday,Morning,Clear
+891,2026-06-15,Coimbatore,COI-07,AC Slow,CHAdeMO,Subscriber,17.47,42.2,198.99,Monday,Evening,Rain
+892,2026-06-15,Coimbatore,COI-06,AC Slow,CHAdeMO,Pay-as-you-go,21.38,60.8,243.39,Monday,Morning,Clear
+893,2026-06-15,Coimbatore,COI-03,AC Slow,Type 2,Pay-as-you-go,21.29,56.3,214.0,Monday,Evening,Clear
+894,2026-06-15,Coimbatore,COI-06,DC Fast,CCS2,Subscriber,16.89,28.1,163.95,Monday,Evening,Clear
+895,2026-06-15,Coimbatore,COI-08,AC Slow,CHAdeMO,Pay-as-you-go,23.43,56.4,266.92,Monday,Afternoon,Clear
+896,2026-06-15,Chennai,CHE-01,AC Slow,CHAdeMO,Subscriber,19.48,64.1,188.59,Monday,Evening,Clear
+897,2026-06-15,Chennai,CHE-07,DC Fast,CCS2,Pay-as-you-go,11.5,22.1,118.52,Monday,Afternoon,Cloudy
+898,2026-06-15,Chennai,CHE-05,DC Fast,CCS2,Subscriber,11.44,19.9,122.04,Monday,Morning,Cloudy
+899,2026-06-15,Chennai,CHE-03,DC Fast,CCS2,Subscriber,15.86,30.5,155.31,Monday,Morning,Clear
+900,2026-06-15,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,21.91,55.3,239.18,Monday,Morning,Clear
+901,2026-06-15,Chennai,CHE-06,DC Fast,CCS2,Pay-as-you-go,18.88,32.2,210.92,Monday,Morning,Clear
+902,2026-06-15,Chennai,CHE-06,DC Fast,CCS2,Subscriber,17.64,31.7,220.12,Monday,Evening,Clear
+903,2026-06-15,Chennai,CHE-06,DC Fast,CCS2,Pay-as-you-go,16.57,25.8,191.93,Monday,Morning,Clear
+904,2026-06-15,Bengaluru,BEN-04,AC Slow,CHAdeMO,Subscriber,24.23,60.5,289.23,Monday,Evening,Clear
+905,2026-06-15,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,23.95,59.4,288.94,Monday,Evening,Clear
+906,2026-06-15,Bengaluru,BEN-05,AC Slow,Type 2,Pay-as-you-go,21.59,65.3,244.38,Monday,Night,Clear
+907,2026-06-15,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,11.02,18.6,131.82,Monday,Evening,Clear
+908,2026-06-15,Bengaluru,BEN-01,AC Slow,CHAdeMO,Subscriber,17.62,47.0,191.16,Monday,Evening,Clear
+909,2026-06-15,Bengaluru,BEN-01,AC Slow,CHAdeMO,Pay-as-you-go,23.92,57.2,243.78,Monday,Afternoon,Clear
+910,2026-06-15,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,13.51,22.5,137.71,Monday,Evening,Clear
+911,2026-06-16,Coimbatore,COI-08,AC Slow,CHAdeMO,Subscriber,20.09,60.4,213.39,Tuesday,Morning,Clear
+912,2026-06-16,Coimbatore,COI-01,AC Slow,Type 2,Subscriber,19.77,58.5,232.7,Tuesday,Morning,Cloudy
+913,2026-06-16,Coimbatore,COI-07,AC Slow,Type 2,Subscriber,20.22,53.9,250.48,Tuesday,Evening,Clear
+914,2026-06-16,Coimbatore,COI-03,AC Slow,CHAdeMO,Pay-as-you-go,23.45,59.2,230.51,Tuesday,Night,Cloudy
+915,2026-06-16,Chennai,CHE-01,AC Slow,CHAdeMO,Subscriber,26.13,66.8,271.48,Tuesday,Evening,Cloudy
+916,2026-06-16,Chennai,CHE-03,AC Slow,Type 2,Subscriber,23.1,59.2,227.38,Tuesday,Morning,Rain
+917,2026-06-16,Chennai,CHE-02,AC Slow,Type 2,Pay-as-you-go,24.7,67.0,259.4,Tuesday,Evening,Clear
+918,2026-06-16,Chennai,CHE-07,DC Fast,CCS2,Pay-as-you-go,17.34,37.2,168.21,Tuesday,Evening,Clear
+919,2026-06-16,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,9.92,20.0,95.2,Tuesday,Morning,Clear
+920,2026-06-16,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,19.43,53.5,215.14,Tuesday,Morning,Cloudy
+921,2026-06-16,Bengaluru,BEN-02,AC Slow,Type 2,Pay-as-you-go,16.12,54.5,182.44,Tuesday,Afternoon,Rain
+922,2026-06-16,Bengaluru,BEN-01,AC Slow,CHAdeMO,Subscriber,23.43,56.3,231.18,Tuesday,Evening,Cloudy
+923,2026-06-16,Bengaluru,BEN-01,AC Slow,CHAdeMO,Subscriber,23.84,58.4,268.22,Tuesday,Morning,Clear
+924,2026-06-16,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,11.13,16.9,114.04,Tuesday,Morning,Clear
+925,2026-06-16,Bengaluru,BEN-06,DC Fast,CCS2,Pay-as-you-go,10.92,18.7,120.4,Tuesday,Morning,Cloudy
+926,2026-06-16,Bengaluru,BEN-03,AC Slow,Type 2,Pay-as-you-go,16.55,49.0,165.33,Tuesday,Afternoon,Rain
+927,2026-06-17,Coimbatore,COI-06,AC Slow,CHAdeMO,Pay-as-you-go,21.91,57.2,271.8,Wednesday,Night,Clear
+928,2026-06-17,Coimbatore,COI-06,AC Slow,CHAdeMO,Pay-as-you-go,16.6,51.0,161.8,Wednesday,Night,Rain
+929,2026-06-17,Coimbatore,COI-03,AC Slow,Type 2,Subscriber,22.14,63.4,250.49,Wednesday,Evening,Cloudy
+930,2026-06-17,Chennai,CHE-05,AC Slow,CHAdeMO,Subscriber,17.97,61.8,196.56,Wednesday,Evening,Clear
+931,2026-06-17,Chennai,CHE-01,DC Fast,CCS2,Pay-as-you-go,15.62,23.3,148.94,Wednesday,Afternoon,Clear
+932,2026-06-17,Chennai,CHE-03,AC Slow,CHAdeMO,Pay-as-you-go,20.04,65.7,199.26,Wednesday,Afternoon,Clear
+933,2026-06-17,Chennai,CHE-08,DC Fast,CCS2,Subscriber,25.86,38.7,248.69,Wednesday,Evening,Clear
+934,2026-06-17,Bengaluru,BEN-03,AC Slow,Type 2,Pay-as-you-go,20.39,56.9,241.39,Wednesday,Evening,Cloudy
+935,2026-06-17,Bengaluru,BEN-03,AC Slow,Type 2,Pay-as-you-go,15.47,53.5,193.24,Wednesday,Evening,Clear
+936,2026-06-17,Bengaluru,BEN-03,DC Fast,CCS2,Pay-as-you-go,14.42,21.7,138.83,Wednesday,Night,Clear
+937,2026-06-17,Bengaluru,BEN-07,DC Fast,CCS2,Pay-as-you-go,9.47,14.1,112.68,Wednesday,Afternoon,Clear
+938,2026-06-17,Bengaluru,BEN-04,AC Slow,Type 2,Pay-as-you-go,19.84,59.8,194.88,Wednesday,Afternoon,Cloudy
+939,2026-06-17,Bengaluru,BEN-03,AC Slow,Type 2,Subscriber,19.32,46.7,209.48,Wednesday,Evening,Rain
+940,2026-06-17,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,12.3,39.9,117.37,Wednesday,Morning,Rain
+941,2026-06-17,Bengaluru,BEN-01,AC Slow,CHAdeMO,Subscriber,21.22,58.4,217.13,Wednesday,Morning,Clear
+942,2026-06-18,Coimbatore,COI-05,AC Slow,CHAdeMO,Subscriber,13.87,48.6,139.55,Thursday,Morning,Rain
+943,2026-06-18,Coimbatore,COI-06,AC Slow,CHAdeMO,Subscriber,22.55,55.4,244.05,Thursday,Morning,Clear
+944,2026-06-18,Coimbatore,COI-07,AC Slow,Type 2,Pay-as-you-go,23.15,59.2,289.19,Thursday,Morning,Rain
+945,2026-06-18,Coimbatore,COI-01,DC Fast,CCS2,Subscriber,16.12,32.3,177.48,Thursday,Evening,Clear
+946,2026-06-18,Coimbatore,COI-06,AC Slow,Type 2,Pay-as-you-go,15.1,40.5,184.69,Thursday,Evening,Clear
+947,2026-06-18,Coimbatore,COI-06,AC Slow,CHAdeMO,Subscriber,19.83,54.5,243.38,Thursday,Evening,Cloudy
+948,2026-06-18,Chennai,CHE-08,AC Slow,CHAdeMO,Pay-as-you-go,17.75,46.1,179.13,Thursday,Morning,Clear
+949,2026-06-18,Chennai,CHE-05,DC Fast,CCS2,Subscriber,9.38,16.8,105.15,Thursday,Morning,Rain
+950,2026-06-18,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,22.58,55.8,218.82,Thursday,Morning,Clear
+951,2026-06-18,Chennai,CHE-05,AC Slow,CHAdeMO,Pay-as-you-go,17.44,53.1,193.93,Thursday,Night,Clear
+952,2026-06-18,Chennai,CHE-08,AC Slow,CHAdeMO,Subscriber,23.39,66.1,234.23,Thursday,Evening,Clear
+953,2026-06-18,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,7.46,16.5,89.11,Thursday,Morning,Cloudy
+954,2026-06-18,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,13.62,21.8,151.55,Thursday,Morning,Clear
+955,2026-06-18,Bengaluru,BEN-04,AC Slow,CHAdeMO,Subscriber,15.27,49.3,156.72,Thursday,Evening,Rain
+956,2026-06-18,Bengaluru,BEN-01,DC Fast,CCS2,Pay-as-you-go,12.79,23.7,124.12,Thursday,Evening,Clear
+957,2026-06-18,Bengaluru,BEN-02,AC Slow,Type 2,Subscriber,14.89,42.2,157.98,Thursday,Morning,Clear
+958,2026-06-18,Bengaluru,BEN-02,AC Slow,CHAdeMO,Pay-as-you-go,19.82,59.6,220.78,Thursday,Evening,Clear
+959,2026-06-18,Bengaluru,BEN-04,AC Slow,Type 2,Subscriber,21.15,51.0,208.31,Thursday,Evening,Cloudy
+960,2026-06-18,Bengaluru,BEN-05,AC Slow,CHAdeMO,Pay-as-you-go,21.16,52.5,230.99,Thursday,Morning,Clear
+961,2026-06-19,Coimbatore,COI-07,DC Fast,CCS2,Pay-as-you-go,15.32,29.3,168.06,Friday,Evening,Clear
+962,2026-06-19,Coimbatore,COI-07,DC Fast,CCS2,Subscriber,21.75,32.6,268.51,Friday,Evening,Clear
+963,2026-06-19,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,12.52,19.1,134.65,Friday,Morning,Cloudy
+964,2026-06-19,Coimbatore,COI-02,AC Slow,Type 2,Subscriber,16.6,58.5,202.29,Friday,Evening,Clear
+965,2026-06-19,Coimbatore,COI-02,DC Fast,CCS2,Subscriber,14.25,24.9,158.76,Friday,Morning,Clear
+966,2026-06-19,Chennai,CHE-03,AC Slow,Type 2,Subscriber,19.49,69.0,187.93,Friday,Evening,Clear
+967,2026-06-19,Chennai,CHE-02,DC Fast,CCS2,Subscriber,29.65,47.6,327.55,Friday,Evening,Rain
+968,2026-06-19,Chennai,CHE-06,AC Slow,Type 2,Subscriber,32.5,79.4,324.99,Friday,Evening,Clear
+969,2026-06-19,Chennai,CHE-07,DC Fast,CCS2,Pay-as-you-go,5.81,11.1,67.93,Friday,Morning,Clear
+970,2026-06-19,Chennai,CHE-05,AC Slow,Type 2,Subscriber,15.54,42.2,183.05,Friday,Evening,Rain
+971,2026-06-19,Chennai,CHE-03,DC Fast,CCS2,Pay-as-you-go,11.93,20.8,132.64,Friday,Night,Clear
+972,2026-06-19,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,19.84,59.2,220.19,Friday,Evening,Clear
+973,2026-06-19,Bengaluru,BEN-01,AC Slow,CHAdeMO,Pay-as-you-go,16.51,54.8,163.09,Friday,Morning,Clear
+974,2026-06-19,Bengaluru,BEN-07,DC Fast,CCS2,Pay-as-you-go,8.18,15.2,96.51,Friday,Night,Clear
+975,2026-06-19,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,16.12,55.2,174.74,Friday,Evening,Clear
+976,2026-06-19,Bengaluru,BEN-04,AC Slow,CHAdeMO,Subscriber,22.15,59.8,232.9,Friday,Morning,Clear
+977,2026-06-19,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,13.85,25.7,149.02,Friday,Evening,Clear
+978,2026-06-20,Coimbatore,COI-02,DC Fast,CCS2,Subscriber,14.17,28.7,155.19,Saturday,Evening,Clear
+979,2026-06-20,Coimbatore,COI-04,AC Slow,Type 2,Subscriber,13.13,44.5,162.95,Saturday,Afternoon,Cloudy
+980,2026-06-20,Coimbatore,COI-03,DC Fast,CCS2,Subscriber,9.98,21.2,120.8,Saturday,Evening,Clear
+981,2026-06-20,Coimbatore,COI-08,DC Fast,CCS2,Subscriber,10.38,19.1,120.89,Saturday,Morning,Clear
+982,2026-06-20,Chennai,CHE-06,DC Fast,CCS2,Subscriber,21.02,33.5,211.53,Saturday,Evening,Rain
+983,2026-06-20,Chennai,CHE-02,DC Fast,CCS2,Subscriber,13.54,26.7,146.45,Saturday,Night,Clear
+984,2026-06-20,Chennai,CHE-01,AC Slow,CHAdeMO,Pay-as-you-go,31.91,85.1,373.78,Saturday,Night,Clear
+985,2026-06-20,Chennai,CHE-08,DC Fast,CCS2,Subscriber,16.35,26.5,170.28,Saturday,Evening,Clear
+986,2026-06-20,Chennai,CHE-06,AC Slow,Type 2,Pay-as-you-go,28.18,93.5,330.26,Saturday,Evening,Clear
+987,2026-06-20,Chennai,CHE-05,DC Fast,CCS2,Subscriber,12.72,19.1,150.53,Saturday,Afternoon,Cloudy
+988,2026-06-20,Chennai,CHE-02,DC Fast,CCS2,Subscriber,12.19,24.0,150.97,Saturday,Afternoon,Clear
+989,2026-06-20,Chennai,CHE-07,AC Slow,Type 2,Pay-as-you-go,28.19,80.2,325.53,Saturday,Evening,Cloudy
+990,2026-06-20,Chennai,CHE-05,AC Slow,Type 2,Pay-as-you-go,23.42,77.8,223.36,Saturday,Afternoon,Clear
+991,2026-06-20,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,17.82,52.4,176.59,Saturday,Afternoon,Clear
+992,2026-06-20,Chennai,CHE-07,AC Slow,Type 2,Pay-as-you-go,26.39,76.0,282.36,Saturday,Afternoon,Rain
+993,2026-06-20,Chennai,CHE-05,DC Fast,CCS2,Subscriber,12.24,21.6,119.1,Saturday,Morning,Clear
+994,2026-06-20,Bengaluru,BEN-08,AC Slow,Type 2,Subscriber,22.28,64.3,246.27,Saturday,Afternoon,Cloudy
+995,2026-06-20,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,22.1,60.3,254.29,Saturday,Morning,Clear
+996,2026-06-20,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,9.26,15.7,93.97,Saturday,Afternoon,Cloudy
+997,2026-06-20,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,11.65,20.9,131.36,Saturday,Afternoon,Cloudy
+998,2026-06-20,Bengaluru,BEN-03,AC Slow,CHAdeMO,Pay-as-you-go,27.76,69.6,270.32,Saturday,Afternoon,Clear
+999,2026-06-20,Bengaluru,BEN-04,DC Fast,CCS2,Pay-as-you-go,20.82,42.6,244.41,Saturday,Evening,Rain
+1000,2026-06-20,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,11.23,20.2,131.32,Saturday,Evening,Clear
+1001,2026-06-20,Bengaluru,BEN-08,DC Fast,CCS2,Pay-as-you-go,20.58,43.7,255.76,Saturday,Afternoon,Clear
+1002,2026-06-20,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,13.75,27.4,168.21,Saturday,Night,Clear
+1003,2026-06-20,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,8.62,13.1,107.53,Saturday,Afternoon,Rain
+1004,2026-06-20,Bengaluru,BEN-02,AC Slow,Type 2,Subscriber,15.25,52.5,181.68,Saturday,Morning,Cloudy
+1005,2026-06-20,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,14.03,45.8,171.76,Saturday,Evening,Cloudy
+1006,2026-06-20,Bengaluru,BEN-01,AC Slow,Type 2,Subscriber,18.94,48.7,192.97,Saturday,Afternoon,Rain
+1007,2026-06-20,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,9.67,18.1,98.95,Saturday,Morning,Rain
+1008,2026-06-21,Coimbatore,COI-04,DC Fast,CCS2,Pay-as-you-go,15.34,29.6,176.25,Sunday,Night,Clear
+1009,2026-06-21,Coimbatore,COI-01,AC Slow,Type 2,Subscriber,16.46,52.9,196.53,Sunday,Evening,Clear
+1010,2026-06-21,Coimbatore,COI-05,AC Slow,Type 2,Subscriber,24.93,62.7,286.21,Sunday,Evening,Cloudy
+1011,2026-06-21,Coimbatore,COI-01,DC Fast,CCS2,Pay-as-you-go,20.84,44.2,230.02,Sunday,Evening,Cloudy
+1012,2026-06-21,Coimbatore,COI-02,AC Slow,CHAdeMO,Subscriber,17.56,61.6,212.91,Sunday,Evening,Clear
+1013,2026-06-21,Chennai,CHE-08,DC Fast,CCS2,Subscriber,8.33,13.3,96.37,Sunday,Night,Clear
+1014,2026-06-21,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,23.63,70.4,242.63,Sunday,Evening,Clear
+1015,2026-06-21,Chennai,CHE-03,AC Slow,Type 2,Pay-as-you-go,27.98,87.8,339.25,Sunday,Evening,Clear
+1016,2026-06-21,Chennai,CHE-03,AC Slow,Type 2,Pay-as-you-go,30.1,74.9,300.98,Sunday,Night,Cloudy
+1017,2026-06-21,Chennai,CHE-07,AC Slow,Type 2,Subscriber,16.82,58.8,204.22,Sunday,Morning,Clear
+1018,2026-06-21,Chennai,CHE-06,DC Fast,CCS2,Subscriber,15.21,24.9,179.57,Sunday,Morning,Clear
+1019,2026-06-21,Chennai,CHE-01,AC Slow,CHAdeMO,Pay-as-you-go,29.86,79.7,338.85,Sunday,Night,Clear
+1020,2026-06-21,Chennai,CHE-02,DC Fast,CCS2,Subscriber,13.98,21.2,149.32,Sunday,Morning,Rain
+1021,2026-06-21,Chennai,CHE-07,DC Fast,CCS2,Pay-as-you-go,15.63,34.0,168.6,Sunday,Afternoon,Clear
+1022,2026-06-21,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,19.69,50.6,223.75,Sunday,Morning,Clear
+1023,2026-06-21,Bengaluru,BEN-04,AC Slow,Type 2,Pay-as-you-go,24.71,70.7,236.81,Sunday,Afternoon,Clear
+1024,2026-06-21,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,10.02,17.5,114.64,Sunday,Morning,Clear
+1025,2026-06-21,Bengaluru,BEN-02,AC Slow,CHAdeMO,Subscriber,16.52,55.2,157.56,Sunday,Evening,Clear
+1026,2026-06-21,Bengaluru,BEN-01,AC Slow,CHAdeMO,Subscriber,16.47,49.3,196.89,Sunday,Afternoon,Clear
+1027,2026-06-21,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,14.62,21.8,172.35,Sunday,Night,Clear
+1028,2026-06-21,Bengaluru,BEN-02,AC Slow,Type 2,Subscriber,20.66,58.1,247.47,Sunday,Afternoon,Cloudy
+1029,2026-06-21,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,10.62,18.4,122.64,Sunday,Afternoon,Clear
+1030,2026-06-21,Bengaluru,BEN-08,AC Slow,Type 2,Pay-as-you-go,30.7,80.0,376.5,Sunday,Afternoon,Clear
+1031,2026-06-21,Bengaluru,BEN-06,AC Slow,CHAdeMO,Subscriber,26.04,67.6,255.94,Sunday,Night,Clear
+1032,2026-06-21,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,7.51,14.8,71.36,Sunday,Night,Clear
+1033,2026-06-21,Bengaluru,BEN-04,AC Slow,Type 2,Subscriber,22.93,56.0,253.04,Sunday,Night,Clear
+1034,2026-06-21,Bengaluru,BEN-04,AC Slow,Type 2,Subscriber,20.02,52.0,244.55,Sunday,Evening,Cloudy
+1035,2026-06-21,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,17.75,26.6,192.97,Sunday,Evening,Clear
+1036,2026-06-21,Bengaluru,BEN-01,AC Slow,CHAdeMO,Subscriber,18.07,54.4,208.43,Sunday,Morning,Clear
+1037,2026-06-21,Bengaluru,BEN-03,AC Slow,Type 2,Pay-as-you-go,28.25,81.7,288.64,Sunday,Evening,Clear
+1038,2026-06-21,Bengaluru,BEN-01,DC Fast,CCS2,Pay-as-you-go,18.06,34.3,221.41,Sunday,Afternoon,Clear
+1039,2026-06-22,Coimbatore,COI-08,DC Fast,CCS2,Pay-as-you-go,9.05,14.8,99.34,Monday,Morning,Clear
+1040,2026-06-22,Coimbatore,COI-02,DC Fast,CCS2,Subscriber,4.75,8.3,46.23,Monday,Morning,Cloudy
+1041,2026-06-22,Coimbatore,COI-03,AC Slow,CHAdeMO,Pay-as-you-go,15.21,50.5,144.8,Monday,Morning,Rain
+1042,2026-06-22,Coimbatore,COI-01,AC Slow,Type 2,Pay-as-you-go,20.04,52.1,230.65,Monday,Evening,Rain
+1043,2026-06-22,Coimbatore,COI-02,DC Fast,CCS2,Subscriber,13.43,25.7,144.32,Monday,Morning,Clear
+1044,2026-06-22,Coimbatore,COI-02,DC Fast,CCS2,Subscriber,13.74,20.5,148.2,Monday,Morning,Cloudy
+1045,2026-06-22,Coimbatore,COI-08,DC Fast,CCS2,Subscriber,13.09,22.2,142.02,Monday,Morning,Clear
+1046,2026-06-22,Coimbatore,COI-04,AC Slow,CHAdeMO,Subscriber,20.11,60.3,223.31,Monday,Morning,Clear
+1047,2026-06-22,Chennai,CHE-01,AC Slow,Type 2,Subscriber,25.44,63.1,284.06,Monday,Evening,Cloudy
+1048,2026-06-22,Chennai,CHE-05,DC Fast,CCS2,Pay-as-you-go,14.13,25.0,136.43,Monday,Afternoon,Clear
+1049,2026-06-22,Chennai,CHE-01,AC Slow,CHAdeMO,Subscriber,19.81,49.7,214.75,Monday,Morning,Rain
+1050,2026-06-22,Chennai,CHE-08,AC Slow,Type 2,Subscriber,24.73,71.4,287.34,Monday,Evening,Clear
+1051,2026-06-22,Chennai,CHE-07,AC Slow,CHAdeMO,Subscriber,29.91,72.0,356.86,Monday,Evening,Clear
+1052,2026-06-22,Chennai,CHE-04,AC Slow,Type 2,Pay-as-you-go,21.37,54.4,226.98,Monday,Night,Rain
+1053,2026-06-22,Chennai,CHE-07,DC Fast,CCS2,Pay-as-you-go,14.33,26.1,155.49,Monday,Afternoon,Cloudy
+1054,2026-06-22,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,22.84,62.3,250.95,Monday,Evening,Clear
+1055,2026-06-22,Chennai,CHE-07,AC Slow,Type 2,Subscriber,27.37,65.5,329.77,Monday,Evening,Rain
+1056,2026-06-22,Chennai,CHE-01,DC Fast,CCS2,Subscriber,17.68,37.9,171.84,Monday,Evening,Clear
+1057,2026-06-22,Chennai,CHE-07,DC Fast,CCS2,Subscriber,8.02,17.2,77.57,Monday,Morning,Clear
+1058,2026-06-22,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,10.47,22.0,110.86,Monday,Evening,Clear
+1059,2026-06-22,Bengaluru,BEN-03,AC Slow,Type 2,Subscriber,14.75,47.0,154.35,Monday,Evening,Clear
+1060,2026-06-22,Bengaluru,BEN-03,AC Slow,Type 2,Subscriber,20.56,59.3,246.36,Monday,Morning,Clear
+1061,2026-06-22,Bengaluru,BEN-06,AC Slow,Type 2,Pay-as-you-go,19.22,57.0,233.21,Monday,Afternoon,Rain
+1062,2026-06-22,Bengaluru,BEN-04,DC Fast,CCS2,Pay-as-you-go,11.66,22.9,120.21,Monday,Afternoon,Clear
+1063,2026-06-22,Bengaluru,BEN-07,AC Slow,CHAdeMO,Subscriber,13.95,49.1,147.15,Monday,Morning,Rain
+1064,2026-06-22,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,21.23,66.2,232.38,Monday,Morning,Cloudy
+1065,2026-06-22,Bengaluru,BEN-07,AC Slow,Type 2,Subscriber,14.56,42.3,167.71,Monday,Evening,Clear
+1066,2026-06-22,Bengaluru,BEN-01,AC Slow,Type 2,Subscriber,22.99,61.0,284.09,Monday,Morning,Cloudy
+1067,2026-06-22,Bengaluru,BEN-04,AC Slow,Type 2,Pay-as-you-go,21.11,52.6,223.51,Monday,Night,Clear
+1068,2026-06-22,Bengaluru,BEN-06,DC Fast,CCS2,Subscriber,7.43,15.7,86.61,Monday,Morning,Cloudy
+1069,2026-06-23,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,18.78,29.6,191.69,Tuesday,Evening,Clear
+1070,2026-06-23,Coimbatore,COI-01,DC Fast,CCS2,Subscriber,14.06,29.1,166.21,Tuesday,Morning,Cloudy
+1071,2026-06-23,Chennai,CHE-01,DC Fast,CCS2,Subscriber,17.59,27.3,173.98,Tuesday,Evening,Clear
+1072,2026-06-23,Chennai,CHE-07,DC Fast,CCS2,Subscriber,18.74,41.6,224.49,Tuesday,Evening,Clear
+1073,2026-06-23,Chennai,CHE-04,DC Fast,CCS2,Subscriber,17.09,25.8,202.62,Tuesday,Morning,Clear
+1074,2026-06-23,Chennai,CHE-06,AC Slow,CHAdeMO,Pay-as-you-go,14.57,49.0,139.42,Tuesday,Night,Clear
+1075,2026-06-23,Chennai,CHE-01,AC Slow,Type 2,Subscriber,22.21,53.2,229.16,Tuesday,Morning,Clear
+1076,2026-06-23,Bengaluru,BEN-01,AC Slow,CHAdeMO,Pay-as-you-go,18.2,45.7,220.96,Tuesday,Evening,Rain
+1077,2026-06-23,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,15.45,23.8,167.21,Tuesday,Morning,Clear
+1078,2026-06-23,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,13.21,21.6,163.47,Tuesday,Morning,Clear
+1079,2026-06-23,Bengaluru,BEN-07,AC Slow,CHAdeMO,Pay-as-you-go,20.27,54.0,229.32,Tuesday,Evening,Cloudy
+1080,2026-06-23,Bengaluru,BEN-07,AC Slow,CHAdeMO,Pay-as-you-go,19.55,47.0,225.08,Tuesday,Afternoon,Clear
+1081,2026-06-23,Bengaluru,BEN-02,AC Slow,Type 2,Subscriber,16.22,55.2,196.42,Tuesday,Evening,Clear
+1082,2026-06-23,Bengaluru,BEN-01,AC Slow,Type 2,Subscriber,28.39,71.3,334.78,Tuesday,Morning,Clear
+1083,2026-06-23,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,7.42,14.4,81.66,Tuesday,Morning,Cloudy
+1084,2026-06-24,Coimbatore,COI-04,AC Slow,Type 2,Subscriber,19.76,60.7,197.66,Wednesday,Morning,Cloudy
+1085,2026-06-24,Coimbatore,COI-04,DC Fast,CCS2,Pay-as-you-go,12.82,28.3,141.0,Wednesday,Night,Clear
+1086,2026-06-24,Coimbatore,COI-05,AC Slow,Type 2,Pay-as-you-go,20.23,56.0,244.43,Wednesday,Morning,Clear
+1087,2026-06-24,Chennai,CHE-03,DC Fast,CCS2,Subscriber,22.79,49.3,234.48,Wednesday,Evening,Clear
+1088,2026-06-24,Chennai,CHE-01,DC Fast,CCS2,Subscriber,24.25,41.9,249.91,Wednesday,Evening,Clear
+1089,2026-06-24,Chennai,CHE-07,DC Fast,CCS2,Subscriber,11.82,24.2,118.86,Wednesday,Morning,Clear
+1090,2026-06-24,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,17.44,56.7,185.45,Wednesday,Morning,Clear
+1091,2026-06-24,Chennai,CHE-01,DC Fast,CCS2,Subscriber,21.47,38.1,266.18,Wednesday,Evening,Clear
+1092,2026-06-24,Chennai,CHE-06,AC Slow,CHAdeMO,Subscriber,16.72,59.3,177.12,Wednesday,Morning,Cloudy
+1093,2026-06-24,Chennai,CHE-04,AC Slow,CHAdeMO,Pay-as-you-go,23.72,69.0,249.26,Wednesday,Evening,Clear
+1094,2026-06-24,Bengaluru,BEN-08,AC Slow,Type 2,Subscriber,19.8,58.1,188.8,Wednesday,Morning,Clear
+1095,2026-06-24,Bengaluru,BEN-04,AC Slow,Type 2,Subscriber,20.48,51.2,233.0,Wednesday,Evening,Rain
+1096,2026-06-24,Bengaluru,BEN-02,AC Slow,CHAdeMO,Subscriber,21.74,63.3,246.4,Wednesday,Morning,Clear
+1097,2026-06-24,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,5.55,10.2,62.79,Wednesday,Morning,Clear
+1098,2026-06-24,Bengaluru,BEN-03,AC Slow,Type 2,Pay-as-you-go,18.25,59.3,185.54,Wednesday,Morning,Clear
+1099,2026-06-24,Bengaluru,BEN-03,DC Fast,CCS2,Pay-as-you-go,13.82,27.1,149.47,Wednesday,Morning,Clear
+1100,2026-06-24,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,14.62,40.4,175.63,Wednesday,Morning,Rain
+1101,2026-06-25,Coimbatore,COI-03,DC Fast,CCS2,Subscriber,10.19,20.8,126.72,Thursday,Morning,Clear
+1102,2026-06-25,Chennai,CHE-08,DC Fast,CCS2,Subscriber,19.51,32.4,198.41,Thursday,Evening,Clear
+1103,2026-06-25,Chennai,CHE-06,AC Slow,CHAdeMO,Subscriber,16.64,50.7,189.45,Thursday,Morning,Cloudy
+1104,2026-06-25,Chennai,CHE-07,AC Slow,CHAdeMO,Subscriber,27.25,81.8,326.05,Thursday,Evening,Clear
+1105,2026-06-25,Chennai,CHE-07,AC Slow,Type 2,Subscriber,22.04,73.0,224.01,Thursday,Evening,Cloudy
+1106,2026-06-25,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,8.79,14.5,84.16,Thursday,Morning,Clear
+1107,2026-06-25,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,9.39,15.9,104.16,Thursday,Morning,Clear
+1108,2026-06-25,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,21.72,56.6,261.23,Thursday,Morning,Cloudy
+1109,2026-06-25,Bengaluru,BEN-07,AC Slow,CHAdeMO,Subscriber,18.57,60.4,199.35,Thursday,Evening,Clear
+1110,2026-06-25,Bengaluru,BEN-02,AC Slow,Type 2,Subscriber,20.1,49.5,244.85,Thursday,Morning,Clear
+1111,2026-06-25,Bengaluru,BEN-06,DC Fast,CCS2,Subscriber,15.7,33.7,194.11,Thursday,Morning,Cloudy
+1112,2026-06-25,Bengaluru,BEN-08,DC Fast,CCS2,Pay-as-you-go,23.4,36.1,233.5,Thursday,Afternoon,Clear
+1113,2026-06-25,Bengaluru,BEN-07,DC Fast,CCS2,Pay-as-you-go,14.92,23.9,142.18,Thursday,Evening,Clear
+1114,2026-06-26,Coimbatore,COI-07,AC Slow,CHAdeMO,Subscriber,15.14,52.0,169.07,Friday,Morning,Rain
+1115,2026-06-26,Coimbatore,COI-06,DC Fast,CCS2,Subscriber,9.15,19.3,94.71,Friday,Evening,Clear
+1116,2026-06-26,Coimbatore,COI-01,DC Fast,CCS2,Pay-as-you-go,6.05,11.6,58.63,Friday,Morning,Clear
+1117,2026-06-26,Coimbatore,COI-04,AC Slow,CHAdeMO,Subscriber,19.67,56.4,192.14,Friday,Morning,Clear
+1118,2026-06-26,Coimbatore,COI-02,DC Fast,CCS2,Subscriber,14.36,25.3,167.42,Friday,Morning,Clear
+1119,2026-06-26,Coimbatore,COI-06,AC Slow,Type 2,Subscriber,20.47,50.2,222.12,Friday,Morning,Clear
+1120,2026-06-26,Chennai,CHE-08,DC Fast,CCS2,Pay-as-you-go,12.7,23.8,146.59,Friday,Evening,Clear
+1121,2026-06-26,Chennai,CHE-01,AC Slow,CHAdeMO,Subscriber,21.25,60.3,254.59,Friday,Morning,Clear
+1122,2026-06-26,Chennai,CHE-01,AC Slow,CHAdeMO,Pay-as-you-go,18.36,48.4,213.12,Friday,Morning,Rain
+1123,2026-06-26,Chennai,CHE-03,DC Fast,CCS2,Subscriber,14.69,25.1,149.65,Friday,Morning,Clear
+1124,2026-06-26,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,13.05,37.8,146.16,Friday,Morning,Rain
+1125,2026-06-26,Chennai,CHE-05,AC Slow,CHAdeMO,Subscriber,18.44,58.4,198.73,Friday,Morning,Clear
+1126,2026-06-26,Bengaluru,BEN-08,AC Slow,Type 2,Pay-as-you-go,12.94,45.2,138.82,Friday,Morning,Clear
+1127,2026-06-26,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,10.42,19.1,121.96,Friday,Evening,Cloudy
+1128,2026-06-26,Bengaluru,BEN-01,AC Slow,Type 2,Subscriber,17.99,56.6,195.12,Friday,Evening,Cloudy
+1129,2026-06-26,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,15.04,31.1,153.85,Friday,Morning,Clear
+1130,2026-06-26,Bengaluru,BEN-04,AC Slow,CHAdeMO,Subscriber,13.1,46.6,144.63,Friday,Morning,Clear
+1131,2026-06-26,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,23.5,60.6,225.91,Friday,Morning,Cloudy
+1132,2026-06-26,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,5.72,10.1,55.36,Friday,Morning,Clear
+1133,2026-06-26,Bengaluru,BEN-04,AC Slow,CHAdeMO,Subscriber,17.24,56.5,212.61,Friday,Evening,Clear
+1134,2026-06-26,Bengaluru,BEN-01,AC Slow,Type 2,Subscriber,23.29,58.9,288.93,Friday,Evening,Rain
+1135,2026-06-26,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,17.66,53.4,205.33,Friday,Morning,Clear
+1136,2026-06-26,Bengaluru,BEN-07,AC Slow,Type 2,Pay-as-you-go,16.3,54.8,199.18,Friday,Morning,Clear
+1137,2026-06-26,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,12.29,23.5,153.34,Friday,Morning,Rain
+1138,2026-06-26,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,7.26,14.8,74.91,Friday,Morning,Rain
+1139,2026-06-27,Coimbatore,COI-03,DC Fast,CCS2,Subscriber,13.88,24.1,163.99,Saturday,Afternoon,Clear
+1140,2026-06-27,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,17.25,31.3,210.89,Saturday,Night,Cloudy
+1141,2026-06-27,Coimbatore,COI-06,AC Slow,CHAdeMO,Pay-as-you-go,26.92,68.6,274.03,Saturday,Evening,Rain
+1142,2026-06-27,Chennai,CHE-05,AC Slow,Type 2,Pay-as-you-go,30.0,87.2,287.45,Saturday,Evening,Clear
+1143,2026-06-27,Chennai,CHE-07,DC Fast,CCS2,Pay-as-you-go,33.57,52.9,372.02,Saturday,Evening,Clear
+1144,2026-06-27,Chennai,CHE-03,DC Fast,CCS2,Subscriber,24.2,43.1,276.61,Saturday,Evening,Clear
+1145,2026-06-27,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,21.17,69.8,201.73,Saturday,Evening,Cloudy
+1146,2026-06-27,Chennai,CHE-07,DC Fast,CCS2,Subscriber,10.5,18.4,115.6,Saturday,Night,Clear
+1147,2026-06-27,Chennai,CHE-07,DC Fast,CCS2,Pay-as-you-go,21.36,38.5,253.67,Saturday,Afternoon,Clear
+1148,2026-06-27,Chennai,CHE-06,DC Fast,CCS2,Subscriber,21.7,34.5,208.28,Saturday,Evening,Cloudy
+1149,2026-06-27,Chennai,CHE-03,AC Slow,Type 2,Pay-as-you-go,23.64,71.7,286.75,Saturday,Morning,Clear
+1150,2026-06-27,Chennai,CHE-04,AC Slow,Type 2,Pay-as-you-go,29.92,84.5,320.68,Saturday,Morning,Cloudy
+1151,2026-06-27,Chennai,CHE-02,DC Fast,CCS2,Subscriber,11.13,21.4,106.28,Saturday,Night,Clear
+1152,2026-06-27,Bengaluru,BEN-02,AC Slow,Type 2,Pay-as-you-go,21.29,65.5,236.78,Saturday,Afternoon,Cloudy
+1153,2026-06-27,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,18.08,32.3,200.04,Saturday,Evening,Cloudy
+1154,2026-06-27,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,17.9,27.9,198.16,Saturday,Afternoon,Cloudy
+1155,2026-06-27,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,23.25,39.8,249.61,Saturday,Afternoon,Cloudy
+1156,2026-06-27,Bengaluru,BEN-07,AC Slow,Type 2,Pay-as-you-go,21.08,65.8,243.71,Saturday,Afternoon,Clear
+1157,2026-06-27,Bengaluru,BEN-04,AC Slow,Type 2,Subscriber,22.52,58.2,272.39,Saturday,Evening,Clear
+1158,2026-06-27,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,18.85,57.8,202.99,Saturday,Evening,Clear
+1159,2026-06-27,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,15.0,23.8,179.13,Saturday,Morning,Clear
+1160,2026-06-27,Bengaluru,BEN-01,AC Slow,CHAdeMO,Subscriber,15.98,53.8,198.72,Saturday,Night,Cloudy
+1161,2026-06-27,Bengaluru,BEN-03,AC Slow,Type 2,Subscriber,13.29,42.5,132.71,Saturday,Evening,Clear
+1162,2026-06-27,Bengaluru,BEN-01,DC Fast,CCS2,Pay-as-you-go,22.14,34.3,239.45,Saturday,Night,Clear
+1163,2026-06-27,Bengaluru,BEN-02,AC Slow,Type 2,Subscriber,16.82,58.5,165.45,Saturday,Evening,Clear
+1164,2026-06-27,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,18.63,31.8,231.63,Saturday,Night,Rain
+1165,2026-06-28,Coimbatore,COI-01,DC Fast,CCS2,Subscriber,8.06,13.0,89.06,Sunday,Afternoon,Cloudy
+1166,2026-06-28,Coimbatore,COI-01,AC Slow,CHAdeMO,Pay-as-you-go,19.38,59.7,184.93,Sunday,Evening,Rain
+1167,2026-06-28,Coimbatore,COI-07,DC Fast,CCS2,Subscriber,10.88,23.5,129.06,Sunday,Afternoon,Clear
+1168,2026-06-28,Coimbatore,COI-08,DC Fast,CCS2,Pay-as-you-go,23.17,37.3,226.26,Sunday,Night,Clear
+1169,2026-06-28,Coimbatore,COI-08,AC Slow,CHAdeMO,Subscriber,23.73,62.4,257.59,Sunday,Evening,Clear
+1170,2026-06-28,Coimbatore,COI-08,AC Slow,CHAdeMO,Subscriber,18.71,56.1,232.17,Sunday,Night,Clear
+1171,2026-06-28,Chennai,CHE-03,AC Slow,Type 2,Pay-as-you-go,27.8,79.6,316.16,Sunday,Morning,Clear
+1172,2026-06-28,Chennai,CHE-08,DC Fast,CCS2,Pay-as-you-go,28.55,53.3,324.37,Sunday,Evening,Rain
+1173,2026-06-28,Chennai,CHE-07,AC Slow,CHAdeMO,Subscriber,28.13,80.2,297.04,Sunday,Evening,Clear
+1174,2026-06-28,Chennai,CHE-07,DC Fast,CCS2,Pay-as-you-go,27.51,47.0,262.7,Sunday,Morning,Cloudy
+1175,2026-06-28,Chennai,CHE-01,DC Fast,CCS2,Pay-as-you-go,30.28,58.9,376.36,Sunday,Evening,Clear
+1176,2026-06-28,Chennai,CHE-08,AC Slow,CHAdeMO,Pay-as-you-go,30.24,73.4,301.9,Sunday,Afternoon,Cloudy
+1177,2026-06-28,Chennai,CHE-05,AC Slow,Type 2,Pay-as-you-go,25.72,68.6,320.61,Sunday,Afternoon,Clear
+1178,2026-06-28,Chennai,CHE-06,AC Slow,CHAdeMO,Pay-as-you-go,28.42,72.9,304.26,Sunday,Morning,Clear
+1179,2026-06-28,Chennai,CHE-02,AC Slow,Type 2,Pay-as-you-go,30.63,84.9,311.13,Sunday,Evening,Clear
+1180,2026-06-28,Chennai,CHE-06,DC Fast,CCS2,Subscriber,16.53,27.5,177.45,Sunday,Afternoon,Rain
+1181,2026-06-28,Chennai,CHE-07,DC Fast,CCS2,Pay-as-you-go,15.39,29.8,162.02,Sunday,Morning,Rain
+1182,2026-06-28,Chennai,CHE-04,AC Slow,Type 2,Subscriber,24.24,62.1,248.55,Sunday,Afternoon,Clear
+1183,2026-06-28,Chennai,CHE-05,AC Slow,Type 2,Subscriber,29.85,74.1,345.75,Sunday,Evening,Clear
+1184,2026-06-28,Chennai,CHE-07,AC Slow,Type 2,Subscriber,22.06,54.8,245.26,Sunday,Night,Clear
+1185,2026-06-28,Bengaluru,BEN-07,DC Fast,CCS2,Pay-as-you-go,21.06,40.0,225.96,Sunday,Morning,Cloudy
+1186,2026-06-28,Bengaluru,BEN-01,DC Fast,CCS2,Pay-as-you-go,22.44,37.8,276.23,Sunday,Evening,Clear
+1187,2026-06-28,Bengaluru,BEN-06,DC Fast,CCS2,Subscriber,12.29,21.8,134.68,Sunday,Evening,Cloudy
+1188,2026-06-28,Bengaluru,BEN-02,AC Slow,CHAdeMO,Subscriber,19.51,56.8,220.23,Sunday,Morning,Clear
+1189,2026-06-28,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,13.34,21.3,138.45,Sunday,Afternoon,Clear
+1190,2026-06-28,Bengaluru,BEN-03,DC Fast,CCS2,Pay-as-you-go,19.05,29.9,210.59,Sunday,Afternoon,Cloudy
+1191,2026-06-28,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,5.29,8.0,60.99,Sunday,Afternoon,Cloudy
+1192,2026-06-28,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,7.24,13.3,73.65,Sunday,Morning,Clear
+1193,2026-06-28,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,14.71,24.9,141.66,Sunday,Morning,Cloudy
+1194,2026-06-28,Bengaluru,BEN-04,DC Fast,CCS2,Pay-as-you-go,28.53,43.9,274.43,Sunday,Morning,Clear
+1195,2026-06-28,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,15.35,23.8,186.71,Sunday,Night,Clear
+1196,2026-06-29,Coimbatore,COI-04,AC Slow,CHAdeMO,Subscriber,16.1,55.8,188.03,Monday,Morning,Cloudy
+1197,2026-06-29,Coimbatore,COI-08,AC Slow,CHAdeMO,Subscriber,19.13,59.2,230.96,Monday,Evening,Clear
+1198,2026-06-29,Coimbatore,COI-03,DC Fast,CCS2,Subscriber,9.81,19.2,112.53,Monday,Morning,Clear
+1199,2026-06-29,Coimbatore,COI-07,AC Slow,Type 2,Pay-as-you-go,16.86,57.4,184.35,Monday,Night,Rain
+1200,2026-06-29,Chennai,CHE-07,AC Slow,Type 2,Subscriber,28.07,82.2,304.76,Monday,Evening,Clear
+1201,2026-06-29,Chennai,CHE-04,AC Slow,Type 2,Pay-as-you-go,15.85,52.4,162.06,Monday,Afternoon,Clear
+1202,2026-06-29,Chennai,CHE-02,DC Fast,CCS2,Pay-as-you-go,15.75,26.5,182.02,Monday,Afternoon,Clear
+1203,2026-06-29,Chennai,CHE-03,DC Fast,CCS2,Pay-as-you-go,11.88,19.0,134.53,Monday,Night,Clear
+1204,2026-06-29,Chennai,CHE-07,AC Slow,CHAdeMO,Subscriber,21.92,63.3,251.14,Monday,Evening,Rain
+1205,2026-06-29,Chennai,CHE-05,AC Slow,CHAdeMO,Subscriber,20.09,62.6,233.83,Monday,Morning,Clear
+1206,2026-06-29,Chennai,CHE-03,AC Slow,CHAdeMO,Pay-as-you-go,20.65,66.7,252.14,Monday,Evening,Clear
+1207,2026-06-29,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,19.61,63.8,206.6,Monday,Morning,Clear
+1208,2026-06-29,Bengaluru,BEN-02,AC Slow,CHAdeMO,Subscriber,15.16,52.4,182.9,Monday,Morning,Clear
+1209,2026-06-29,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,12.45,22.8,124.72,Monday,Morning,Clear
+1210,2026-06-29,Bengaluru,BEN-02,AC Slow,Type 2,Pay-as-you-go,15.53,48.3,184.11,Monday,Morning,Cloudy
+1211,2026-06-29,Bengaluru,BEN-08,AC Slow,CHAdeMO,Pay-as-you-go,16.38,48.3,195.77,Monday,Evening,Clear
+1212,2026-06-29,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,18.68,51.5,204.25,Monday,Evening,Clear
+1213,2026-06-29,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,17.32,55.6,205.67,Monday,Morning,Clear
+1214,2026-06-30,Coimbatore,COI-08,DC Fast,CCS2,Subscriber,11.31,20.6,118.47,Tuesday,Morning,Cloudy
+1215,2026-06-30,Coimbatore,COI-08,AC Slow,Type 2,Pay-as-you-go,19.74,61.3,238.89,Tuesday,Morning,Clear
+1216,2026-06-30,Coimbatore,COI-04,AC Slow,CHAdeMO,Subscriber,20.17,55.3,201.59,Tuesday,Morning,Clear
+1217,2026-06-30,Coimbatore,COI-02,DC Fast,CCS2,Subscriber,4.18,8.9,43.6,Tuesday,Morning,Rain
+1218,2026-06-30,Coimbatore,COI-02,AC Slow,Type 2,Pay-as-you-go,20.59,62.3,225.12,Tuesday,Evening,Clear
+1219,2026-06-30,Coimbatore,COI-03,AC Slow,Type 2,Subscriber,12.33,43.5,123.19,Tuesday,Morning,Clear
+1220,2026-06-30,Coimbatore,COI-04,AC Slow,Type 2,Pay-as-you-go,20.78,60.6,237.98,Tuesday,Evening,Cloudy
+1221,2026-06-30,Coimbatore,COI-01,DC Fast,CCS2,Pay-as-you-go,17.61,26.9,200.72,Tuesday,Morning,Clear
+1222,2026-06-30,Chennai,CHE-07,DC Fast,CCS2,Pay-as-you-go,11.72,24.9,145.15,Tuesday,Morning,Clear
+1223,2026-06-30,Chennai,CHE-01,DC Fast,CCS2,Subscriber,24.81,41.9,302.5,Tuesday,Evening,Cloudy
+1224,2026-06-30,Chennai,CHE-06,AC Slow,CHAdeMO,Subscriber,16.27,48.5,198.88,Tuesday,Evening,Cloudy
+1225,2026-06-30,Chennai,CHE-08,AC Slow,CHAdeMO,Subscriber,26.16,69.4,294.56,Tuesday,Evening,Clear
+1226,2026-06-30,Chennai,CHE-04,DC Fast,CCS2,Pay-as-you-go,12.02,22.2,125.22,Tuesday,Morning,Clear
+1227,2026-06-30,Bengaluru,BEN-07,AC Slow,CHAdeMO,Pay-as-you-go,17.29,53.9,199.05,Tuesday,Night,Rain
+1228,2026-06-30,Bengaluru,BEN-01,AC Slow,CHAdeMO,Pay-as-you-go,18.23,46.7,223.42,Tuesday,Evening,Clear
+1229,2026-06-30,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,10.88,19.6,118.54,Tuesday,Evening,Clear
+1230,2026-06-30,Bengaluru,BEN-04,AC Slow,CHAdeMO,Pay-as-you-go,17.92,46.1,179.43,Tuesday,Afternoon,Clear
+1231,2026-06-30,Bengaluru,BEN-05,AC Slow,Type 2,Subscriber,22.67,62.2,242.2,Tuesday,Evening,Clear
+1232,2026-06-30,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,7.32,14.7,76.0,Tuesday,Evening,Clear
+1233,2026-06-30,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,14.89,22.3,184.39,Tuesday,Morning,Cloudy
+1234,2026-06-30,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,14.86,23.4,183.21,Tuesday,Evening,Clear
+1235,2026-06-30,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,22.16,54.8,264.94,Tuesday,Evening,Clear
+1236,2026-07-01,Coimbatore,COI-07,AC Slow,Type 2,Subscriber,14.64,42.9,181.49,Wednesday,Morning,Clear
+1237,2026-07-01,Coimbatore,COI-08,AC Slow,CHAdeMO,Subscriber,20.69,52.6,233.2,Wednesday,Morning,Rain
+1238,2026-07-01,Coimbatore,COI-03,AC Slow,Type 2,Pay-as-you-go,15.64,53.7,178.4,Wednesday,Night,Clear
+1239,2026-07-01,Coimbatore,COI-07,AC Slow,CHAdeMO,Subscriber,18.68,55.5,218.08,Wednesday,Morning,Clear
+1240,2026-07-01,Chennai,CHE-01,AC Slow,CHAdeMO,Subscriber,16.63,49.0,176.03,Wednesday,Morning,Rain
+1241,2026-07-01,Chennai,CHE-02,DC Fast,CCS2,Pay-as-you-go,16.06,35.3,153.93,Wednesday,Evening,Clear
+1242,2026-07-01,Chennai,CHE-02,AC Slow,Type 2,Subscriber,17.78,56.0,191.4,Wednesday,Morning,Cloudy
+1243,2026-07-01,Chennai,CHE-07,AC Slow,CHAdeMO,Subscriber,15.15,48.8,154.61,Wednesday,Morning,Cloudy
+1244,2026-07-01,Chennai,CHE-05,AC Slow,CHAdeMO,Pay-as-you-go,24.5,69.7,287.89,Wednesday,Evening,Clear
+1245,2026-07-01,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,9.51,19.3,109.87,Wednesday,Morning,Cloudy
+1246,2026-07-01,Bengaluru,BEN-04,AC Slow,CHAdeMO,Pay-as-you-go,24.37,61.1,240.05,Wednesday,Afternoon,Cloudy
+1247,2026-07-01,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,3.97,8.0,40.54,Wednesday,Evening,Rain
+1248,2026-07-01,Bengaluru,BEN-04,AC Slow,CHAdeMO,Pay-as-you-go,23.74,57.8,289.73,Wednesday,Evening,Cloudy
+1249,2026-07-01,Bengaluru,BEN-08,DC Fast,CCS2,Pay-as-you-go,16.38,28.8,185.88,Wednesday,Evening,Cloudy
+1250,2026-07-02,Coimbatore,COI-08,AC Slow,Type 2,Subscriber,20.1,51.4,236.35,Thursday,Evening,Clear
+1251,2026-07-02,Coimbatore,COI-04,AC Slow,CHAdeMO,Subscriber,19.91,58.8,240.72,Thursday,Morning,Clear
+1252,2026-07-02,Coimbatore,COI-05,AC Slow,CHAdeMO,Pay-as-you-go,17.43,46.5,204.26,Thursday,Afternoon,Rain
+1253,2026-07-02,Coimbatore,COI-03,DC Fast,CCS2,Pay-as-you-go,9.69,15.8,97.68,Thursday,Morning,Clear
+1254,2026-07-02,Chennai,CHE-01,AC Slow,Type 2,Subscriber,24.18,71.0,298.0,Thursday,Evening,Clear
+1255,2026-07-02,Chennai,CHE-04,AC Slow,CHAdeMO,Pay-as-you-go,20.11,66.9,195.04,Thursday,Evening,Clear
+1256,2026-07-02,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,16.95,49.5,197.99,Thursday,Morning,Rain
+1257,2026-07-02,Chennai,CHE-02,DC Fast,CCS2,Subscriber,20.76,34.9,235.35,Thursday,Evening,Rain
+1258,2026-07-02,Chennai,CHE-05,AC Slow,Type 2,Pay-as-you-go,23.28,75.0,264.48,Thursday,Evening,Cloudy
+1259,2026-07-02,Chennai,CHE-07,AC Slow,CHAdeMO,Subscriber,21.02,58.5,236.58,Thursday,Morning,Clear
+1260,2026-07-02,Chennai,CHE-02,DC Fast,CCS2,Subscriber,17.58,27.7,197.28,Thursday,Evening,Clear
+1261,2026-07-02,Bengaluru,BEN-04,AC Slow,CHAdeMO,Pay-as-you-go,18.67,47.4,229.33,Thursday,Afternoon,Rain
+1262,2026-07-02,Bengaluru,BEN-01,AC Slow,CHAdeMO,Pay-as-you-go,19.69,56.9,230.51,Thursday,Morning,Clear
+1263,2026-07-02,Bengaluru,BEN-03,AC Slow,CHAdeMO,Pay-as-you-go,22.51,69.8,219.28,Thursday,Morning,Clear
+1264,2026-07-02,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,19.1,50.7,222.17,Thursday,Morning,Cloudy
+1265,2026-07-02,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,12.07,22.5,140.81,Thursday,Morning,Clear
+1266,2026-07-02,Bengaluru,BEN-07,AC Slow,Type 2,Subscriber,13.57,44.9,169.57,Thursday,Evening,Clear
+1267,2026-07-02,Bengaluru,BEN-08,AC Slow,CHAdeMO,Pay-as-you-go,24.06,65.2,266.61,Thursday,Afternoon,Cloudy
+1268,2026-07-02,Bengaluru,BEN-05,AC Slow,Type 2,Pay-as-you-go,20.55,68.4,222.24,Thursday,Morning,Clear
+1269,2026-07-02,Bengaluru,BEN-02,AC Slow,CHAdeMO,Subscriber,19.07,50.7,182.49,Thursday,Morning,Clear
+1270,2026-07-02,Bengaluru,BEN-04,AC Slow,Type 2,Subscriber,20.05,53.5,217.08,Thursday,Morning,Clear
+1271,2026-07-02,Bengaluru,BEN-05,AC Slow,Type 2,Subscriber,21.49,56.5,254.29,Thursday,Evening,Cloudy
+1272,2026-07-02,Bengaluru,BEN-08,AC Slow,Type 2,Pay-as-you-go,15.36,51.4,164.25,Thursday,Night,Rain
+1273,2026-07-03,Coimbatore,COI-01,DC Fast,CCS2,Subscriber,11.82,17.7,138.57,Friday,Morning,Clear
+1274,2026-07-03,Coimbatore,COI-07,DC Fast,CCS2,Subscriber,11.61,25.1,138.94,Friday,Evening,Clear
+1275,2026-07-03,Coimbatore,COI-08,DC Fast,CCS2,Subscriber,7.61,15.4,82.27,Friday,Evening,Clear
+1276,2026-07-03,Coimbatore,COI-04,AC Slow,Type 2,Pay-as-you-go,21.87,59.8,244.56,Friday,Morning,Clear
+1277,2026-07-03,Coimbatore,COI-04,AC Slow,CHAdeMO,Subscriber,17.93,49.1,209.51,Friday,Morning,Cloudy
+1278,2026-07-03,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,8.18,13.6,81.76,Friday,Morning,Clear
+1279,2026-07-03,Chennai,CHE-04,DC Fast,CCS2,Subscriber,9.26,15.9,97.59,Friday,Morning,Cloudy
+1280,2026-07-03,Chennai,CHE-01,AC Slow,Type 2,Pay-as-you-go,23.01,67.3,244.95,Friday,Evening,Clear
+1281,2026-07-03,Chennai,CHE-06,AC Slow,Type 2,Pay-as-you-go,14.82,52.3,146.45,Friday,Afternoon,Cloudy
+1282,2026-07-03,Chennai,CHE-06,DC Fast,CCS2,Subscriber,13.18,28.9,158.46,Friday,Morning,Cloudy
+1283,2026-07-03,Bengaluru,BEN-08,DC Fast,CCS2,Pay-as-you-go,14.04,22.3,163.85,Friday,Afternoon,Clear
+1284,2026-07-03,Bengaluru,BEN-05,DC Fast,CCS2,Pay-as-you-go,14.32,24.0,147.34,Friday,Evening,Clear
+1285,2026-07-03,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,18.23,54.5,193.46,Friday,Morning,Clear
+1286,2026-07-03,Bengaluru,BEN-06,AC Slow,Type 2,Pay-as-you-go,16.67,48.8,165.86,Friday,Night,Clear
+1287,2026-07-03,Bengaluru,BEN-07,AC Slow,CHAdeMO,Subscriber,16.15,55.9,162.16,Friday,Morning,Rain
+1288,2026-07-03,Bengaluru,BEN-04,AC Slow,CHAdeMO,Subscriber,20.16,60.4,244.75,Friday,Morning,Clear
+1289,2026-07-04,Coimbatore,COI-06,AC Slow,CHAdeMO,Subscriber,16.5,49.6,181.64,Saturday,Afternoon,Clear
+1290,2026-07-04,Coimbatore,COI-07,AC Slow,CHAdeMO,Subscriber,17.92,55.6,179.2,Saturday,Afternoon,Clear
+1291,2026-07-04,Coimbatore,COI-02,DC Fast,CCS2,Pay-as-you-go,25.62,40.5,300.53,Saturday,Evening,Clear
+1292,2026-07-04,Chennai,CHE-08,AC Slow,CHAdeMO,Pay-as-you-go,19.29,66.6,200.32,Saturday,Night,Clear
+1293,2026-07-04,Chennai,CHE-03,DC Fast,CCS2,Pay-as-you-go,20.07,34.1,219.93,Saturday,Morning,Clear
+1294,2026-07-04,Chennai,CHE-01,AC Slow,CHAdeMO,Pay-as-you-go,18.45,62.3,183.93,Saturday,Morning,Clear
+1295,2026-07-04,Chennai,CHE-05,DC Fast,CCS2,Subscriber,18.47,31.2,202.82,Saturday,Evening,Cloudy
+1296,2026-07-04,Chennai,CHE-02,DC Fast,CCS2,Pay-as-you-go,16.65,36.5,163.24,Saturday,Afternoon,Clear
+1297,2026-07-04,Chennai,CHE-06,AC Slow,CHAdeMO,Subscriber,24.85,61.9,283.23,Saturday,Night,Cloudy
+1298,2026-07-04,Chennai,CHE-02,DC Fast,CCS2,Subscriber,10.85,20.2,124.09,Saturday,Morning,Clear
+1299,2026-07-04,Chennai,CHE-04,AC Slow,Type 2,Pay-as-you-go,27.94,96.3,302.49,Saturday,Evening,Clear
+1300,2026-07-04,Chennai,CHE-03,AC Slow,Type 2,Subscriber,20.13,56.5,216.22,Saturday,Afternoon,Clear
+1301,2026-07-04,Chennai,CHE-01,AC Slow,CHAdeMO,Subscriber,25.61,69.9,296.62,Saturday,Evening,Clear
+1302,2026-07-04,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,15.76,23.7,195.77,Saturday,Afternoon,Clear
+1303,2026-07-04,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,9.4,15.8,99.76,Saturday,Afternoon,Clear
+1304,2026-07-04,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,17.26,48.1,169.36,Saturday,Evening,Rain
+1305,2026-07-04,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,18.09,63.0,201.37,Saturday,Afternoon,Cloudy
+1306,2026-07-04,Bengaluru,BEN-08,AC Slow,CHAdeMO,Pay-as-you-go,24.3,85.4,247.56,Saturday,Night,Cloudy
+1307,2026-07-04,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,14.6,50.9,139.33,Saturday,Evening,Rain
+1308,2026-07-04,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,7.41,15.9,82.5,Saturday,Afternoon,Rain
+1309,2026-07-04,Bengaluru,BEN-03,DC Fast,CCS2,Pay-as-you-go,32.69,49.5,397.92,Saturday,Evening,Cloudy
+1310,2026-07-04,Bengaluru,BEN-04,AC Slow,Type 2,Subscriber,17.14,53.4,193.03,Saturday,Evening,Cloudy
+1311,2026-07-04,Bengaluru,BEN-07,AC Slow,CHAdeMO,Pay-as-you-go,23.97,71.0,285.6,Saturday,Afternoon,Rain
+1312,2026-07-04,Bengaluru,BEN-06,DC Fast,CCS2,Pay-as-you-go,15.61,33.1,174.51,Saturday,Evening,Cloudy
+1313,2026-07-05,Coimbatore,COI-03,AC Slow,CHAdeMO,Subscriber,14.66,47.4,149.76,Sunday,Night,Clear
+1314,2026-07-05,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,11.75,19.1,112.36,Sunday,Night,Cloudy
+1315,2026-07-05,Coimbatore,COI-03,AC Slow,Type 2,Subscriber,19.27,63.5,184.05,Sunday,Afternoon,Cloudy
+1316,2026-07-05,Coimbatore,COI-04,DC Fast,CCS2,Pay-as-you-go,12.23,25.9,145.31,Sunday,Afternoon,Clear
+1317,2026-07-05,Coimbatore,COI-03,DC Fast,CCS2,Subscriber,6.15,11.8,64.38,Sunday,Evening,Rain
+1318,2026-07-05,Chennai,CHE-03,DC Fast,CCS2,Subscriber,8.08,13.9,80.76,Sunday,Night,Clear
+1319,2026-07-05,Chennai,CHE-01,AC Slow,Type 2,Subscriber,24.6,59.4,247.68,Sunday,Night,Clear
+1320,2026-07-05,Chennai,CHE-08,AC Slow,CHAdeMO,Subscriber,29.64,74.2,320.89,Sunday,Evening,Cloudy
+1321,2026-07-05,Chennai,CHE-02,AC Slow,Type 2,Pay-as-you-go,28.14,73.0,326.7,Sunday,Evening,Clear
+1322,2026-07-05,Chennai,CHE-03,AC Slow,Type 2,Subscriber,20.71,52.0,234.75,Sunday,Night,Cloudy
+1323,2026-07-05,Chennai,CHE-04,AC Slow,Type 2,Subscriber,17.9,49.5,216.46,Sunday,Afternoon,Rain
+1324,2026-07-05,Chennai,CHE-02,AC Slow,Type 2,Pay-as-you-go,22.18,64.0,237.85,Sunday,Afternoon,Rain
+1325,2026-07-05,Chennai,CHE-05,DC Fast,CCS2,Subscriber,14.5,25.3,147.85,Sunday,Evening,Clear
+1326,2026-07-05,Chennai,CHE-08,AC Slow,CHAdeMO,Subscriber,21.38,52.5,265.19,Sunday,Night,Clear
+1327,2026-07-05,Bengaluru,BEN-05,AC Slow,CHAdeMO,Pay-as-you-go,25.41,71.5,276.35,Sunday,Afternoon,Clear
+1328,2026-07-05,Bengaluru,BEN-02,AC Slow,Type 2,Subscriber,14.97,48.1,172.14,Sunday,Evening,Clear
+1329,2026-07-05,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,9.52,21.1,116.36,Sunday,Morning,Clear
+1330,2026-07-05,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,13.28,19.9,143.68,Sunday,Evening,Clear
+1331,2026-07-05,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,27.66,49.8,280.48,Sunday,Evening,Cloudy
+1332,2026-07-05,Bengaluru,BEN-04,DC Fast,CCS2,Pay-as-you-go,13.61,20.7,146.41,Sunday,Morning,Clear
+1333,2026-07-05,Bengaluru,BEN-06,DC Fast,CCS2,Pay-as-you-go,21.57,40.4,260.58,Sunday,Morning,Clear
+1334,2026-07-06,Coimbatore,COI-07,AC Slow,Type 2,Subscriber,16.84,47.1,163.26,Monday,Morning,Clear
+1335,2026-07-06,Coimbatore,COI-08,AC Slow,Type 2,Subscriber,25.49,67.5,278.77,Monday,Morning,Clear
+1336,2026-07-06,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,13.37,23.0,133.87,Monday,Morning,Clear
+1337,2026-07-06,Coimbatore,COI-08,DC Fast,CCS2,Subscriber,16.89,26.3,161.66,Monday,Morning,Clear
+1338,2026-07-06,Coimbatore,COI-01,AC Slow,Type 2,Pay-as-you-go,25.22,64.0,265.45,Monday,Evening,Clear
+1339,2026-07-06,Coimbatore,COI-08,AC Slow,CHAdeMO,Pay-as-you-go,21.22,52.0,211.65,Monday,Afternoon,Clear
+1340,2026-07-06,Chennai,CHE-08,AC Slow,Type 2,Subscriber,27.66,67.4,330.64,Monday,Evening,Clear
+1341,2026-07-06,Chennai,CHE-05,AC Slow,Type 2,Pay-as-you-go,24.89,67.3,267.19,Monday,Evening,Cloudy
+1342,2026-07-06,Chennai,CHE-04,AC Slow,Type 2,Subscriber,28.91,81.9,313.77,Monday,Evening,Cloudy
+1343,2026-07-06,Chennai,CHE-08,DC Fast,CCS2,Subscriber,19.05,42.4,197.19,Monday,Evening,Clear
+1344,2026-07-06,Chennai,CHE-01,AC Slow,CHAdeMO,Pay-as-you-go,17.92,59.5,220.55,Monday,Afternoon,Clear
+1345,2026-07-06,Chennai,CHE-05,DC Fast,CCS2,Subscriber,19.11,40.7,227.99,Monday,Evening,Clear
+1346,2026-07-06,Chennai,CHE-01,AC Slow,Type 2,Pay-as-you-go,30.26,73.7,291.76,Monday,Evening,Clear
+1347,2026-07-06,Bengaluru,BEN-06,AC Slow,CHAdeMO,Pay-as-you-go,19.58,47.2,211.51,Monday,Morning,Cloudy
+1348,2026-07-06,Bengaluru,BEN-07,AC Slow,CHAdeMO,Pay-as-you-go,15.42,50.4,163.26,Monday,Afternoon,Rain
+1349,2026-07-06,Bengaluru,BEN-03,AC Slow,Type 2,Subscriber,18.39,49.6,188.52,Monday,Morning,Clear
+1350,2026-07-06,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,11.65,18.1,142.12,Monday,Evening,Cloudy
+1351,2026-07-06,Bengaluru,BEN-06,AC Slow,CHAdeMO,Subscriber,24.17,59.5,230.86,Monday,Morning,Clear
+1352,2026-07-06,Bengaluru,BEN-03,AC Slow,Type 2,Pay-as-you-go,14.81,44.7,152.82,Monday,Evening,Clear
+1353,2026-07-07,Coimbatore,COI-06,AC Slow,Type 2,Subscriber,17.66,56.7,220.36,Tuesday,Morning,Clear
+1354,2026-07-07,Chennai,CHE-02,DC Fast,CCS2,Subscriber,18.66,29.0,194.05,Tuesday,Morning,Cloudy
+1355,2026-07-07,Chennai,CHE-07,AC Slow,CHAdeMO,Pay-as-you-go,16.52,56.2,179.76,Tuesday,Morning,Clear
+1356,2026-07-07,Chennai,CHE-04,AC Slow,Type 2,Pay-as-you-go,26.14,63.4,290.47,Tuesday,Night,Rain
+1357,2026-07-07,Chennai,CHE-04,DC Fast,CCS2,Subscriber,10.2,22.4,112.86,Tuesday,Morning,Clear
+1358,2026-07-07,Chennai,CHE-03,DC Fast,CCS2,Subscriber,18.92,32.9,217.92,Tuesday,Evening,Clear
+1359,2026-07-07,Chennai,CHE-01,AC Slow,CHAdeMO,Subscriber,31.24,75.9,333.59,Tuesday,Evening,Clear
+1360,2026-07-07,Bengaluru,BEN-03,AC Slow,Type 2,Subscriber,18.03,46.3,215.3,Tuesday,Morning,Rain
+1361,2026-07-07,Bengaluru,BEN-03,AC Slow,CHAdeMO,Pay-as-you-go,16.78,49.3,170.58,Tuesday,Afternoon,Rain
+1362,2026-07-07,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,14.68,29.2,173.07,Tuesday,Morning,Clear
+1363,2026-07-07,Bengaluru,BEN-07,AC Slow,CHAdeMO,Pay-as-you-go,23.96,61.1,272.9,Tuesday,Afternoon,Clear
+1364,2026-07-07,Bengaluru,BEN-03,AC Slow,Type 2,Pay-as-you-go,14.64,46.9,153.67,Tuesday,Evening,Rain
+1365,2026-07-07,Bengaluru,BEN-07,AC Slow,Type 2,Pay-as-you-go,21.59,62.6,252.03,Tuesday,Evening,Clear
+1366,2026-07-07,Bengaluru,BEN-03,AC Slow,CHAdeMO,Pay-as-you-go,19.93,52.2,214.78,Tuesday,Afternoon,Clear
+1367,2026-07-07,Bengaluru,BEN-01,AC Slow,Type 2,Pay-as-you-go,17.03,54.4,208.38,Tuesday,Evening,Clear
+1368,2026-07-07,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,11.72,26.1,119.09,Tuesday,Morning,Rain
+1369,2026-07-08,Coimbatore,COI-03,DC Fast,CCS2,Pay-as-you-go,16.31,26.3,186.76,Wednesday,Afternoon,Clear
+1370,2026-07-08,Coimbatore,COI-05,DC Fast,CCS2,Pay-as-you-go,12.39,21.7,148.74,Wednesday,Morning,Clear
+1371,2026-07-08,Coimbatore,COI-05,AC Slow,Type 2,Pay-as-you-go,19.79,50.3,241.73,Wednesday,Morning,Clear
+1372,2026-07-08,Coimbatore,COI-05,AC Slow,CHAdeMO,Pay-as-you-go,17.02,55.5,177.56,Wednesday,Night,Clear
+1373,2026-07-08,Chennai,CHE-03,AC Slow,Type 2,Subscriber,17.25,56.8,199.31,Wednesday,Morning,Cloudy
+1374,2026-07-08,Chennai,CHE-05,DC Fast,CCS2,Subscriber,16.51,27.2,181.27,Wednesday,Evening,Clear
+1375,2026-07-08,Chennai,CHE-01,AC Slow,Type 2,Subscriber,18.47,50.5,213.57,Wednesday,Morning,Clear
+1376,2026-07-08,Chennai,CHE-02,AC Slow,Type 2,Subscriber,16.97,57.1,196.57,Wednesday,Morning,Cloudy
+1377,2026-07-08,Chennai,CHE-07,DC Fast,CCS2,Pay-as-you-go,8.41,17.2,103.27,Wednesday,Night,Cloudy
+1378,2026-07-08,Chennai,CHE-03,AC Slow,Type 2,Subscriber,28.24,67.5,338.65,Wednesday,Evening,Clear
+1379,2026-07-08,Bengaluru,BEN-04,AC Slow,CHAdeMO,Subscriber,23.28,62.1,253.14,Wednesday,Morning,Clear
+1380,2026-07-08,Bengaluru,BEN-03,AC Slow,CHAdeMO,Pay-as-you-go,20.46,56.1,227.07,Wednesday,Night,Cloudy
+1381,2026-07-08,Bengaluru,BEN-01,AC Slow,CHAdeMO,Subscriber,15.74,54.4,174.73,Wednesday,Evening,Clear
+1382,2026-07-08,Bengaluru,BEN-07,AC Slow,CHAdeMO,Pay-as-you-go,17.18,53.0,164.43,Wednesday,Afternoon,Clear
+1383,2026-07-08,Bengaluru,BEN-08,AC Slow,Type 2,Pay-as-you-go,17.91,54.3,209.67,Wednesday,Night,Clear
+1384,2026-07-08,Bengaluru,BEN-08,AC Slow,CHAdeMO,Pay-as-you-go,14.61,41.0,173.76,Wednesday,Evening,Rain
+1385,2026-07-08,Bengaluru,BEN-07,DC Fast,CCS2,Pay-as-you-go,12.59,22.8,137.69,Wednesday,Evening,Clear
+1386,2026-07-08,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,14.95,52.7,150.48,Wednesday,Morning,Rain
+1387,2026-07-08,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,20.75,54.6,224.42,Wednesday,Morning,Clear
+1388,2026-07-08,Bengaluru,BEN-07,AC Slow,CHAdeMO,Subscriber,20.52,49.5,239.05,Wednesday,Evening,Clear
+1389,2026-07-09,Coimbatore,COI-05,AC Slow,CHAdeMO,Subscriber,16.49,55.5,171.9,Thursday,Evening,Cloudy
+1390,2026-07-09,Coimbatore,COI-07,AC Slow,CHAdeMO,Pay-as-you-go,20.91,54.0,228.38,Thursday,Morning,Clear
+1391,2026-07-09,Coimbatore,COI-04,DC Fast,CCS2,Pay-as-you-go,10.26,19.3,103.5,Thursday,Evening,Rain
+1392,2026-07-09,Coimbatore,COI-08,DC Fast,CCS2,Subscriber,5.64,11.6,61.62,Thursday,Evening,Rain
+1393,2026-07-09,Coimbatore,COI-06,DC Fast,CCS2,Subscriber,20.13,31.1,238.07,Thursday,Morning,Cloudy
+1394,2026-07-09,Chennai,CHE-08,DC Fast,CCS2,Subscriber,8.01,16.5,90.22,Thursday,Morning,Clear
+1395,2026-07-09,Chennai,CHE-08,DC Fast,CCS2,Subscriber,15.12,25.0,151.58,Thursday,Evening,Rain
+1396,2026-07-09,Chennai,CHE-03,DC Fast,CCS2,Subscriber,11.62,21.7,129.38,Thursday,Morning,Clear
+1397,2026-07-09,Chennai,CHE-04,AC Slow,Type 2,Subscriber,19.26,66.4,196.0,Thursday,Evening,Clear
+1398,2026-07-09,Chennai,CHE-06,DC Fast,CCS2,Subscriber,18.75,30.4,229.4,Thursday,Evening,Rain
+1399,2026-07-09,Chennai,CHE-04,DC Fast,CCS2,Subscriber,4.13,8.3,42.31,Thursday,Morning,Cloudy
+1400,2026-07-09,Chennai,CHE-03,AC Slow,CHAdeMO,Pay-as-you-go,14.73,49.3,150.5,Thursday,Night,Clear
+1401,2026-07-09,Chennai,CHE-07,AC Slow,CHAdeMO,Subscriber,22.54,57.8,253.82,Thursday,Morning,Cloudy
+1402,2026-07-09,Chennai,CHE-01,AC Slow,CHAdeMO,Pay-as-you-go,18.5,48.6,224.79,Thursday,Afternoon,Clear
+1403,2026-07-09,Chennai,CHE-07,AC Slow,Type 2,Pay-as-you-go,21.38,51.2,266.05,Thursday,Night,Cloudy
+1404,2026-07-09,Chennai,CHE-03,DC Fast,CCS2,Pay-as-you-go,16.0,28.5,198.31,Thursday,Morning,Clear
+1405,2026-07-09,Bengaluru,BEN-04,AC Slow,CHAdeMO,Subscriber,18.73,56.0,227.75,Thursday,Evening,Rain
+1406,2026-07-09,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,12.99,27.3,136.72,Thursday,Night,Clear
+1407,2026-07-09,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,10.08,16.4,123.54,Thursday,Morning,Rain
+1408,2026-07-09,Bengaluru,BEN-07,AC Slow,Type 2,Subscriber,14.55,39.6,155.2,Thursday,Morning,Cloudy
+1409,2026-07-10,Coimbatore,COI-01,AC Slow,CHAdeMO,Subscriber,11.77,40.6,136.52,Friday,Evening,Clear
+1410,2026-07-10,Coimbatore,COI-04,AC Slow,Type 2,Subscriber,21.79,63.4,213.7,Friday,Morning,Clear
+1411,2026-07-10,Coimbatore,COI-01,AC Slow,Type 2,Subscriber,16.18,54.3,160.55,Friday,Morning,Clear
+1412,2026-07-10,Coimbatore,COI-05,AC Slow,Type 2,Pay-as-you-go,26.09,64.0,253.96,Friday,Morning,Clear
+1413,2026-07-10,Chennai,CHE-05,DC Fast,CCS2,Pay-as-you-go,18.47,33.3,228.64,Friday,Evening,Clear
+1414,2026-07-10,Chennai,CHE-02,AC Slow,Type 2,Subscriber,25.15,62.6,260.65,Friday,Morning,Rain
+1415,2026-07-10,Chennai,CHE-03,AC Slow,Type 2,Pay-as-you-go,22.4,66.3,237.14,Friday,Evening,Rain
+1416,2026-07-10,Bengaluru,BEN-06,DC Fast,CCS2,Pay-as-you-go,9.22,15.2,102.46,Friday,Morning,Cloudy
+1417,2026-07-10,Bengaluru,BEN-02,AC Slow,CHAdeMO,Subscriber,20.31,54.3,246.09,Friday,Morning,Clear
+1418,2026-07-10,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,19.17,62.2,209.16,Friday,Morning,Clear
+1419,2026-07-10,Bengaluru,BEN-05,DC Fast,CCS2,Pay-as-you-go,10.67,23.0,107.19,Friday,Night,Clear
+1420,2026-07-10,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,23.05,40.7,278.8,Friday,Evening,Cloudy
+1421,2026-07-10,Bengaluru,BEN-08,AC Slow,Type 2,Subscriber,13.83,45.9,132.27,Friday,Morning,Rain
+1422,2026-07-10,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,7.43,14.6,85.15,Friday,Evening,Clear
+1423,2026-07-10,Bengaluru,BEN-02,AC Slow,CHAdeMO,Subscriber,18.02,52.0,224.26,Friday,Evening,Cloudy
+1424,2026-07-11,Coimbatore,COI-06,AC Slow,Type 2,Subscriber,21.26,57.0,259.98,Saturday,Morning,Cloudy
+1425,2026-07-11,Coimbatore,COI-02,AC Slow,Type 2,Subscriber,17.86,42.8,169.91,Saturday,Evening,Clear
+1426,2026-07-11,Coimbatore,COI-01,AC Slow,Type 2,Subscriber,19.01,56.6,183.69,Saturday,Morning,Clear
+1427,2026-07-11,Chennai,CHE-08,AC Slow,Type 2,Subscriber,18.33,58.0,175.78,Saturday,Afternoon,Clear
+1428,2026-07-11,Chennai,CHE-07,DC Fast,CCS2,Subscriber,13.69,26.0,138.91,Saturday,Afternoon,Cloudy
+1429,2026-07-11,Chennai,CHE-06,DC Fast,CCS2,Subscriber,19.68,36.7,203.87,Saturday,Afternoon,Clear
+1430,2026-07-11,Chennai,CHE-08,DC Fast,CCS2,Pay-as-you-go,20.13,38.1,213.75,Saturday,Evening,Clear
+1431,2026-07-11,Chennai,CHE-03,DC Fast,CCS2,Subscriber,25.92,41.4,247.09,Saturday,Evening,Clear
+1432,2026-07-11,Chennai,CHE-06,DC Fast,CCS2,Subscriber,13.99,23.7,166.89,Saturday,Morning,Rain
+1433,2026-07-11,Chennai,CHE-03,DC Fast,CCS2,Subscriber,12.89,26.8,146.75,Saturday,Afternoon,Clear
+1434,2026-07-11,Chennai,CHE-06,DC Fast,CCS2,Pay-as-you-go,31.54,47.1,335.53,Saturday,Evening,Clear
+1435,2026-07-11,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,18.63,62.0,214.78,Saturday,Morning,Clear
+1436,2026-07-11,Bengaluru,BEN-05,AC Slow,Type 2,Pay-as-you-go,20.06,67.3,244.55,Saturday,Evening,Cloudy
+1437,2026-07-11,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,17.17,29.4,193.92,Saturday,Evening,Rain
+1438,2026-07-11,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,11.41,19.2,113.47,Saturday,Evening,Clear
+1439,2026-07-11,Bengaluru,BEN-08,DC Fast,CCS2,Pay-as-you-go,33.95,55.4,351.65,Saturday,Night,Clear
+1440,2026-07-11,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,12.3,26.3,132.92,Saturday,Morning,Cloudy
+1441,2026-07-11,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,13.44,23.2,134.98,Saturday,Evening,Rain
+1442,2026-07-11,Bengaluru,BEN-04,AC Slow,CHAdeMO,Subscriber,16.87,53.2,188.93,Saturday,Afternoon,Cloudy
+1443,2026-07-11,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,9.51,15.5,95.39,Saturday,Evening,Cloudy
+1444,2026-07-12,Coimbatore,COI-06,AC Slow,Type 2,Subscriber,23.56,56.9,228.07,Sunday,Evening,Clear
+1445,2026-07-12,Coimbatore,COI-01,AC Slow,CHAdeMO,Pay-as-you-go,20.4,51.5,229.62,Sunday,Afternoon,Rain
+1446,2026-07-12,Coimbatore,COI-02,DC Fast,CCS2,Pay-as-you-go,20.75,33.5,208.23,Sunday,Night,Clear
+1447,2026-07-12,Coimbatore,COI-04,AC Slow,Type 2,Subscriber,25.64,61.6,270.63,Sunday,Evening,Clear
+1448,2026-07-12,Coimbatore,COI-01,AC Slow,CHAdeMO,Pay-as-you-go,32.61,89.7,331.24,Sunday,Morning,Clear
+1449,2026-07-12,Chennai,CHE-06,DC Fast,CCS2,Pay-as-you-go,19.75,30.8,190.93,Sunday,Afternoon,Rain
+1450,2026-07-12,Chennai,CHE-08,AC Slow,Type 2,Subscriber,19.85,59.4,202.53,Sunday,Afternoon,Clear
+1451,2026-07-12,Chennai,CHE-05,AC Slow,CHAdeMO,Subscriber,27.39,74.5,296.07,Sunday,Evening,Rain
+1452,2026-07-12,Chennai,CHE-08,DC Fast,CCS2,Subscriber,12.63,24.1,135.94,Sunday,Evening,Clear
+1453,2026-07-12,Chennai,CHE-08,DC Fast,CCS2,Pay-as-you-go,21.42,36.3,241.8,Sunday,Afternoon,Clear
+1454,2026-07-12,Chennai,CHE-06,AC Slow,Type 2,Subscriber,22.42,63.8,229.46,Sunday,Morning,Clear
+1455,2026-07-12,Bengaluru,BEN-06,AC Slow,Type 2,Pay-as-you-go,25.67,66.2,307.85,Sunday,Night,Clear
+1456,2026-07-12,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,17.97,33.4,200.16,Sunday,Afternoon,Clear
+1457,2026-07-12,Bengaluru,BEN-05,AC Slow,Type 2,Pay-as-you-go,22.6,74.5,245.09,Sunday,Evening,Clear
+1458,2026-07-12,Bengaluru,BEN-07,AC Slow,Type 2,Subscriber,14.08,42.4,150.59,Sunday,Night,Rain
+1459,2026-07-12,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,11.08,22.2,106.25,Sunday,Afternoon,Clear
+1460,2026-07-12,Bengaluru,BEN-02,AC Slow,CHAdeMO,Subscriber,16.49,52.1,205.57,Sunday,Evening,Clear
+1461,2026-07-12,Bengaluru,BEN-05,AC Slow,Type 2,Subscriber,15.48,40.0,191.91,Sunday,Afternoon,Rain
+1462,2026-07-12,Bengaluru,BEN-04,AC Slow,CHAdeMO,Pay-as-you-go,23.19,66.1,253.36,Sunday,Morning,Clear
+1463,2026-07-12,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,13.9,22.7,164.91,Sunday,Evening,Rain
+1464,2026-07-12,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,16.23,52.0,191.66,Sunday,Evening,Rain
+1465,2026-07-13,Coimbatore,COI-02,DC Fast,CCS2,Subscriber,8.42,16.5,84.21,Monday,Evening,Rain
+1466,2026-07-13,Coimbatore,COI-04,AC Slow,CHAdeMO,Subscriber,19.32,49.3,238.3,Monday,Evening,Cloudy
+1467,2026-07-13,Coimbatore,COI-04,AC Slow,CHAdeMO,Subscriber,20.6,65.5,237.76,Monday,Morning,Clear
+1468,2026-07-13,Coimbatore,COI-04,AC Slow,Type 2,Subscriber,18.37,61.1,212.31,Monday,Morning,Clear
+1469,2026-07-13,Chennai,CHE-04,AC Slow,Type 2,Pay-as-you-go,17.69,56.4,182.58,Monday,Morning,Cloudy
+1470,2026-07-13,Chennai,CHE-04,AC Slow,Type 2,Pay-as-you-go,22.37,58.0,224.38,Monday,Night,Clear
+1471,2026-07-13,Chennai,CHE-01,DC Fast,CCS2,Pay-as-you-go,12.68,22.8,140.04,Monday,Night,Cloudy
+1472,2026-07-13,Chennai,CHE-03,AC Slow,Type 2,Subscriber,19.33,51.8,219.22,Monday,Morning,Clear
+1473,2026-07-13,Chennai,CHE-02,DC Fast,CCS2,Subscriber,14.78,29.0,157.97,Monday,Evening,Clear
+1474,2026-07-13,Chennai,CHE-07,AC Slow,Type 2,Subscriber,21.8,66.5,232.54,Monday,Evening,Rain
+1475,2026-07-13,Chennai,CHE-04,DC Fast,CCS2,Subscriber,21.33,35.6,229.92,Monday,Morning,Cloudy
+1476,2026-07-13,Chennai,CHE-08,AC Slow,Type 2,Pay-as-you-go,17.08,54.7,172.21,Monday,Morning,Clear
+1477,2026-07-13,Chennai,CHE-03,AC Slow,Type 2,Pay-as-you-go,15.45,51.8,154.51,Monday,Morning,Clear
+1478,2026-07-13,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,15.65,30.9,177.39,Monday,Evening,Clear
+1479,2026-07-13,Bengaluru,BEN-01,DC Fast,CCS2,Pay-as-you-go,17.38,29.1,175.11,Monday,Evening,Clear
+1480,2026-07-13,Bengaluru,BEN-03,DC Fast,CCS2,Pay-as-you-go,10.41,16.2,124.8,Monday,Afternoon,Clear
+1481,2026-07-13,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,13.41,27.2,156.76,Monday,Morning,Clear
+1482,2026-07-13,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,16.1,52.6,185.37,Monday,Evening,Clear
+1483,2026-07-13,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,20.27,55.2,227.7,Monday,Morning,Rain
+1484,2026-07-13,Bengaluru,BEN-03,AC Slow,Type 2,Subscriber,20.46,59.9,250.17,Monday,Morning,Cloudy
+1485,2026-07-14,Coimbatore,COI-03,AC Slow,CHAdeMO,Subscriber,17.91,53.1,192.74,Tuesday,Evening,Cloudy
+1486,2026-07-14,Chennai,CHE-05,DC Fast,CCS2,Pay-as-you-go,15.52,30.9,158.98,Tuesday,Evening,Clear
+1487,2026-07-14,Chennai,CHE-02,DC Fast,CCS2,Pay-as-you-go,6.15,11.5,58.99,Tuesday,Night,Cloudy
+1488,2026-07-14,Chennai,CHE-06,AC Slow,CHAdeMO,Subscriber,17.71,53.2,177.95,Tuesday,Morning,Clear
+1489,2026-07-14,Chennai,CHE-02,AC Slow,Type 2,Subscriber,17.9,53.1,198.17,Tuesday,Morning,Clear
+1490,2026-07-14,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,10.96,17.2,128.53,Tuesday,Morning,Rain
+1491,2026-07-15,Coimbatore,COI-01,DC Fast,CCS2,Subscriber,7.84,14.1,88.33,Wednesday,Morning,Clear
+1492,2026-07-15,Coimbatore,COI-01,DC Fast,CCS2,Subscriber,11.85,18.4,116.67,Wednesday,Morning,Rain
+1493,2026-07-15,Coimbatore,COI-07,AC Slow,Type 2,Subscriber,18.85,49.9,207.87,Wednesday,Morning,Rain
+1494,2026-07-15,Coimbatore,COI-05,AC Slow,CHAdeMO,Pay-as-you-go,18.73,63.3,200.36,Wednesday,Afternoon,Clear
+1495,2026-07-15,Coimbatore,COI-04,DC Fast,CCS2,Pay-as-you-go,11.51,22.1,113.15,Wednesday,Afternoon,Rain
+1496,2026-07-15,Chennai,CHE-06,AC Slow,CHAdeMO,Subscriber,11.98,42.0,146.86,Wednesday,Morning,Clear
+1497,2026-07-15,Chennai,CHE-07,DC Fast,CCS2,Subscriber,9.98,16.5,120.04,Wednesday,Morning,Clear
+1498,2026-07-15,Chennai,CHE-01,AC Slow,Type 2,Subscriber,21.86,73.2,210.65,Wednesday,Evening,Clear
+1499,2026-07-15,Chennai,CHE-05,AC Slow,CHAdeMO,Pay-as-you-go,22.69,62.9,271.83,Wednesday,Afternoon,Clear
+1500,2026-07-15,Chennai,CHE-07,AC Slow,Type 2,Subscriber,19.4,57.7,189.79,Wednesday,Morning,Cloudy
+1501,2026-07-15,Chennai,CHE-02,DC Fast,CCS2,Subscriber,23.34,43.5,249.36,Wednesday,Evening,Clear
+1502,2026-07-15,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,10.61,17.8,105.3,Wednesday,Evening,Cloudy
+1503,2026-07-15,Bengaluru,BEN-02,AC Slow,CHAdeMO,Subscriber,17.37,52.7,200.19,Wednesday,Morning,Cloudy
+1504,2026-07-15,Bengaluru,BEN-02,AC Slow,Type 2,Subscriber,17.57,60.2,194.55,Wednesday,Evening,Clear
+1505,2026-07-15,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,20.28,58.0,217.99,Wednesday,Morning,Rain
+1506,2026-07-15,Bengaluru,BEN-04,AC Slow,CHAdeMO,Subscriber,17.63,46.6,171.67,Wednesday,Evening,Clear
+1507,2026-07-15,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,21.4,52.6,256.75,Wednesday,Morning,Clear
+1508,2026-07-15,Bengaluru,BEN-03,AC Slow,CHAdeMO,Pay-as-you-go,21.51,60.4,204.66,Wednesday,Afternoon,Clear
+1509,2026-07-16,Coimbatore,COI-06,AC Slow,CHAdeMO,Pay-as-you-go,21.02,60.6,224.79,Thursday,Morning,Clear
+1510,2026-07-16,Coimbatore,COI-03,AC Slow,CHAdeMO,Subscriber,17.02,48.7,164.25,Thursday,Morning,Clear
+1511,2026-07-16,Coimbatore,COI-05,DC Fast,CCS2,Pay-as-you-go,14.2,23.7,150.69,Thursday,Morning,Cloudy
+1512,2026-07-16,Coimbatore,COI-03,DC Fast,CCS2,Pay-as-you-go,11.82,17.7,122.12,Thursday,Morning,Clear
+1513,2026-07-16,Coimbatore,COI-01,AC Slow,Type 2,Pay-as-you-go,19.56,55.8,191.09,Thursday,Morning,Clear
+1514,2026-07-16,Coimbatore,COI-06,AC Slow,Type 2,Pay-as-you-go,19.43,53.2,196.07,Thursday,Morning,Clear
+1515,2026-07-16,Coimbatore,COI-06,DC Fast,CCS2,Subscriber,7.5,16.6,76.52,Thursday,Evening,Clear
+1516,2026-07-16,Chennai,CHE-03,AC Slow,Type 2,Subscriber,23.55,59.9,282.95,Thursday,Morning,Clear
+1517,2026-07-16,Chennai,CHE-04,AC Slow,Type 2,Subscriber,24.32,71.8,302.31,Thursday,Evening,Rain
+1518,2026-07-16,Chennai,CHE-06,DC Fast,CCS2,Subscriber,16.06,28.7,178.55,Thursday,Evening,Clear
+1519,2026-07-16,Chennai,CHE-02,AC Slow,Type 2,Subscriber,24.34,66.0,301.07,Thursday,Morning,Cloudy
+1520,2026-07-16,Chennai,CHE-01,DC Fast,CCS2,Subscriber,20.11,30.3,229.39,Thursday,Evening,Clear
+1521,2026-07-16,Chennai,CHE-07,AC Slow,Type 2,Pay-as-you-go,18.18,51.2,188.23,Thursday,Night,Clear
+1522,2026-07-16,Chennai,CHE-06,DC Fast,CCS2,Subscriber,11.34,19.4,117.54,Thursday,Morning,Cloudy
+1523,2026-07-16,Chennai,CHE-05,DC Fast,CCS2,Subscriber,32.89,53.0,316.47,Thursday,Evening,Clear
+1524,2026-07-16,Bengaluru,BEN-06,AC Slow,Type 2,Subscriber,22.69,55.4,275.66,Thursday,Morning,Clear
+1525,2026-07-16,Bengaluru,BEN-06,AC Slow,CHAdeMO,Subscriber,18.16,56.4,186.24,Thursday,Evening,Clear
+1526,2026-07-16,Bengaluru,BEN-07,AC Slow,Type 2,Pay-as-you-go,19.77,47.9,199.29,Thursday,Night,Clear
+1527,2026-07-16,Bengaluru,BEN-07,AC Slow,Type 2,Pay-as-you-go,20.98,54.7,242.79,Thursday,Afternoon,Rain
+1528,2026-07-16,Bengaluru,BEN-01,AC Slow,CHAdeMO,Subscriber,19.31,51.7,216.44,Thursday,Morning,Clear
+1529,2026-07-16,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,9.77,20.8,102.08,Thursday,Morning,Clear
+1530,2026-07-16,Bengaluru,BEN-05,AC Slow,Type 2,Subscriber,21.64,52.4,220.8,Thursday,Evening,Clear
+1531,2026-07-16,Bengaluru,BEN-06,DC Fast,CCS2,Subscriber,7.97,12.7,92.75,Thursday,Morning,Rain
+1532,2026-07-16,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,6.13,10.5,63.08,Thursday,Morning,Clear
+1533,2026-07-17,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,8.89,18.8,103.88,Friday,Evening,Clear
+1534,2026-07-17,Coimbatore,COI-02,DC Fast,CCS2,Subscriber,11.33,18.7,107.64,Friday,Morning,Clear
+1535,2026-07-17,Coimbatore,COI-02,AC Slow,CHAdeMO,Subscriber,17.24,57.4,199.66,Friday,Morning,Clear
+1536,2026-07-17,Coimbatore,COI-06,DC Fast,CCS2,Subscriber,13.03,28.4,145.52,Friday,Evening,Cloudy
+1537,2026-07-17,Coimbatore,COI-04,AC Slow,Type 2,Pay-as-you-go,20.99,60.7,221.29,Friday,Evening,Rain
+1538,2026-07-17,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,9.92,19.7,112.77,Friday,Morning,Clear
+1539,2026-07-17,Chennai,CHE-07,DC Fast,CCS2,Subscriber,19.31,36.0,190.37,Friday,Evening,Cloudy
+1540,2026-07-17,Chennai,CHE-02,DC Fast,CCS2,Subscriber,11.39,24.3,127.15,Friday,Morning,Clear
+1541,2026-07-17,Chennai,CHE-08,AC Slow,CHAdeMO,Subscriber,23.75,72.2,254.36,Friday,Evening,Cloudy
+1542,2026-07-17,Chennai,CHE-07,AC Slow,CHAdeMO,Subscriber,21.68,68.1,268.0,Friday,Evening,Rain
+1543,2026-07-17,Chennai,CHE-06,DC Fast,CCS2,Pay-as-you-go,15.5,32.5,185.72,Friday,Evening,Rain
+1544,2026-07-17,Chennai,CHE-03,DC Fast,CCS2,Pay-as-you-go,34.51,55.3,404.65,Friday,Evening,Clear
+1545,2026-07-17,Chennai,CHE-03,AC Slow,Type 2,Subscriber,23.42,61.8,291.23,Friday,Morning,Clear
+1546,2026-07-17,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,15.8,28.7,152.07,Friday,Morning,Clear
+1547,2026-07-17,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,22.64,65.3,222.56,Friday,Morning,Clear
+1548,2026-07-17,Bengaluru,BEN-06,AC Slow,Type 2,Pay-as-you-go,23.22,60.6,271.56,Friday,Morning,Clear
+1549,2026-07-17,Bengaluru,BEN-02,AC Slow,Type 2,Subscriber,21.5,61.5,234.9,Friday,Evening,Clear
+1550,2026-07-17,Bengaluru,BEN-01,DC Fast,CCS2,Pay-as-you-go,10.46,23.1,109.37,Friday,Evening,Clear
+1551,2026-07-17,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,20.53,53.1,223.16,Friday,Morning,Clear
+1552,2026-07-17,Bengaluru,BEN-06,DC Fast,CCS2,Subscriber,9.53,20.1,111.7,Friday,Evening,Clear
+1553,2026-07-17,Bengaluru,BEN-02,AC Slow,Type 2,Subscriber,22.16,62.8,267.2,Friday,Morning,Clear
+1554,2026-07-18,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,8.35,13.0,100.64,Saturday,Evening,Rain
+1555,2026-07-18,Coimbatore,COI-05,AC Slow,CHAdeMO,Subscriber,18.38,51.1,218.73,Saturday,Night,Rain
+1556,2026-07-18,Coimbatore,COI-02,AC Slow,Type 2,Subscriber,13.69,45.9,155.82,Saturday,Afternoon,Clear
+1557,2026-07-18,Coimbatore,COI-03,AC Slow,Type 2,Subscriber,22.05,63.2,256.85,Saturday,Night,Clear
+1558,2026-07-18,Coimbatore,COI-03,AC Slow,CHAdeMO,Subscriber,19.83,50.8,195.18,Saturday,Morning,Clear
+1559,2026-07-18,Chennai,CHE-02,DC Fast,CCS2,Subscriber,13.16,20.2,139.05,Saturday,Afternoon,Clear
+1560,2026-07-18,Chennai,CHE-07,DC Fast,CCS2,Subscriber,12.48,24.2,127.05,Saturday,Night,Clear
+1561,2026-07-18,Chennai,CHE-08,AC Slow,Type 2,Subscriber,14.12,45.6,134.62,Saturday,Night,Clear
+1562,2026-07-18,Chennai,CHE-04,DC Fast,CCS2,Subscriber,21.78,41.0,240.47,Saturday,Evening,Clear
+1563,2026-07-18,Chennai,CHE-08,DC Fast,CCS2,Pay-as-you-go,19.96,40.7,225.47,Saturday,Afternoon,Clear
+1564,2026-07-18,Chennai,CHE-04,AC Slow,CHAdeMO,Pay-as-you-go,21.33,63.4,228.29,Saturday,Night,Cloudy
+1565,2026-07-18,Chennai,CHE-08,AC Slow,CHAdeMO,Pay-as-you-go,29.33,83.6,298.44,Saturday,Morning,Clear
+1566,2026-07-18,Chennai,CHE-07,DC Fast,CCS2,Subscriber,13.22,23.4,150.43,Saturday,Night,Clear
+1567,2026-07-18,Chennai,CHE-04,AC Slow,Type 2,Pay-as-you-go,27.14,80.1,301.2,Saturday,Night,Clear
+1568,2026-07-18,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,16.11,55.6,177.7,Saturday,Morning,Clear
+1569,2026-07-18,Chennai,CHE-01,DC Fast,CCS2,Subscriber,13.49,21.7,168.25,Saturday,Morning,Rain
+1570,2026-07-18,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,13.92,23.6,168.25,Saturday,Evening,Cloudy
+1571,2026-07-18,Bengaluru,BEN-01,AC Slow,CHAdeMO,Subscriber,21.39,55.7,250.43,Saturday,Night,Cloudy
+1572,2026-07-18,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,27.16,53.4,271.78,Saturday,Evening,Clear
+1573,2026-07-18,Bengaluru,BEN-01,DC Fast,CCS2,Pay-as-you-go,29.55,50.9,352.54,Saturday,Evening,Rain
+1574,2026-07-19,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,10.87,23.3,117.63,Sunday,Evening,Cloudy
+1575,2026-07-19,Coimbatore,COI-03,AC Slow,CHAdeMO,Subscriber,15.18,54.0,155.51,Sunday,Afternoon,Clear
+1576,2026-07-19,Coimbatore,COI-03,AC Slow,Type 2,Subscriber,19.45,52.4,239.92,Sunday,Afternoon,Clear
+1577,2026-07-19,Coimbatore,COI-08,AC Slow,Type 2,Pay-as-you-go,24.02,77.3,297.51,Sunday,Afternoon,Clear
+1578,2026-07-19,Chennai,CHE-08,AC Slow,Type 2,Subscriber,18.93,65.7,218.89,Sunday,Night,Clear
+1579,2026-07-19,Chennai,CHE-05,DC Fast,CCS2,Subscriber,14.29,21.7,147.71,Sunday,Morning,Clear
+1580,2026-07-19,Chennai,CHE-03,AC Slow,CHAdeMO,Pay-as-you-go,29.69,103.4,307.72,Sunday,Afternoon,Clear
+1581,2026-07-19,Chennai,CHE-01,DC Fast,CCS2,Pay-as-you-go,18.63,36.3,178.18,Sunday,Afternoon,Clear
+1582,2026-07-19,Chennai,CHE-06,DC Fast,CCS2,Subscriber,12.05,20.5,124.73,Sunday,Afternoon,Clear
+1583,2026-07-19,Chennai,CHE-05,AC Slow,Type 2,Pay-as-you-go,24.53,84.0,265.32,Sunday,Evening,Clear
+1584,2026-07-19,Chennai,CHE-02,DC Fast,CCS2,Subscriber,15.86,25.0,162.68,Sunday,Evening,Clear
+1585,2026-07-19,Chennai,CHE-02,AC Slow,Type 2,Subscriber,19.13,56.5,217.92,Sunday,Afternoon,Clear
+1586,2026-07-19,Chennai,CHE-01,DC Fast,CCS2,Pay-as-you-go,22.78,41.2,218.63,Sunday,Morning,Clear
+1587,2026-07-19,Chennai,CHE-07,DC Fast,CCS2,Subscriber,18.78,30.6,221.01,Sunday,Afternoon,Clear
+1588,2026-07-19,Bengaluru,BEN-03,DC Fast,CCS2,Pay-as-you-go,21.5,41.2,258.92,Sunday,Afternoon,Clear
+1589,2026-07-19,Bengaluru,BEN-04,AC Slow,Type 2,Subscriber,15.6,45.3,184.7,Sunday,Evening,Cloudy
+1590,2026-07-19,Bengaluru,BEN-05,AC Slow,CHAdeMO,Pay-as-you-go,23.46,72.3,238.17,Sunday,Afternoon,Clear
+1591,2026-07-19,Bengaluru,BEN-08,AC Slow,CHAdeMO,Pay-as-you-go,23.77,70.6,295.74,Sunday,Morning,Rain
+1592,2026-07-19,Bengaluru,BEN-06,DC Fast,CCS2,Subscriber,15.76,24.6,191.26,Sunday,Evening,Clear
+1593,2026-07-19,Bengaluru,BEN-06,DC Fast,CCS2,Pay-as-you-go,16.79,34.9,185.98,Sunday,Afternoon,Clear
+1594,2026-07-19,Bengaluru,BEN-03,AC Slow,CHAdeMO,Pay-as-you-go,27.32,77.5,298.63,Sunday,Evening,Cloudy
+1595,2026-07-19,Bengaluru,BEN-02,AC Slow,CHAdeMO,Subscriber,19.83,54.3,201.55,Sunday,Evening,Clear
+1596,2026-07-19,Bengaluru,BEN-04,AC Slow,CHAdeMO,Subscriber,13.03,42.0,128.73,Sunday,Morning,Clear
+1597,2026-07-19,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,15.96,24.0,154.21,Sunday,Afternoon,Clear
+1598,2026-07-19,Bengaluru,BEN-06,AC Slow,CHAdeMO,Subscriber,25.75,61.8,250.49,Sunday,Afternoon,Clear
+1599,2026-07-19,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,21.31,37.7,227.53,Sunday,Afternoon,Clear
+1600,2026-07-19,Bengaluru,BEN-01,AC Slow,Type 2,Subscriber,19.62,50.9,219.89,Sunday,Afternoon,Rain
+1601,2026-07-19,Bengaluru,BEN-02,AC Slow,Type 2,Pay-as-you-go,24.41,82.6,279.76,Sunday,Night,Clear
+1602,2026-07-20,Coimbatore,COI-04,DC Fast,CCS2,Pay-as-you-go,14.87,25.2,169.15,Monday,Evening,Rain
+1603,2026-07-20,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,9.68,17.4,108.34,Monday,Evening,Clear
+1604,2026-07-20,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,8.34,14.1,100.68,Monday,Morning,Clear
+1605,2026-07-20,Coimbatore,COI-08,AC Slow,CHAdeMO,Subscriber,19.25,49.7,206.74,Monday,Morning,Clear
+1606,2026-07-20,Coimbatore,COI-03,DC Fast,CCS2,Pay-as-you-go,8.54,18.4,88.2,Monday,Evening,Clear
+1607,2026-07-20,Coimbatore,COI-08,DC Fast,CCS2,Pay-as-you-go,10.25,16.5,124.14,Monday,Evening,Clear
+1608,2026-07-20,Chennai,CHE-08,AC Slow,CHAdeMO,Pay-as-you-go,20.66,54.7,215.96,Monday,Afternoon,Clear
+1609,2026-07-20,Chennai,CHE-04,AC Slow,Type 2,Pay-as-you-go,22.87,62.7,243.09,Monday,Evening,Rain
+1610,2026-07-20,Chennai,CHE-08,DC Fast,CCS2,Pay-as-you-go,11.41,21.2,134.5,Monday,Afternoon,Clear
+1611,2026-07-20,Chennai,CHE-07,AC Slow,Type 2,Pay-as-you-go,22.75,58.3,232.02,Monday,Afternoon,Clear
+1612,2026-07-20,Chennai,CHE-05,AC Slow,Type 2,Subscriber,21.96,60.8,268.05,Monday,Evening,Clear
+1613,2026-07-20,Chennai,CHE-03,DC Fast,CCS2,Subscriber,17.81,30.0,221.0,Monday,Evening,Clear
+1614,2026-07-20,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,21.98,75.0,257.99,Monday,Evening,Cloudy
+1615,2026-07-20,Bengaluru,BEN-01,AC Slow,CHAdeMO,Subscriber,22.79,62.1,284.53,Monday,Morning,Clear
+1616,2026-07-20,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,13.38,24.8,160.47,Monday,Morning,Clear
+1617,2026-07-20,Bengaluru,BEN-08,AC Slow,CHAdeMO,Subscriber,14.2,45.4,138.12,Monday,Morning,Rain
+1618,2026-07-20,Bengaluru,BEN-02,AC Slow,CHAdeMO,Subscriber,15.24,48.2,155.98,Monday,Evening,Clear
+1619,2026-07-20,Bengaluru,BEN-08,DC Fast,CCS2,Subscriber,11.91,21.4,117.56,Monday,Evening,Clear
+1620,2026-07-20,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,10.13,20.3,99.49,Monday,Evening,Cloudy
+1621,2026-07-21,Coimbatore,COI-02,DC Fast,CCS2,Pay-as-you-go,15.11,24.5,149.47,Tuesday,Evening,Clear
+1622,2026-07-21,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,14.48,27.1,162.7,Tuesday,Evening,Clear
+1623,2026-07-21,Coimbatore,COI-04,AC Slow,CHAdeMO,Subscriber,13.94,39.9,160.61,Tuesday,Morning,Rain
+1624,2026-07-21,Coimbatore,COI-07,AC Slow,CHAdeMO,Subscriber,19.7,69.6,211.51,Tuesday,Morning,Cloudy
+1625,2026-07-21,Coimbatore,COI-01,DC Fast,CCS2,Pay-as-you-go,15.25,29.4,150.78,Tuesday,Afternoon,Cloudy
+1626,2026-07-21,Chennai,CHE-01,DC Fast,CCS2,Subscriber,16.46,24.6,202.8,Tuesday,Morning,Clear
+1627,2026-07-21,Chennai,CHE-08,AC Slow,CHAdeMO,Subscriber,20.39,57.8,222.86,Tuesday,Morning,Clear
+1628,2026-07-21,Chennai,CHE-06,AC Slow,CHAdeMO,Subscriber,19.15,50.1,226.49,Tuesday,Morning,Cloudy
+1629,2026-07-21,Chennai,CHE-08,DC Fast,CCS2,Subscriber,17.06,32.5,202.99,Tuesday,Morning,Cloudy
+1630,2026-07-21,Chennai,CHE-08,DC Fast,CCS2,Pay-as-you-go,13.43,28.6,162.43,Tuesday,Evening,Clear
+1631,2026-07-21,Chennai,CHE-06,AC Slow,Type 2,Pay-as-you-go,27.0,78.9,319.39,Tuesday,Evening,Rain
+1632,2026-07-21,Chennai,CHE-05,DC Fast,CCS2,Subscriber,20.91,32.0,215.4,Tuesday,Morning,Clear
+1633,2026-07-21,Chennai,CHE-08,AC Slow,Type 2,Subscriber,26.2,65.1,302.5,Tuesday,Evening,Clear
+1634,2026-07-21,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,9.06,15.0,111.9,Tuesday,Morning,Rain
+1635,2026-07-21,Bengaluru,BEN-08,DC Fast,CCS2,Pay-as-you-go,6.91,10.7,85.24,Tuesday,Night,Cloudy
+1636,2026-07-21,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,11.19,17.9,134.73,Tuesday,Morning,Clear
+1637,2026-07-21,Bengaluru,BEN-03,AC Slow,Type 2,Subscriber,18.88,46.6,208.05,Tuesday,Evening,Rain
+1638,2026-07-21,Bengaluru,BEN-03,DC Fast,CCS2,Pay-as-you-go,13.24,27.3,135.48,Tuesday,Morning,Clear
+1639,2026-07-21,Bengaluru,BEN-04,AC Slow,CHAdeMO,Pay-as-you-go,18.17,51.0,203.43,Tuesday,Afternoon,Clear
+1640,2026-07-22,Coimbatore,COI-03,AC Slow,CHAdeMO,Pay-as-you-go,10.94,37.3,126.85,Wednesday,Morning,Rain
+1641,2026-07-22,Coimbatore,COI-06,DC Fast,CCS2,Pay-as-you-go,11.94,24.2,131.84,Wednesday,Night,Cloudy
+1642,2026-07-22,Chennai,CHE-04,DC Fast,CCS2,Pay-as-you-go,9.25,15.8,109.83,Wednesday,Morning,Clear
+1643,2026-07-22,Chennai,CHE-08,AC Slow,CHAdeMO,Subscriber,26.95,64.3,318.63,Wednesday,Evening,Clear
+1644,2026-07-22,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,21.87,55.1,267.46,Wednesday,Morning,Cloudy
+1645,2026-07-22,Chennai,CHE-02,DC Fast,CCS2,Subscriber,16.02,28.5,194.37,Wednesday,Morning,Cloudy
+1646,2026-07-22,Chennai,CHE-01,AC Slow,Type 2,Subscriber,19.62,64.4,224.32,Wednesday,Evening,Clear
+1647,2026-07-22,Chennai,CHE-08,AC Slow,Type 2,Subscriber,23.71,72.5,296.14,Wednesday,Evening,Cloudy
+1648,2026-07-22,Chennai,CHE-01,DC Fast,CCS2,Subscriber,21.93,33.8,256.7,Wednesday,Morning,Rain
+1649,2026-07-22,Chennai,CHE-01,AC Slow,Type 2,Pay-as-you-go,23.07,57.3,256.71,Wednesday,Evening,Rain
+1650,2026-07-22,Bengaluru,BEN-06,DC Fast,CCS2,Subscriber,13.54,24.0,130.96,Wednesday,Morning,Clear
+1651,2026-07-22,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,14.69,25.5,157.82,Wednesday,Morning,Clear
+1652,2026-07-22,Bengaluru,BEN-01,DC Fast,CCS2,Subscriber,11.3,17.0,124.02,Wednesday,Morning,Cloudy
+1653,2026-07-22,Bengaluru,BEN-05,AC Slow,Type 2,Pay-as-you-go,19.15,53.6,193.92,Wednesday,Morning,Clear
+1654,2026-07-23,Coimbatore,COI-03,DC Fast,CCS2,Pay-as-you-go,9.5,17.3,113.86,Thursday,Morning,Rain
+1655,2026-07-23,Coimbatore,COI-01,AC Slow,Type 2,Subscriber,17.02,42.2,212.69,Thursday,Morning,Cloudy
+1656,2026-07-23,Coimbatore,COI-08,AC Slow,Type 2,Pay-as-you-go,15.83,55.1,185.12,Thursday,Evening,Clear
+1657,2026-07-23,Coimbatore,COI-03,DC Fast,CCS2,Subscriber,8.38,14.5,87.5,Thursday,Evening,Cloudy
+1658,2026-07-23,Coimbatore,COI-07,DC Fast,CCS2,Subscriber,13.75,27.9,149.44,Thursday,Morning,Cloudy
+1659,2026-07-23,Coimbatore,COI-03,AC Slow,CHAdeMO,Subscriber,21.31,51.8,228.1,Thursday,Morning,Rain
+1660,2026-07-23,Coimbatore,COI-07,AC Slow,Type 2,Pay-as-you-go,22.8,55.5,276.84,Thursday,Morning,Clear
+1661,2026-07-23,Chennai,CHE-01,AC Slow,CHAdeMO,Subscriber,15.56,45.5,158.61,Thursday,Morning,Rain
+1662,2026-07-23,Chennai,CHE-02,DC Fast,CCS2,Subscriber,13.6,28.8,160.74,Thursday,Morning,Clear
+1663,2026-07-23,Chennai,CHE-04,AC Slow,Type 2,Pay-as-you-go,22.52,62.5,276.71,Thursday,Evening,Cloudy
+1664,2026-07-23,Chennai,CHE-02,DC Fast,CCS2,Pay-as-you-go,18.35,28.2,181.79,Thursday,Morning,Clear
+1665,2026-07-23,Chennai,CHE-06,AC Slow,CHAdeMO,Subscriber,24.43,60.4,289.1,Thursday,Morning,Clear
+1666,2026-07-23,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,12.73,20.8,146.41,Thursday,Night,Cloudy
+1667,2026-07-23,Bengaluru,BEN-06,AC Slow,Type 2,Pay-as-you-go,12.98,46.3,152.06,Thursday,Afternoon,Clear
+1668,2026-07-23,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,8.57,18.0,86.16,Thursday,Morning,Cloudy
+1669,2026-07-23,Bengaluru,BEN-08,AC Slow,Type 2,Subscriber,14.86,49.8,174.72,Thursday,Evening,Rain
+1670,2026-07-23,Bengaluru,BEN-07,DC Fast,CCS2,Subscriber,6.02,12.8,67.52,Thursday,Evening,Cloudy
+1671,2026-07-23,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,13.36,20.0,136.35,Thursday,Morning,Clear
+1672,2026-07-23,Bengaluru,BEN-01,DC Fast,CCS2,Pay-as-you-go,7.69,13.0,83.96,Thursday,Morning,Clear
+1673,2026-07-23,Bengaluru,BEN-06,AC Slow,CHAdeMO,Pay-as-you-go,18.24,51.5,178.9,Thursday,Evening,Clear
+1674,2026-07-23,Bengaluru,BEN-05,DC Fast,CCS2,Pay-as-you-go,11.45,18.9,119.42,Thursday,Evening,Clear
+1675,2026-07-24,Coimbatore,COI-04,AC Slow,CHAdeMO,Pay-as-you-go,21.16,59.8,229.33,Friday,Morning,Clear
+1676,2026-07-24,Coimbatore,COI-03,AC Slow,Type 2,Pay-as-you-go,20.24,58.3,215.12,Friday,Evening,Clear
+1677,2026-07-24,Coimbatore,COI-06,AC Slow,CHAdeMO,Subscriber,19.23,55.9,195.44,Friday,Morning,Clear
+1678,2026-07-24,Coimbatore,COI-01,DC Fast,CCS2,Subscriber,10.1,17.3,120.18,Friday,Morning,Clear
+1679,2026-07-24,Coimbatore,COI-06,DC Fast,CCS2,Subscriber,14.25,21.5,150.56,Friday,Evening,Cloudy
+1680,2026-07-24,Coimbatore,COI-08,AC Slow,Type 2,Pay-as-you-go,15.67,50.6,168.52,Friday,Afternoon,Cloudy
+1681,2026-07-24,Coimbatore,COI-08,AC Slow,Type 2,Subscriber,19.13,48.2,235.77,Friday,Morning,Clear
+1682,2026-07-24,Coimbatore,COI-01,AC Slow,Type 2,Subscriber,19.21,59.1,183.38,Friday,Evening,Clear
+1683,2026-07-24,Chennai,CHE-06,AC Slow,Type 2,Subscriber,32.67,79.1,337.4,Friday,Evening,Cloudy
+1684,2026-07-24,Chennai,CHE-06,DC Fast,CCS2,Pay-as-you-go,9.69,16.1,117.12,Friday,Night,Rain
+1685,2026-07-24,Chennai,CHE-06,AC Slow,Type 2,Subscriber,17.19,58.1,172.55,Friday,Morning,Clear
+1686,2026-07-24,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,27.96,81.0,304.9,Friday,Evening,Clear
+1687,2026-07-24,Bengaluru,BEN-04,AC Slow,Type 2,Pay-as-you-go,22.72,57.2,261.8,Friday,Evening,Clear
+1688,2026-07-24,Bengaluru,BEN-04,AC Slow,CHAdeMO,Subscriber,23.23,55.5,249.35,Friday,Evening,Cloudy
+1689,2026-07-24,Bengaluru,BEN-01,DC Fast,CCS2,Pay-as-you-go,19.51,34.5,217.85,Friday,Evening,Clear
+1690,2026-07-24,Bengaluru,BEN-01,AC Slow,CHAdeMO,Pay-as-you-go,18.69,50.3,196.82,Friday,Morning,Rain
+1691,2026-07-24,Bengaluru,BEN-06,AC Slow,Type 2,Pay-as-you-go,15.61,42.6,181.46,Friday,Morning,Clear
+1692,2026-07-25,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,6.81,13.8,70.65,Saturday,Afternoon,Clear
+1693,2026-07-25,Coimbatore,COI-04,AC Slow,CHAdeMO,Subscriber,20.15,51.7,211.96,Saturday,Afternoon,Rain
+1694,2026-07-25,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,19.0,29.8,231.57,Saturday,Afternoon,Clear
+1695,2026-07-25,Coimbatore,COI-01,AC Slow,CHAdeMO,Subscriber,16.57,53.3,174.49,Saturday,Morning,Cloudy
+1696,2026-07-25,Coimbatore,COI-03,DC Fast,CCS2,Pay-as-you-go,28.12,48.7,267.86,Saturday,Night,Clear
+1697,2026-07-25,Chennai,CHE-07,AC Slow,CHAdeMO,Subscriber,22.36,57.0,269.98,Saturday,Night,Clear
+1698,2026-07-25,Chennai,CHE-07,DC Fast,CCS2,Subscriber,9.85,16.9,112.22,Saturday,Night,Clear
+1699,2026-07-25,Chennai,CHE-06,AC Slow,CHAdeMO,Subscriber,24.94,64.7,288.01,Saturday,Evening,Clear
+1700,2026-07-25,Chennai,CHE-01,DC Fast,CCS2,Subscriber,13.47,20.7,146.32,Saturday,Evening,Rain
+1701,2026-07-25,Chennai,CHE-04,AC Slow,Type 2,Pay-as-you-go,19.76,61.1,205.48,Saturday,Afternoon,Clear
+1702,2026-07-25,Chennai,CHE-03,DC Fast,CCS2,Pay-as-you-go,20.54,32.9,243.3,Saturday,Night,Rain
+1703,2026-07-25,Chennai,CHE-07,AC Slow,Type 2,Subscriber,20.26,62.0,216.24,Saturday,Night,Cloudy
+1704,2026-07-25,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,12.23,24.9,150.19,Saturday,Evening,Cloudy
+1705,2026-07-25,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,26.73,50.4,316.35,Saturday,Afternoon,Cloudy
+1706,2026-07-25,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,18.15,29.9,211.08,Saturday,Night,Clear
+1707,2026-07-25,Bengaluru,BEN-03,DC Fast,CCS2,Pay-as-you-go,16.75,29.2,171.39,Saturday,Afternoon,Rain
+1708,2026-07-25,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,21.63,34.5,259.49,Saturday,Afternoon,Clear
+1709,2026-07-25,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,16.45,31.6,184.14,Saturday,Evening,Clear
+1710,2026-07-25,Bengaluru,BEN-05,AC Slow,Type 2,Pay-as-you-go,27.76,71.9,318.76,Saturday,Evening,Clear
+1711,2026-07-25,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,15.37,27.3,152.71,Saturday,Morning,Clear
+1712,2026-07-25,Bengaluru,BEN-07,AC Slow,Type 2,Subscriber,14.94,53.0,170.83,Saturday,Evening,Clear
+1713,2026-07-25,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,8.37,18.1,97.23,Saturday,Afternoon,Cloudy
+1714,2026-07-25,Bengaluru,BEN-03,DC Fast,CCS2,Subscriber,14.21,27.0,152.11,Saturday,Afternoon,Clear
+1715,2026-07-26,Coimbatore,COI-06,DC Fast,CCS2,Pay-as-you-go,17.48,27.5,177.12,Sunday,Afternoon,Clear
+1716,2026-07-26,Coimbatore,COI-06,DC Fast,CCS2,Subscriber,13.95,24.7,161.02,Sunday,Evening,Cloudy
+1717,2026-07-26,Coimbatore,COI-02,DC Fast,CCS2,Subscriber,14.5,23.7,178.05,Sunday,Morning,Clear
+1718,2026-07-26,Chennai,CHE-03,AC Slow,CHAdeMO,Pay-as-you-go,21.73,63.6,264.96,Sunday,Morning,Cloudy
+1719,2026-07-26,Chennai,CHE-01,DC Fast,CCS2,Subscriber,16.93,37.2,166.54,Sunday,Evening,Clear
+1720,2026-07-26,Chennai,CHE-08,DC Fast,CCS2,Subscriber,11.97,21.0,149.3,Sunday,Morning,Clear
+1721,2026-07-26,Chennai,CHE-03,AC Slow,CHAdeMO,Pay-as-you-go,18.72,64.1,226.19,Sunday,Night,Cloudy
+1722,2026-07-26,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,29.09,74.3,298.75,Sunday,Evening,Rain
+1723,2026-07-26,Chennai,CHE-04,DC Fast,CCS2,Subscriber,15.76,33.1,193.26,Sunday,Afternoon,Clear
+1724,2026-07-26,Bengaluru,BEN-07,AC Slow,Type 2,Subscriber,24.81,60.6,304.3,Sunday,Evening,Clear
+1725,2026-07-26,Bengaluru,BEN-02,DC Fast,CCS2,Pay-as-you-go,22.56,39.7,271.95,Sunday,Evening,Rain
+1726,2026-07-26,Bengaluru,BEN-05,AC Slow,CHAdeMO,Subscriber,17.44,55.3,204.26,Sunday,Afternoon,Cloudy
+1727,2026-07-26,Bengaluru,BEN-01,DC Fast,CCS2,Pay-as-you-go,24.06,36.8,294.12,Sunday,Afternoon,Clear
+1728,2026-07-26,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,4.94,8.0,53.49,Sunday,Evening,Rain
+1729,2026-07-26,Bengaluru,BEN-01,AC Slow,CHAdeMO,Subscriber,18.79,50.6,197.27,Sunday,Night,Clear
+1730,2026-07-26,Bengaluru,BEN-03,AC Slow,CHAdeMO,Subscriber,16.31,52.3,170.5,Sunday,Afternoon,Cloudy
+1731,2026-07-26,Bengaluru,BEN-04,AC Slow,Type 2,Pay-as-you-go,25.38,69.0,295.62,Sunday,Night,Clear
+1732,2026-07-26,Bengaluru,BEN-02,AC Slow,Type 2,Subscriber,21.57,52.2,229.04,Sunday,Evening,Cloudy
+1733,2026-07-26,Bengaluru,BEN-01,DC Fast,CCS2,Pay-as-you-go,25.12,43.8,297.34,Sunday,Night,Clear
+1734,2026-07-26,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,10.65,18.5,117.9,Sunday,Night,Clear
+1735,2026-07-26,Bengaluru,BEN-05,DC Fast,CCS2,Pay-as-you-go,21.24,43.1,219.15,Sunday,Evening,Clear
+1736,2026-07-26,Bengaluru,BEN-02,AC Slow,CHAdeMO,Pay-as-you-go,36.14,89.3,450.37,Sunday,Night,Clear
+1737,2026-07-27,Coimbatore,COI-04,AC Slow,CHAdeMO,Pay-as-you-go,17.76,45.5,215.52,Monday,Afternoon,Rain
+1738,2026-07-27,Coimbatore,COI-07,DC Fast,CCS2,Subscriber,11.68,21.0,116.45,Monday,Evening,Rain
+1739,2026-07-27,Coimbatore,COI-03,AC Slow,CHAdeMO,Pay-as-you-go,23.84,61.5,254.86,Monday,Night,Clear
+1740,2026-07-27,Coimbatore,COI-08,AC Slow,CHAdeMO,Pay-as-you-go,16.97,51.6,209.28,Monday,Evening,Clear
+1741,2026-07-27,Coimbatore,COI-03,DC Fast,CCS2,Pay-as-you-go,12.5,24.0,128.66,Monday,Evening,Clear
+1742,2026-07-27,Coimbatore,COI-03,AC Slow,CHAdeMO,Pay-as-you-go,22.62,55.8,243.17,Monday,Morning,Clear
+1743,2026-07-27,Chennai,CHE-01,DC Fast,CCS2,Pay-as-you-go,20.15,33.2,242.42,Monday,Evening,Clear
+1744,2026-07-27,Chennai,CHE-08,DC Fast,CCS2,Pay-as-you-go,22.68,48.6,263.94,Monday,Evening,Clear
+1745,2026-07-27,Chennai,CHE-03,AC Slow,CHAdeMO,Pay-as-you-go,17.47,44.9,170.04,Monday,Morning,Rain
+1746,2026-07-27,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,20.22,50.9,201.34,Monday,Morning,Clear
+1747,2026-07-27,Chennai,CHE-07,DC Fast,CCS2,Subscriber,19.83,34.0,200.36,Monday,Evening,Rain
+1748,2026-07-27,Chennai,CHE-06,DC Fast,CCS2,Subscriber,29.03,54.2,285.24,Monday,Evening,Clear
+1749,2026-07-27,Chennai,CHE-05,DC Fast,CCS2,Pay-as-you-go,9.95,17.6,103.64,Monday,Morning,Rain
+1750,2026-07-27,Chennai,CHE-08,AC Slow,CHAdeMO,Pay-as-you-go,21.68,68.5,261.21,Monday,Morning,Clear
+1751,2026-07-27,Chennai,CHE-01,DC Fast,CCS2,Pay-as-you-go,8.17,16.2,96.43,Monday,Morning,Clear
+1752,2026-07-27,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,26.1,69.0,290.89,Monday,Evening,Clear
+1753,2026-07-27,Bengaluru,BEN-01,AC Slow,Type 2,Pay-as-you-go,17.61,54.3,188.48,Monday,Evening,Cloudy
+1754,2026-07-27,Bengaluru,BEN-02,AC Slow,Type 2,Subscriber,20.39,54.2,241.27,Monday,Evening,Clear
+1755,2026-07-27,Bengaluru,BEN-01,AC Slow,Type 2,Subscriber,19.82,60.6,218.51,Monday,Evening,Clear
+1756,2026-07-27,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,15.98,32.9,162.3,Monday,Morning,Cloudy
+1757,2026-07-27,Bengaluru,BEN-06,DC Fast,CCS2,Pay-as-you-go,14.82,23.8,171.48,Monday,Afternoon,Clear
+1758,2026-07-27,Bengaluru,BEN-04,DC Fast,CCS2,Subscriber,6.92,13.1,81.87,Monday,Evening,Clear
+1759,2026-07-28,Coimbatore,COI-04,AC Slow,Type 2,Pay-as-you-go,16.67,55.8,179.27,Tuesday,Evening,Cloudy
+1760,2026-07-28,Coimbatore,COI-03,AC Slow,CHAdeMO,Subscriber,26.15,66.5,299.47,Tuesday,Evening,Cloudy
+1761,2026-07-28,Coimbatore,COI-03,DC Fast,CCS2,Subscriber,14.32,25.9,161.0,Tuesday,Morning,Clear
+1762,2026-07-28,Coimbatore,COI-07,DC Fast,CCS2,Pay-as-you-go,5.07,8.0,61.73,Tuesday,Morning,Cloudy
+1763,2026-07-28,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,13.98,27.8,163.32,Tuesday,Morning,Clear
+1764,2026-07-28,Chennai,CHE-03,AC Slow,Type 2,Subscriber,18.55,64.2,196.96,Tuesday,Morning,Cloudy
+1765,2026-07-28,Chennai,CHE-05,DC Fast,CCS2,Subscriber,11.09,19.8,106.72,Tuesday,Morning,Clear
+1766,2026-07-28,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,25.72,62.3,256.36,Tuesday,Morning,Cloudy
+1767,2026-07-28,Chennai,CHE-03,AC Slow,CHAdeMO,Pay-as-you-go,15.97,39.9,185.22,Tuesday,Morning,Rain
+1768,2026-07-28,Chennai,CHE-03,AC Slow,Type 2,Subscriber,30.73,74.9,341.14,Tuesday,Evening,Clear
+1769,2026-07-28,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,21.31,60.9,250.28,Tuesday,Morning,Clear
+1770,2026-07-28,Chennai,CHE-07,AC Slow,CHAdeMO,Pay-as-you-go,14.73,44.6,179.19,Tuesday,Morning,Clear
+1771,2026-07-28,Chennai,CHE-02,AC Slow,Type 2,Subscriber,19.14,58.8,236.84,Tuesday,Morning,Clear
+1772,2026-07-28,Bengaluru,BEN-08,AC Slow,Type 2,Pay-as-you-go,25.48,61.0,268.35,Tuesday,Evening,Cloudy
+1773,2026-07-28,Bengaluru,BEN-03,AC Slow,Type 2,Pay-as-you-go,20.04,54.0,227.6,Tuesday,Afternoon,Cloudy
+1774,2026-07-28,Bengaluru,BEN-03,DC Fast,CCS2,Pay-as-you-go,11.28,17.1,110.65,Tuesday,Night,Clear
+1775,2026-07-28,Bengaluru,BEN-06,DC Fast,CCS2,Subscriber,17.11,26.9,204.65,Tuesday,Morning,Clear
+1776,2026-07-28,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,7.69,15.5,75.5,Tuesday,Evening,Cloudy
+1777,2026-07-28,Bengaluru,BEN-07,AC Slow,CHAdeMO,Subscriber,26.16,62.6,292.13,Tuesday,Morning,Clear
+1778,2026-07-28,Bengaluru,BEN-02,AC Slow,Type 2,Pay-as-you-go,18.52,50.0,182.12,Tuesday,Morning,Cloudy
+1779,2026-07-29,Coimbatore,COI-04,DC Fast,CCS2,Subscriber,9.36,17.3,99.1,Wednesday,Evening,Clear
+1780,2026-07-29,Coimbatore,COI-06,DC Fast,CCS2,Pay-as-you-go,13.04,25.1,142.76,Wednesday,Morning,Clear
+1781,2026-07-29,Coimbatore,COI-05,DC Fast,CCS2,Subscriber,18.48,29.6,188.14,Wednesday,Evening,Clear
+1782,2026-07-29,Coimbatore,COI-08,AC Slow,CHAdeMO,Subscriber,14.69,47.8,142.44,Wednesday,Evening,Cloudy
+1783,2026-07-29,Coimbatore,COI-04,AC Slow,Type 2,Subscriber,23.54,57.3,275.73,Wednesday,Morning,Rain
+1784,2026-07-29,Chennai,CHE-05,AC Slow,Type 2,Pay-as-you-go,19.99,70.3,236.25,Wednesday,Evening,Rain
+1785,2026-07-29,Chennai,CHE-04,AC Slow,CHAdeMO,Subscriber,20.21,53.6,197.61,Wednesday,Morning,Rain
+1786,2026-07-29,Chennai,CHE-02,AC Slow,CHAdeMO,Subscriber,20.76,62.5,239.61,Wednesday,Morning,Rain
+1787,2026-07-29,Chennai,CHE-04,DC Fast,CCS2,Subscriber,27.56,43.1,278.48,Wednesday,Evening,Clear
+1788,2026-07-29,Chennai,CHE-02,AC Slow,Type 2,Pay-as-you-go,27.07,65.3,314.02,Wednesday,Evening,Cloudy
+1789,2026-07-29,Chennai,CHE-01,DC Fast,CCS2,Subscriber,27.96,45.6,285.81,Wednesday,Evening,Rain
+1790,2026-07-29,Chennai,CHE-05,DC Fast,CCS2,Pay-as-you-go,11.27,19.9,127.94,Wednesday,Night,Clear
+1791,2026-07-29,Chennai,CHE-06,AC Slow,CHAdeMO,Pay-as-you-go,19.62,52.4,187.41,Wednesday,Afternoon,Clear
+1792,2026-07-29,Chennai,CHE-07,AC Slow,CHAdeMO,Pay-as-you-go,22.07,69.3,262.18,Wednesday,Evening,Clear
+1793,2026-07-29,Chennai,CHE-06,DC Fast,CCS2,Subscriber,13.91,23.9,173.14,Wednesday,Morning,Clear
+1794,2026-07-29,Chennai,CHE-03,AC Slow,CHAdeMO,Subscriber,18.39,52.9,181.58,Wednesday,Morning,Clear
+1795,2026-07-29,Bengaluru,BEN-05,DC Fast,CCS2,Subscriber,12.79,25.0,124.32,Wednesday,Morning,Clear
+1796,2026-07-29,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,13.11,23.4,147.44,Wednesday,Morning,Cloudy
+1797,2026-07-29,Bengaluru,BEN-06,AC Slow,Type 2,Pay-as-you-go,17.04,55.0,202.33,Wednesday,Night,Clear
+1798,2026-07-29,Bengaluru,BEN-03,DC Fast,CCS2,Pay-as-you-go,14.14,23.9,157.51,Wednesday,Evening,Clear
+1799,2026-07-29,Bengaluru,BEN-02,DC Fast,CCS2,Subscriber,14.61,25.8,179.07,Wednesday,Morning,Clear
+1800,2026-07-29,Bengaluru,BEN-08,DC Fast,CCS2,Pay-as-you-go,15.1,23.4,186.87,Wednesday,Night,Cloudy
